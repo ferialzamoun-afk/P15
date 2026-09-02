@@ -1,0 +1,1048 @@
+﻿id,date_premiere_observation,date_derniere_observation,statut_observation,duree_observation_jours,duree_publication_observee_jours,rome_code,rome_libelle,type_contrat,alternance,region_derniere_connue,mot_cle_collecte
+203KFZL,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,213,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data analyst
+8813032,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,189,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),MIS,False,Ile-de-France,machine learning
+8813533,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,189,M1405,Data scientist,MIS,False,Auvergne-Rhône-Alpes,data scientist
+8813627,2026-08-14 18:45:52+02,2026-08-14 18:45:52+02,Disparue,0,189,M1896,Analyste cycle de vie dans les télécoms,MIS,False,Ile-de-France,ml
+9329595,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,175,M1405,Data scientist,CDI,False,Nouvelle-Aquitaine,data scientist
+9832165,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,180,M1702,Planneur / Planneuse stratégique,CDI,False,Ile-de-France,data engineer senior
+9850911,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,180,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+0811342,2026-08-14 18:45:54+02,2026-08-31 21:32:27+02,Disparue,17,157,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),MIS,False,Pays de la Loire,mlops engineer
+0962836,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,136,M1405,Data scientist,CDD,True,Ile-de-France,data scientist
+206MMXC,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,147,M1811,Data engineer,CDI,False,Grand Est,data engineer
+206MVGZ,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,130,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+206RHRP,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,144,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+1458668,2026-08-14 18:45:51+02,2026-08-31 21:32:28+02,Disparue,17,138,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+1474166,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,138,M1811,Data engineer,MIS,False,Ile-de-France,data engineer senior
+206ZGTB,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,121,M1811,Data engineer,CDI,False,Occitanie,data engineer
+1567497,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,137,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+1763224,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,131,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),MIS,False,Ile-de-France,developpeur ia
+1852694,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,130,K2402,Ingénieur / Ingénieure de recherche scientifique,CDI,False,Occitanie,data scientist
+1917828,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,128,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+1918184,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,128,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+1918195,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,128,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+1918201,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,128,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+1918204,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,128,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+1918344,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,128,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+2042756,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,125,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+2056685,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,124,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+2119466,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,123,M1811,Data engineer,CDI,False,Bretagne,data engineer senior
+2297118,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,117,M1861,Développeur / Développeuse logiciel ou d'application,CDI,False,Bretagne,developpeur ia
+2319548,2026-08-14 18:41:07+02,2026-08-31 21:32:26+02,Disparue,17,117,M1101,Acheteur / Acheteuse,CDI,False,Ile-de-France,data scientist senior
+207XTTK,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,117,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Normandie,developpeur ia
+2393226,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,116,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+2395866,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,116,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+208BNFF,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,113,M1811,Data engineer,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+208GHBL,2026-08-14 18:41:06+02,2026-08-31 21:32:25+02,Disparue,17,110,M1419,Data analyst,CDI,False,Ile-de-France,data analyst junior
+208GWSK,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,110,M1861,Développeur / Développeuse logiciel ou d'application,CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+2653953,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,109,M1811,Data engineer,MIS,False,Hauts-de-France,data engineer senior
+2654034,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,109,M1811,Data engineer,MIS,False,Hauts-de-France,data engineer senior
+2807212,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,103,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Occitanie,developpeur ia
+2849107,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,102,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+2860521,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,85,M1811,Data engineer,CDI,False,Ile-de-France,data scientist
+208XHQV,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,78,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+3144612,2026-08-14 18:45:51+02,2026-08-31 21:32:24+02,Disparue,17,95,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),MIS,False,Ile-de-France,mlops
+3154825,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,94,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+208XSBK,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,94,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+3190315,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,77,F1112,Ingénieur / Ingénieure calcul et structure,CDD,True,Occitanie,data scientist
+209BDSM,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,74,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Grand Est,devops
+209BQHR,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,90,M1204,Contrôleur / Contrôleuse de gestion,CDD,False,Occitanie,business analyst
+209CJFW,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,73,M1419,Data analyst,CDD,True,Auvergne-Rhône-Alpes,data analyst
+209FGJM,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,89,D1106,Vendeur / Vendeuse en épicerie,CDD,True,Ile-de-France,machine learning
+209FJBB,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,72,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+209HPND,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,87,M1419,Data analyst,CDI,False,Centre-Val de Loire,data analyst
+209HSQC,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,70,M1419,Data analyst,CDD,False,Centre-Val de Loire,data analyst
+209HVPX,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,87,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Bretagne,devops
+209JNLV,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,87,M1827,Ingénieur / Ingénieure DevOps,CDD,True,Occitanie,devops
+3535364,2026-08-31 21:32:29+02,2026-08-31 21:32:29+02,Disparue,0,86,M1818,Ingénieur / Ingénieure d'étude informatique,CDI,False,Provence-Alpes-Côte d'Azur,genai
+3535420,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,86,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+209LXCS,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,66,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+209MYZF,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,66,M1405,Data scientist,CDI,False,Occitanie,machine learning
+3617339,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,82,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+3617352,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,82,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+3684719,2026-08-31 21:32:24+02,2026-08-31 21:32:24+02,Disparue,0,81,M1419,Data analyst,CDI,False,Bretagne,data analyst senior
+209SPGN,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,77,M1811,Data engineer,CDD,True,Ile-de-France,data engineer
+3805211,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,76,M1855,Développeur / Développeuse web,CDI,False,Ile-de-France,developpeur ia
+209VCCG,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,59,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+3850813,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,76,M1811,Data engineer,MIS,False,Ile-de-France,data scientist
+3851440,2026-08-14 18:41:07+02,2026-08-31 21:32:26+02,Disparue,17,76,M1405,Data scientist,MIS,False,Hauts-de-France,data scientist senior
+3858563,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,76,M1405,Data scientist,CDI,False,Bourgogne-Franche-Comté,data scientist
+3872184,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,75,M1855,Développeur / Développeuse web,MIS,False,Ile-de-France,developpeur ia
+3883451,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,58,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,machine learning
+3941310,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,74,M1419,Data analyst,CDD,True,Ile-de-France,data scientist
+209ZBRT,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,57,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Nouvelle-Aquitaine,devops
+209ZLVD,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,73,M1811,Data engineer,CDI,False,Bourgogne-Franche-Comté,data engineer
+210CCLL,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,70,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Bourgogne-Franche-Comté,devops
+210FFXM,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,52,M1405,Data scientist,CDD,False,Ile-de-France,data scientist
+210FJKM,2026-08-14 18:41:07+02,2026-08-31 21:32:26+02,Disparue,17,69,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+210FLQL,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,52,M1811,Data engineer,CDD,False,Auvergne-Rhône-Alpes,data engineer
+210GFTY,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,68,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Grand Est,business analyst
+4208880,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,67,M1868,Architecte base de données,CDI,False,Ile-de-France,data engineer senior
+210JKPY,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,67,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDD,False,Ile-de-France,business analyst
+4255989,2026-08-31 21:32:29+02,2026-08-31 21:32:29+02,Disparue,0,66,H1218,Responsable de projet recherche et développement,CDI,False,Ile-de-France,genai
+4256001,2026-08-31 21:32:29+02,2026-08-31 21:32:29+02,Disparue,0,66,C1120,Conseiller / Conseillère en études actuarielles,CDI,False,Ile-de-France,genai
+4256027,2026-08-31 21:32:29+02,2026-08-31 21:32:29+02,Disparue,0,66,M1429,Consultant / Consultante en management,CDI,False,Ile-de-France,genai
+210JQWV,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,66,M1419,Data analyst,CDI,False,Grand Est,data analyst
+210KHBP,2026-08-14 18:41:07+02,2026-08-14 18:41:08+02,Disparue,0,49,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data engineer
+210KJYH,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,66,M1811,Data engineer,CDI,False,Bourgogne-Franche-Comté,data engineer
+4336301,2026-08-14 18:45:51+02,2026-08-31 21:32:28+02,Disparue,17,65,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),MIS,False,Ile-de-France,developpeur ia
+4341625,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,64,M1405,Data scientist,MIS,False,Centre-Val de Loire,data scientist
+4341771,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,64,M1405,Data scientist,MIS,False,Occitanie,data scientist
+4397173,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,62,M1405,Data scientist,CDI,False,Nouvelle-Aquitaine,data scientist
+210NMLG,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,62,M1430,Chargé / Chargée d'études commerciales,CDI,False,Pays de la Loire,data analyst
+210PRHT,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,61,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+210PSNS,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,44,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+210QQSX,2026-08-14 18:41:08+02,2026-08-31 21:32:22+02,Disparue,17,60,M1811,Data engineer,CDI,False,Ile-de-France,machine learning
+210QYVY,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,60,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,devops
+210SJLB,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,42,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+4566781,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,58,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+4570642,2026-08-14 18:41:07+02,2026-08-31 21:32:26+02,Disparue,17,58,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+4575793,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,40,M1405,Data scientist,MIS,False,Nouvelle-Aquitaine,data scientist
+210TQNG,2026-08-14 18:41:06+02,2026-08-15 00:53:20+02,Disparue,1,40,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+210TQSW,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,56,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Normandie,devops
+210TQXK,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,56,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+210VCLW,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,39,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Grand Est,devops
+4610958,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,55,M1861,Développeur / Développeuse logiciel ou d'application,DDI,False,Occitanie,developpeur ia
+4610959,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,55,M1861,Développeur / Développeuse logiciel ou d'application,DDI,False,Nouvelle-Aquitaine,developpeur ia
+4614691,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,55,M1501,Assistant / Assistante Ressources Humaines (RH),CDD,True,Pays de la Loire,developpeur ia
+4634533,2026-08-31 21:32:27+02,2026-08-31 21:32:27+02,Disparue,0,55,M1702,Planneur / Planneuse stratégique,CDI,False,Occitanie,consultant data ia
+4635079,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,55,K1703,Responsable de l'emploi des forces armées,CDI,False,Provence-Alpes-Côte d'Azur,data scientist
+4635166,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,55,K1501,Agent / Agente d'administration principal(e) des douanes,CDI,False,Ile-de-France,data scientist
+4635452,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,55,M1831,Développeur / Développeuse - jeux vidéo,CDI,False,Ile-de-France,developpeur ia
+210VZFZ,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,38,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,devops
+210VZKL,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,38,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,devops
+4675717,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,54,M1811,Data engineer,CDD,True,Nouvelle-Aquitaine,developpeur ia
+210XNHD,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,37,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+210YFRR,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,54,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Nouvelle-Aquitaine,developpeur ia
+210YNQX,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,54,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+210ZZNF,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,36,M1805,Développeur / Développeuse informatique,CDI,False,Auvergne-Rhône-Alpes,machine learning
+4773021,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,52,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Auvergne-Rhône-Alpes,data scientist
+4790330,2026-08-31 21:32:27+02,2026-08-31 21:32:27+02,Disparue,0,52,M1702,Planneur / Planneuse stratégique,CDI,False,Provence-Alpes-Côte d'Azur,consultant data ia
+4790580,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,52,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+211BKBP,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,52,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Hauts-de-France,devops
+211BMTD,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,52,M1811,Data engineer,CDI,False,Centre-Val de Loire,data engineer
+211CCJF,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,52,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Provence-Alpes-Côte d'Azur,developpeur ia
+211CDRH,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,35,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,machine learning
+4890456,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,33,M1405,Data scientist,CDI,False,Nouvelle-Aquitaine,data scientist
+211CRRC,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,32,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+4948728,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,48,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+4959551,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,48,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+211FDMV,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,47,M1811,Data engineer,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+211FQPF,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,30,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Provence-Alpes-Côte d'Azur,devops
+211GJJH,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,29,M1841,Ingénieur informaticien / Ingénieure informaticienne,CDD,False,Bretagne,devops
+5036207,2026-08-14 18:45:52+02,2026-08-14 18:45:52+02,Disparue,0,29,M1868,Architecte base de données,CDI,False,Ile-de-France,ml
+5042246,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,46,M1811,Data engineer,MIS,False,Auvergne-Rhône-Alpes,data engineer senior
+5043560,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,46,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+5046104,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,46,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+211GRSK,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,29,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+211GRWW,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,29,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,machine learning
+211GVXQ,2026-08-14 18:41:07+02,2026-08-31 21:32:22+02,Disparue,17,46,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Hauts-de-France,machine learning
+5058357,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,46,M1855,Développeur / Développeuse web,CDI,False,Pays de la Loire,developpeur ia
+211HHSM,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,29,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+211HRDB,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,28,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+5079403,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,45,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5081620,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,45,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+211JMFF,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,28,M1811,Data engineer,CDD,True,Nouvelle-Aquitaine,data engineer
+5118438,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,26,M1228,Gestionnaire de risques financiers,CDI,False,Ile-de-France,data scientist
+5118603,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,26,M1405,Data scientist,CDI,False,Grand Est,data scientist
+5155945,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,42,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+211KBHZ,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,25,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+211KBPJ,2026-08-14 18:41:06+02,2026-08-15 00:53:20+02,Disparue,1,26,M1419,Data analyst,CDD,True,Ile-de-France,business analyst
+211KDLX,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,25,M1841,Ingénieur informaticien / Ingénieure informaticienne,CDI,False,Ile-de-France,machine learning
+211KSHB,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,25,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+211KVDR,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,25,M1805,Développeur / Développeuse informatique,CDI,False,Hauts-de-France,data engineer
+5199834,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,41,M1811,Data engineer,CDD,False,Occitanie,data engineer senior
+5199977,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,41,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Pays de la Loire,developpeur ia
+211LQGX,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,24,M1811,Data engineer,CDD,False,Auvergne-Rhône-Alpes,data engineer
+211LRNF,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,41,M1811,Data engineer,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+211LRRH,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,41,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Provence-Alpes-Côte d'Azur,business analyst
+211LRTJ,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,41,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+211LVVK,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,41,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,machine learning
+211LWKZ,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,24,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Normandie,devops
+211MCLN,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,24,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+211MFMS,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,24,M1855,Développeur / Développeuse web,CDI,False,Ile-de-France,data engineer
+5227728,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,40,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+5227732,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,40,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+211MTNW,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,23,M1811,Data engineer,CDD,False,Ile-de-France,data engineer
+5340752,2026-08-14 18:45:54+02,2026-08-14 18:45:54+02,Disparue,0,23,M1868,Architecte base de données,CDI,False,Provence-Alpes-Côte d'Azur,mlops
+211NGYT,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,24,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+5356015,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,39,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5356045,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,22,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5358215,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,39,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+211NTYX,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,22,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+211PGFV,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,22,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+211PJMS,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,22,M1405,Data scientist,CDD,True,Ile-de-France,machine learning
+211PJPD,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,22,M1405,Data scientist,CDD,True,Ile-de-France,machine learning
+211PRXW,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,22,M1827,Ingénieur / Ingénieure DevOps,CDD,True,Ile-de-France,devops
+211PSQS,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,22,M1811,Data engineer,CDD,True,Ile-de-France,data engineer
+211PXTB,2026-08-14 18:41:06+02,2026-08-14 18:45:51+02,Disparue,0,22,M1419,Data analyst,CDD,True,Ile-de-France,machine learning
+211PXTM,2026-08-14 18:45:51+02,2026-08-14 18:45:54+02,Disparue,0,22,M1873,Spécialiste IA embarquée,CDD,True,Ile-de-France,mlops
+5395392,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,38,M1501,Assistant / Assistante Ressources Humaines (RH),CDD,True,Auvergne-Rhône-Alpes,developpeur ia
+5395407,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,38,M1501,Assistant / Assistante Ressources Humaines (RH),CDD,True,Normandie,developpeur ia
+5397637,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,38,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+211PZWV,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,21,M1430,Chargé / Chargée d'études commerciales,CDI,False,Ile-de-France,machine learning
+211QBBS,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,21,M1405,Data scientist,CDI,False,Ile-de-France,machine learning
+211QCJS,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,38,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+211QDPL,2026-08-14 18:41:06+02,2026-08-14 18:45:51+02,Disparue,0,21,M1419,Data analyst,CDI,False,Ile-de-France,machine learning
+211QDVY,2026-08-14 18:41:06+02,2026-08-14 18:45:51+02,Disparue,0,21,M1419,Data analyst,CDI,False,Ile-de-France,machine learning
+211QGZD,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,21,M1811,Data engineer,CDI,False,Bourgogne-Franche-Comté,data engineer
+211QLCT,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,21,K2413,Chercheur / Chercheuse des écosystèmes,CDD,False,Ile-de-France,machine learning
+211QLMT,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,22,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Grand Est,business analyst
+211QNWD,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,21,M1508,Conseiller / Conseillère en gestion de carrière,CDI,False,Ile-de-France,machine learning
+211QNYW,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,21,H2502,Ingénieur / Ingénieure de production,CDI,False,Grand Est,machine learning
+211QRQL,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,38,M1811,Data engineer,CDD,False,Nouvelle-Aquitaine,data engineer
+211QSXN,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,21,I1620,Mécanicien-réparateur / Mécanicienne-réparatrice d'engins de levage et de manutention,CDI,False,Ile-de-France,machine learning
+211QVCX,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,21,M1419,Data analyst,CDI,False,Provence-Alpes-Côte d'Azur,data analyst
+211QVXY,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,21,M1811,Data engineer,CDD,False,Ile-de-France,data engineer
+211QXTN,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,21,M1405,Data scientist,CDD,False,Ile-de-France,data scientist
+5433976,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,38,M1405,Data scientist,CDD,False,Auvergne-Rhône-Alpes,data scientist
+5436212,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,20,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+5436239,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,20,M1811,Data engineer,CDI,False,Provence-Alpes-Côte d'Azur,data analyst
+5436555,2026-08-14 18:41:06+02,2026-08-31 21:32:21+02,Disparue,17,37,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5436567,2026-08-14 18:41:06+02,2026-08-31 21:32:21+02,Disparue,17,37,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5436569,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,37,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+5436574,2026-08-31 21:32:26+02,2026-08-31 21:32:26+02,Disparue,0,37,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+5436594,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,37,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+5462392,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,37,M1811,Data engineer,MIS,False,Hauts-de-France,data engineer senior
+5470747,2026-08-14 18:41:06+02,2026-08-31 21:32:26+02,Disparue,17,36,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+5470748,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,36,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+5475815,2026-08-14 18:45:54+02,2026-08-31 21:32:24+02,Disparue,17,36,M1860,Architecte cloud,CDI,False,Ile-de-France,mlops
+5481160,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,18,M1805,Développeur / Développeuse informatique,CDI,False,Ile-de-France,data analyst
+5488516,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,18,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+211RWCC,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,18,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Normandie,devops
+211RWJH,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,19,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+211SDWQ,2026-08-14 18:45:53+02,2026-08-31 21:32:24+02,Disparue,17,35,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Occitanie,mlops
+211SHJL,2026-08-14 18:45:51+02,2026-08-14 18:45:52+02,Disparue,0,18,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Occitanie,ml
+211SKPL,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,18,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+211SKWW,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,35,I1404,Conseiller / Conseillère support technique informatique,CDD,True,Ile-de-France,data analyst
+211SQCV,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,18,M1811,Data engineer,CDI,False,Pays de la Loire,data engineer
+211SQPH,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,19,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+211SQVZ,2026-08-14 18:41:08+02,2026-08-14 18:45:51+02,Disparue,0,18,M1811,Data engineer,CDD,True,Ile-de-France,machine learning
+5496058,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,17,M1801,Administrateur / Administratrice de systèmes d'information (SI),CDI,False,Grand Est,data analyst
+5502541,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,17,M1405,Data scientist,CDD,False,Bretagne,data scientist
+5503391,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,34,M1405,Data scientist,CDD,True,Auvergne-Rhône-Alpes,data scientist
+5503473,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,17,M1405,Data scientist,CDI,False,Hauts-de-France,data scientist
+5505286,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,34,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+5506409,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,34,M1405,Data scientist,CDI,False,Provence-Alpes-Côte d'Azur,data scientist
+211SVQR,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,17,M1811,Data engineer,CDD,True,Centre-Val de Loire,data engineer
+211TDBP,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,34,M1882,Architecte sécurité informatique,CDI,False,Provence-Alpes-Côte d'Azur,machine learning
+211TDGT,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,17,K2108,Professeur / Professeure des universités,CDD,False,Ile-de-France,machine learning
+5509807,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,17,M1419,Data analyst,CDD,True,Pays de la Loire,data analyst
+211THBT,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,17,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+211THCL,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,17,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+211THTR,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,34,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+211TLKQ,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,17,M1884,"Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",CDI,False,Ile-de-France,devops
+5512138,2026-08-14 18:45:52+02,2026-08-14 18:45:52+02,Disparue,0,17,M1811,Data engineer,CDD,True,Ile-de-France,ml
+211TQCZ,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,18,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CCE,False,Ile-de-France,business analyst
+211TQDT,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,18,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CCE,False,Ile-de-France,business analyst
+211TSZH,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,17,M1405,Data scientist,CDD,False,Provence-Alpes-Côte d'Azur,data scientist
+211TWJB,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,17,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+211TXDY,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,17,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+211TYXW,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,34,M1863,Evaluateur / Evaluatrice sécurité des systèmes et produits informatiques,CDI,False,Ile-de-France,devops
+211VBJJ,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,17,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5517620,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,16,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5523959,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,16,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+5524035,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,16,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5548326,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,16,G1302,Yield manager,CDI,False,Centre-Val de Loire,data analyst
+211VGWH,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,16,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+211VHJJ,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,16,M1419,Data analyst,CDD,True,Nouvelle-Aquitaine,data analyst
+211VJNB,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,16,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+211VKNP,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,16,M1811,Data engineer,CDI,False,Pays de la Loire,data engineer
+5549913,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,16,M1419,Data analyst,CDI,False,Bretagne,data analyst
+211VLKQ,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,16,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Occitanie,devops
+5557655,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,33,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+211VQQF,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,16,M1405,Data scientist,CDD,False,Ile-de-France,machine learning
+211VQZS,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,16,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Ile-de-France,devops
+211VWPF,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,16,M1811,Data engineer,CDD,False,Ile-de-France,data engineer
+211VYZL,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,16,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Nouvelle-Aquitaine,devops
+211VZBW,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,33,K1740,Expert / Experte en opérations spatiales militaires,CDI,False,Provence-Alpes-Côte d'Azur,machine learning
+211WBPN,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,16,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+211WCRT,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,16,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+211WDNL,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,16,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+211WDNX,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,16,M1102,Directeur / Directrice des achats,CDI,False,Ile-de-France,data analyst
+211WGHP,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,33,M1419,Data analyst,MIS,False,Normandie,data analyst
+5563652,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,32,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Ile-de-France,machine learning
+5564118,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,15,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+5569820,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,15,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5570826,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,32,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+211WJZR,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,15,M1419,Data analyst,CDI,False,Normandie,data analyst
+211WLNG,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,15,H1215,"Bioinformaticien / Bioinformaticienne en études, recherche et développement",CDI,False,Ile-de-France,machine learning
+211WRGH,2026-08-14 18:41:07+02,2026-08-31 21:32:22+02,Disparue,17,32,M1405,Data scientist,CDD,False,Provence-Alpes-Côte d'Azur,machine learning
+5587028,2026-08-14 18:41:06+02,2026-08-31 21:32:24+02,Disparue,17,32,M1435,Chargé de tracking vérificateur / Chargée de tracking vérificatrice,MIS,False,Ile-de-France,data analyst senior
+5589298,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,15,M1419,Data analyst,CDI,False,Occitanie,data analyst
+211WVHN,2026-08-14 18:41:06+02,2026-08-14 18:41:07+02,Disparue,0,15,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+211WVMG,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,15,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data analyst
+211WWNF,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,15,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+211WYRB,2026-08-14 18:41:06+02,2026-08-14 18:41:08+02,Disparue,0,15,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data engineer
+211XFYW,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,15,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+211XHVW,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,15,M1861,Développeur / Développeuse logiciel ou d'application,CDI,False,Nouvelle-Aquitaine,devops
+211XHZB,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,15,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+211XLYH,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,14,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+5596957,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,31,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5599901,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,31,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5603664,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,14,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data analyst
+5603806,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,31,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+211XRBW,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,14,M1419,Data analyst,CDI,False,Centre-Val de Loire,data analyst
+211XRGP,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,14,E1405,Référenceur / Référenceuse web,CDI,False,Occitanie,machine learning
+211XVCZ,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,14,M1880,Spécialiste e-santé,CDI,False,Ile-de-France,machine learning
+211XVYS,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,14,M1892,Ingénieur / Ingénieure en informatique embarquée,CDD,True,Occitanie,machine learning
+5620786,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,14,M1419,Data analyst,CDD,True,Auvergne-Rhône-Alpes,data analyst
+5621080,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,14,M1419,Data analyst,CDI,False,Hauts-de-France,data analyst
+211XZCW,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,31,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+211YBNX,2026-08-14 18:41:07+02,2026-08-31 21:32:22+02,Disparue,17,31,M1405,Data scientist,CDI,False,Ile-de-France,machine learning
+211YHVW,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,14,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Ile-de-France,devops
+211YHWG,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,14,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+211YHZC,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,31,H1101,Ingénieur / Ingénieure support technique,CDI,False,Ile-de-France,machine learning
+211YJKK,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,31,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Ile-de-France,machine learning
+211YMDR,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,14,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,devops
+211YMWT,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,14,M1841,Ingénieur informaticien / Ingénieure informaticienne,CDI,False,Ile-de-France,machine learning
+211YNNV,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,31,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+211YNRY,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,15,M1204,Contrôleur / Contrôleuse de gestion,CDI,False,Ile-de-France,business analyst
+5630079,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,13,M1419,Data analyst,CDD,False,Bretagne,data analyst
+5630196,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,13,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5630430,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,13,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data analyst
+5634001,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,30,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5635462,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,13,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5655085,2026-08-14 18:41:07+02,2026-08-31 21:32:23+02,Disparue,17,30,M1405,Data scientist,CDI,False,Provence-Alpes-Côte d'Azur,ml
+5655044,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,13,M1702,Planneur / Planneuse stratégique,CDI,False,Ile-de-France,data scientist
+5658992,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,13,M1423,Chief Data Officer,CDI,False,Grand Est,data analyst
+5660037,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,30,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+5661997,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,30,M1811,Data engineer,MIS,False,Ile-de-France,data engineer senior
+5664919,2026-08-31 21:32:29+02,2026-08-31 21:32:29+02,Disparue,0,30,M1605,Secrétaire technique,CDI,False,Ile-de-France,genai
+5665202,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,13,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Occitanie,machine learning
+5665219,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,30,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+5665612,2026-08-31 21:32:26+02,2026-08-31 21:32:26+02,Disparue,0,30,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+5665738,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,30,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+5665835,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,13,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5665901,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,13,M1419,Data analyst,CDI,False,Grand Est,data analyst
+5666001,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,30,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer senior
+211YSFT,2026-08-14 18:45:51+02,2026-08-31 21:32:23+02,Disparue,17,30,H1215,"Bioinformaticien / Bioinformaticienne en études, recherche et développement",CDI,False,Ile-de-France,ml
+5672836,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,12,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5677286,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,12,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+5677287,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,12,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data analyst
+5677295,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,12,M1405,Data scientist,CDI,False,Ile-de-France,machine learning
+5677298,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,12,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,machine learning
+5683769,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,12,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5683773,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,12,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5684556,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,12,M1419,Data analyst,LIB,False,Ile-de-France,data analyst
+5684597,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,12,M1868,Architecte base de données,CDI,False,Hauts-de-France,machine learning
+5684981,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,12,M1419,Data analyst,CDD,True,Auvergne-Rhône-Alpes,data analyst
+5687975,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,11,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5688360,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,11,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+211YVQP,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,28,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Hauts-de-France,developpeur ia
+5689475,2026-08-14 18:41:07+02,2026-08-31 21:32:29+02,Disparue,17,28,M1811,Data engineer,CDI,False,Ile-de-France,genai
+211ZDFR,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,11,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Ile-de-France,devops
+211ZDZS,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,28,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+5690333,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,28,M1405,Data scientist,CDI,False,Bourgogne-Franche-Comté,data scientist
+211ZFVB,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,11,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+211ZGNP,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,28,M1201,Analyste financier / Analyste financière,CDI,False,Ile-de-France,machine learning
+211ZGNV,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,28,M1201,Analyste financier / Analyste financière,CDI,False,Ile-de-France,machine learning
+211ZJSK,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,11,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+211ZLPJ,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,11,M1419,Data analyst,CDI,False,Grand Est,data analyst
+211ZLRL,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,11,M1419,Data analyst,CDI,False,Grand Est,data analyst
+211ZMDB,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,11,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Martinique,devops
+211ZNGX,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,28,H1206,Ingénieur / Ingénieure R&D en industrie,CDD,False,Grand Est,machine learning
+211ZNPM,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,11,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+211ZXFF,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,11,M1855,Développeur / Développeuse web,CDI,False,Grand Est,devops
+211ZYHB,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,False,Ile-de-France,machine learning
+212BFBV,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,10,M1419,Data analyst,CDI,False,Grand Est,data analyst
+212BJXN,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,10,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Hauts-de-France,devops
+212BLMM,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,27,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+212BLXF,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,27,M1811,Data engineer,CDD,True,Ile-de-France,data engineer
+212BNGP,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,27,M1201,Analyste financier / Analyste financière,CDI,False,Ile-de-France,machine learning
+212BTPT,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,10,M1211,Expert-comptable / Experte-comptable,CDI,False,Occitanie,data analyst
+212BWCT,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,27,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Ile-de-France,devops
+212BXLJ,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,10,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+212BXWK,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,27,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+212BZGN,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,10,M1851,Analyste décisionnel - Business Intelligence,CDD,False,Non renseignee,devops
+212CBQM,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,11,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+212CCPJ,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,11,M1508,Conseiller / Conseillère en gestion de carrière,CDD,False,Ile-de-France,business analyst
+212CGMW,2026-08-14 18:41:08+02,2026-08-31 21:32:25+02,Disparue,17,26,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+212CHRB,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,26,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Occitanie,devops
+212CJXF,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,10,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212CLYD,2026-08-14 18:45:52+02,2026-08-31 21:32:23+02,Disparue,17,26,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,ml
+212CMTJ,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,9,M1860,Architecte cloud,CDI,False,Pays de la Loire,machine learning
+212CNQH,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,26,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+212CQMJ,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,9,I1401,Technicien / Technicienne de maintenance en informatique,CDD,False,Normandie,devops
+212CQVG,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,9,M1861,Développeur / Développeuse logiciel ou d'application,CDI,False,Nouvelle-Aquitaine,devops
+5699764,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,26,M1405,Data scientist,CDI,False,Hauts-de-France,data scientist
+5700818,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Occitanie,data engineer
+5702361,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,9,G1302,Yield manager,CDD,False,Ile-de-France,data analyst
+5707600,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1405,Data scientist,CDI,False,Pays de la Loire,data engineer
+5711038,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,9,M1419,Data analyst,CDI,False,Nouvelle-Aquitaine,data analyst
+5711063,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,26,M1855,Développeur / Développeuse web,CDI,False,Nouvelle-Aquitaine,developpeur ia
+5711154,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+5711895,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+5712555,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,9,M1405,Data scientist,CDD,False,Ile-de-France,data scientist
+5713538,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,26,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+5713539,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,data engineer
+5713541,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,26,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Hauts-de-France,machine learning
+5700448,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,9,G1211,Analyste de la performance sportive,CDI,False,Pays de la Loire,data analyst
+5725694,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,26,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+5726965,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,26,D1410,Attaché commercial / Attachée commerciale,CDD,True,Ile-de-France,developpeur ia
+5700964,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,9,M1405,Data scientist,CDI,False,Non renseignee,data scientist
+5702523,2026-08-14 18:45:52+02,2026-08-31 21:32:23+02,Disparue,17,26,G1302,Yield manager,CDI,False,Ile-de-France,ml
+5706982,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Pays de la Loire,data engineer
+5710455,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Grand Est,data engineer
+5710523,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Grand Est,data engineer
+5710589,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,26,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,machine learning
+212CSLT,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,9,M1874,Spécialiste support,CDI,False,Corse,devops
+5723991,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+212CWPQ,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,26,L1505,Opérateur / Opératrice de prise de vues,CDI,False,Ile-de-France,machine learning
+212CXFZ,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,9,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+212CXJH,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,9,M1855,Développeur / Développeuse web,CDI,False,Occitanie,devops
+212CYQM,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,9,M1876,Technicien / Technicienne Cloud,CDI,False,Ile-de-France,devops
+212CZSV,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1718,Chargé / Chargée de marketing digital,CDI,False,Ile-de-France,data engineer
+212DCDV,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,9,F1117,Ingénieur / Ingénieure d'étude CVC,CDI,False,Occitanie,devops
+212DCLY,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,26,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+212DDCX,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,9,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+212DFRB,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,26,M1810,Technicien / Technicienne d'exploitation informatique,MIS,False,Hauts-de-France,devops
+212DHFL,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,25,M1841,Ingénieur informaticien / Ingénieure informaticienne,CDD,False,Bretagne,devops
+5737785,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,25,M1419,Data analyst,CDD,False,Ile-de-France,data analyst
+5738073,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,25,M1419,Data analyst,CDI,False,Non renseignee,data analyst
+5739442,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,25,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5739448,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,25,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5742138,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,8,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+5742738,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,25,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5744284,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,8,C1120,Conseiller / Conseillère en études actuarielles,CDI,False,Hauts-de-France,data engineer
+212DPYL,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,8,H1520,Ingénieur qualité / Ingénieure qualité,CDI,False,Provence-Alpes-Côte d'Azur,devops
+5777482,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,8,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5778447,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,25,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5780139,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,8,C1106,Expert / Experte risques en assurances,CDI,False,Grand Est,data engineer
+5780667,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,25,H1406,Ingénieur / Ingénieure supply chain en industrie,CDI,False,Ile-de-France,machine learning
+212DWJR,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,25,H1208,Automaticien / Automaticienne en bureau d'études,CDD,False,Auvergne-Rhône-Alpes,machine learning
+5782048,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,8,M1405,Data scientist,CDD,False,Ile-de-France,data scientist
+212DYPT,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,8,M1811,Data engineer,CDD,True,Ile-de-France,data engineer
+212DZWS,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,25,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+212FCNW,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,8,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,devops
+212FCRS,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,8,M1855,Développeur / Développeuse web,CDI,False,Auvergne-Rhône-Alpes,devops
+212FDLL,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,8,M1818,Ingénieur / Ingénieure d'étude informatique,CDI,False,Provence-Alpes-Côte d'Azur,devops
+212FDSX,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,25,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Nouvelle-Aquitaine,machine learning
+212FHYV,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,25,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+5787434,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,25,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+5787824,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,8,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,False,Ile-de-France,machine learning
+5793037,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+5793039,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,7,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5793136,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,7,M1811,Data engineer,CDI,False,Bretagne,data engineer
+5793178,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,24,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Nouvelle-Aquitaine,machine learning
+5793344,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,7,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+5795767,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1201,Analyste financier / Analyste financière,CDI,False,Normandie,business analyst
+5797630,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5798594,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,24,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,machine learning
+5801106,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,MIS,False,Ile-de-France,business analyst
+5801477,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,24,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+5801649,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,7,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+5801798,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5815848,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,7,G1302,Yield manager,CDI,False,Ile-de-France,data analyst
+212FNTK,2026-08-14 18:41:08+02,2026-08-14 18:45:53+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,devops
+212FNWB,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,24,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212FPBF,2026-08-14 18:41:08+02,2026-08-14 18:45:53+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,devops
+212FQHL,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1801,Administrateur / Administratrice de systèmes d'information (SI),CDI,False,Pays de la Loire,devops
+212FQHZ,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1801,Administrateur / Administratrice de systèmes d'information (SI),CDI,False,Bretagne,devops
+5819159,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1419,Data analyst,CDI,False,Provence-Alpes-Côte d'Azur,business analyst
+5819342,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,7,M1868,Architecte base de données,CDI,False,Ile-de-France,data engineer
+5819376,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,7,M1868,Architecte base de données,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+5821012,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,24,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),MIS,False,Bretagne,developpeur ia
+5821158,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,24,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+212FWFH,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,7,M1405,Data scientist,CDI,False,Ile-de-France,machine learning
+5823585,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1852,Analyste d'étude informatique,CDI,False,Ile-de-France,business analyst
+212GCNN,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1855,Développeur / Développeuse web,CDI,False,Ile-de-France,devops
+212GCXP,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,7,M1718,Chargé / Chargée de marketing digital,CDD,False,Ile-de-France,data engineer
+212GDBB,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,24,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,MIS,False,Ile-de-France,business analyst
+212GFBC,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,24,H2605,Monteur-câbleur / Monteuse-câbleuse,CDD,False,Grand Est,machine learning
+212GGZC,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,24,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+212GHVC,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,24,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+212GKZK,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1810,Technicien / Technicienne d'exploitation informatique,CDI,False,Non renseignee,devops
+212GLBL,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,24,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+212GLDX,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1810,Technicien / Technicienne d'exploitation informatique,CDD,False,Non renseignee,devops
+212GLGM,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1805,Développeur / Développeuse informatique,CDI,False,Non renseignee,devops
+212GLGS,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1805,Développeur / Développeuse informatique,CDD,False,Non renseignee,devops
+212GLGY,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Non renseignee,devops
+212GLHF,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDD,False,Non renseignee,devops
+212GLHJ,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,24,M1851,Analyste décisionnel - Business Intelligence,CDI,False,Non renseignee,machine learning
+212GLHM,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,24,M1851,Analyste décisionnel - Business Intelligence,CDD,False,Non renseignee,machine learning
+212GMRZ,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,7,M1855,Développeur / Développeuse web,CDI,False,Hauts-de-France,devops
+5828327,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5828352,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,8,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+5829011,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,6,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5829043,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,23,M1855,Développeur / Développeuse web,CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+5830975,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,23,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5832423,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,23,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+5833007,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,23,M1405,Data scientist,LIB,False,Ile-de-France,data scientist
+5835522,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,6,M1419,Data analyst,MIS,False,Centre-Val de Loire,data analyst
+5835597,2026-08-14 18:45:51+02,2026-08-31 21:32:28+02,Disparue,17,23,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Grand Est,developpeur ia
+5848362,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,7,G1302,Yield manager,CDI,False,Ile-de-France,business analyst
+212GPNC,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,23,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,data engineer
+212GPND,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,23,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Nouvelle-Aquitaine,devops
+212GPNJ,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,23,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Nouvelle-Aquitaine,devops
+212GPNM,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,23,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+212GPNP,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,23,M1879,Ingénieur / Ingénieure Cloud computing,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+5857222,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+5857386,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,22,M1801,Administrateur / Administratrice de systèmes d'information (SI),CDI,False,Grand Est,data analyst
+5857533,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,22,M1801,Administrateur / Administratrice de systèmes d'information (SI),CDI,False,Grand Est,data analyst
+5857751,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,5,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+5857753,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5857874,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,5,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+5859995,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,5,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+5860144,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860147,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860153,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860155,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,5,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,data engineer
+5860161,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860183,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,5,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+5860190,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860196,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860197,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860199,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860201,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860203,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5860227,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5861771,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5861773,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5862150,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5862258,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,5,J1102,Médecin généraliste,CDI,False,Bretagne,data scientist
+212GQHM,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,5,M1855,Développeur / Développeuse web,CDI,False,Bretagne,devops
+5865203,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+5866125,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1881,Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA),MIS,False,Nouvelle-Aquitaine,business analyst
+5866132,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1881,Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA),MIS,False,Nouvelle-Aquitaine,business analyst
+5866327,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,5,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5866373,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,5,M1868,Architecte base de données,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+5868381,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212GQYG,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,4,M1818,Ingénieur / Ingénieure d'étude informatique,CDI,False,Non renseignee,devops
+212GQYJ,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,21,M1811,Data engineer,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+212GQYK,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,21,M1818,Ingénieur / Ingénieure d'étude informatique,CDI,False,Provence-Alpes-Côte d'Azur,developpeur ia
+5870941,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,21,M1419,Data analyst,CDI,False,Provence-Alpes-Côte d'Azur,data analyst
+5871013,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,4,M1405,Data scientist,CDI,False,La Réunion,data scientist
+212GTQC,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,4,M1802,Expert / Experte systèmes et réseaux informatiques,CDI,False,Grand Est,devops
+212GWSB,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,21,M1419,Data analyst,CDI,False,Provence-Alpes-Côte d'Azur,data analyst
+212GWVX,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,21,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+5877651,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,4,M1868,Architecte base de données,CDI,False,Grand Est,data engineer
+5877682,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,4,M1868,Architecte base de données,CDI,False,Ile-de-France,data engineer
+212GZGP,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,21,M1811,Data engineer,CDI,False,Grand Est,data engineer
+5878101,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,5,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212HBTL,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,4,I1616,Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,CDI,False,Bretagne,machine learning
+212HDJJ,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,21,M1852,Analyste d'étude informatique,MIS,False,Ile-de-France,business analyst
+212HFYF,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,21,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212HHZT,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,21,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+212HKXC,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,4,M1405,Data scientist,CDD,False,Ile-de-France,data scientist
+212HLKL,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,4,M1419,Data analyst,MIS,False,Ile-de-France,data analyst
+212HNKH,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,4,M1867,Responsable des systèmes d'information (SI),CDI,False,Provence-Alpes-Côte d'Azur,devops
+212HNKV,2026-08-14 18:45:53+02,2026-08-14 18:45:53+02,Disparue,0,4,M1867,Responsable des systèmes d'information (SI),CDI,False,Provence-Alpes-Côte d'Azur,devops
+5879804,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,4,M1405,Data scientist,CDI,False,Ile-de-France,machine learning
+5879890,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,4,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data engineer
+5880106,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,4,M1419,Data analyst,CDI,False,Ile-de-France,data engineer
+5880211,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,21,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5880226,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,4,M1419,Data analyst,CDD,True,Pays de la Loire,data analyst
+5880724,2026-08-14 18:41:07+02,2026-08-31 21:32:22+02,Disparue,17,20,M1811,Data engineer,CDI,False,Hauts-de-France,machine learning
+5880749,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,20,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,False,Auvergne-Rhône-Alpes,machine learning
+5880834,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,20,M1805,Développeur / Développeuse informatique,CDI,False,Occitanie,developpeur ia
+5880909,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1872,Consultant décisionnel / Consultante décisionnelle - Business Intelligence,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5882452,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,20,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5882586,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,3,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+5882904,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,3,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,machine learning
+5883792,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5884717,2026-08-14 18:41:06+02,2026-08-15 00:53:20+02,Disparue,1,4,M1419,Data analyst,CDI,False,Ile-de-France,business analyst
+5884749,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,3,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5885930,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,20,M1405,Data scientist,CDI,False,Grand Est,data scientist
+5886497,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+5886517,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5886516,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,3,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+5886521,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+5886557,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+5886575,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1864,Product Owner,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5886578,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,3,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+5886707,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,20,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+5886715,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,3,M1811,Data engineer,CDI,False,Pays de la Loire,data engineer
+212HYKK,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,20,M1851,Analyste décisionnel - Business Intelligence,CDI,False,Ile-de-France,machine learning
+212JBMF,2026-08-14 18:41:08+02,2026-08-31 21:32:26+02,Disparue,17,20,M1811,Data engineer,CDI,False,Ile-de-France,data engineer junior
+212JCVK,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5901116,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1209,Conseiller / Conseillère en gestion,CDD,True,Nouvelle-Aquitaine,business analyst
+5901353,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,H1402,Ingénieur / Ingénieure méthodes et process,CDI,False,Ile-de-France,business analyst
+5901927,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,20,M1855,Développeur / Développeuse web,CDD,True,Ile-de-France,developpeur ia
+5902586,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,3,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data analyst
+5904799,2026-08-14 18:45:52+02,2026-08-31 21:32:23+02,Disparue,17,20,M1896,Analyste cycle de vie dans les télécoms,CDI,False,Ile-de-France,ml
+212JFKS,2026-08-14 18:45:52+02,2026-08-31 21:32:23+02,Disparue,17,20,M1855,Développeur / Développeuse web,CDI,False,Ile-de-France,ml
+212JGFP,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,3,M1811,Data engineer,CDI,False,Bretagne,data engineer
+212JNVS,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,20,M1811,Data engineer,CDD,False,Occitanie,data engineer
+212JPGG,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,3,M1811,Data engineer,CDI,False,Pays de la Loire,data engineer
+212JSDL,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5909906,2026-08-14 18:41:06+02,2026-08-31 21:32:24+02,Disparue,17,19,G1211,Analyste de la performance sportive,CDI,False,Ile-de-France,data analyst senior
+5909912,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Bretagne,business analyst
+5909926,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+5915436,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5915545,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5915570,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Bretagne,business analyst
+5916065,2026-08-14 18:45:54+02,2026-08-31 21:32:24+02,Disparue,17,19,M1841,Ingénieur informaticien / Ingénieure informaticienne,CDI,False,Occitanie,mlops
+5916833,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Centre-Val de Loire,business analyst
+5916836,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,19,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+5921091,2026-08-14 18:41:06+02,2026-08-15 00:53:20+02,Disparue,1,3,M1419,Data analyst,CDI,False,Ile-de-France,business analyst
+5929849,2026-08-14 18:41:08+02,2026-08-31 21:32:25+02,Disparue,17,19,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+5929866,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,19,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+212JWZB,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,19,I1616,Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,CDI,False,Grand Est,machine learning
+212KFFV,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,2,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Bourgogne-Franche-Comté,machine learning
+5933416,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,2,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5933806,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,19,M1853,Chef / Cheffe de projet étude et développement informatique,CDD,True,Ile-de-France,data analyst
+5936995,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,3,M1852,Analyste d'étude informatique,CDI,False,Occitanie,business analyst
+212KNGN,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,19,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212KQNN,2026-08-14 18:41:06+02,2026-08-31 21:32:24+02,Disparue,17,19,M1419,Data analyst,CDI,False,Ile-de-France,data analyst senior
+212KSBY,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,19,M1717,Responsable innovation,CDI,False,Ile-de-France,machine learning
+212KTFN,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,19,M1811,Data engineer,LIB,False,Occitanie,data engineer
+212KTGB,2026-08-14 18:41:07+02,2026-08-31 21:32:22+02,Disparue,17,19,M1405,Data scientist,LIB,False,Occitanie,machine learning
+212KTGW,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,19,M1811,Data engineer,LIB,False,Occitanie,data engineer
+5940784,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5940839,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,18,M1811,Data engineer,CDI,False,Pays de la Loire,data engineer
+5942028,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,18,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+5942834,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,18,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+5942873,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,18,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+5942894,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Bretagne,business analyst
+5944148,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,1,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5944169,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5944267,2026-08-14 18:41:07+02,2026-08-31 21:32:21+02,Disparue,17,18,M1405,Data scientist,CDI,False,Occitanie,data scientist
+5944629,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+5944763,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5944767,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5945059,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+5945622,2026-08-14 18:41:07+02,2026-08-31 21:32:26+02,Disparue,17,18,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist senior
+5945833,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,MIS,False,Ile-de-France,business analyst
+5946137,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5946139,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5946143,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Normandie,business analyst
+5946145,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,C1202,Analyste de crédits et risques bancaires,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5947266,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212KYZC,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,1,M1811,Data engineer,MIS,False,Nouvelle-Aquitaine,data engineer
+212LDVF,2026-08-15 00:53:20+02,2026-08-31 21:32:30+02,Active,16,18,M1852,Analyste d'étude informatique,CDI,False,Centre-Val de Loire,business analyst
+5958451,2026-08-14 18:41:07+02,2026-08-14 18:41:07+02,Disparue,0,1,M1405,Data scientist,MIS,False,Ile-de-France,data scientist
+5958557,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,1,M1827,Ingénieur / Ingénieure DevOps,MIS,False,Occitanie,machine learning
+5959551,2026-08-14 18:45:51+02,2026-08-31 21:32:28+02,Disparue,17,18,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+5959561,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,C1202,Analyste de crédits et risques bancaires,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5959583,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,C1102,Conseiller commercial / Conseillère commerciale et relation client en assurances,CDI,False,Auvergne-Rhône-Alpes,business analyst
+5959595,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,2,C1202,Analyste de crédits et risques bancaires,CDI,False,Auvergne-Rhône-Alpes,business analyst
+212LFCC,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,18,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Ile-de-France,devops
+212LLFS,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,18,H1206,Ingénieur / Ingénieure R&D en industrie,CDI,False,Ile-de-France,machine learning
+212LLJM,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,1,K2205,Agent / Agente de propreté de locaux,CDI,False,Nouvelle-Aquitaine,machine learning
+212LMGG,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,18,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data analyst
+212LMNG,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,18,M1860,Architecte cloud,CDI,False,Bourgogne-Franche-Comté,devops
+212LPBK,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,18,M1802,Expert / Experte systèmes et réseaux informatiques,CDI,False,Ile-de-France,machine learning
+212LPDL,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,18,M1810,Technicien / Technicienne d'exploitation informatique,CDI,False,Nouvelle-Aquitaine,devops
+212LPFG,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,18,M1810,Technicien / Technicienne d'exploitation informatique,CDI,False,Nouvelle-Aquitaine,devops
+212LQCB,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,18,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5964268,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,18,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,data engineer
+5971073,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,1,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+5971477,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,17,M1419,Data analyst,CDI,False,Nouvelle-Aquitaine,data analyst
+5971822,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,0,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,machine learning
+5972279,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,0,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,machine learning
+5972466,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,1,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+5972730,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,17,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+5972977,2026-08-14 18:41:06+02,2026-08-31 21:32:20+02,Disparue,17,17,M1419,Data analyst,CDI,False,Martinique,data analyst
+5974193,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,0,M1419,Data analyst,MIS,False,Ile-de-France,data analyst
+5974201,2026-08-14 18:45:51+02,2026-08-31 21:32:28+02,Disparue,17,17,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+5974203,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,1,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Normandie,business analyst
+5974208,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,17,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+5974304,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,0,D1438,Assistant / Assistante e-commerce,CDD,True,Ile-de-France,data analyst
+5974315,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,1,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+5990566,2026-08-14 18:41:08+02,2026-08-31 21:32:21+02,Disparue,17,17,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+5990619,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,0,G1302,Yield manager,MIS,False,Nouvelle-Aquitaine,data analyst
+212LVVZ,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,17,M1805,Développeur / Développeuse informatique,CDI,False,Ile-de-France,devops
+212LVXJ,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,17,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+212MBPP,2026-08-14 18:45:51+02,2026-08-31 21:32:22+02,Disparue,17,17,I1616,Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,CDI,False,Auvergne-Rhône-Alpes,machine learning
+5993318,2026-08-14 18:41:07+02,2026-08-14 18:45:51+02,Disparue,0,0,M1405,Data scientist,CDI,False,Ile-de-France,machine learning
+5993921,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,17,M1822,Spécialiste Jumeau Numérique,CDD,True,Ile-de-France,developpeur ia
+5994568,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,0,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDD,True,Ile-de-France,data analyst
+5994910,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,17,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+5995008,2026-08-14 18:45:51+02,2026-08-14 18:45:51+02,Disparue,0,0,M1896,Analyste cycle de vie dans les télécoms,CDI,False,Ile-de-France,machine learning
+212MDFL,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,17,M1860,Architecte cloud,CDI,False,La Réunion,devops
+5996026,2026-08-14 18:41:06+02,2026-08-14 18:41:06+02,Disparue,0,0,M1803,Directeur / Directrice des systèmes d'information (DSI),CDI,False,Provence-Alpes-Côte d'Azur,data analyst
+212MFSF,2026-08-14 18:41:08+02,2026-08-14 18:41:08+02,Disparue,0,0,M1811,Data engineer,CDD,False,Occitanie,data engineer
+212MGDT,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,17,M1855,Développeur / Développeuse web,CDI,False,Non renseignee,developpeur ia
+212MHLQ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,17,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+5997133,2026-08-15 00:53:20+02,2026-08-15 00:53:20+02,Disparue,0,1,M1419,Data analyst,CDD,True,Ile-de-France,business analyst
+212MHVS,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,17,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,devops
+212MHXR,2026-08-14 18:45:51+02,2026-08-31 21:32:24+02,Disparue,17,17,H2502,Ingénieur / Ingénieure de production,CDI,False,Auvergne-Rhône-Alpes,mlops
+212MJDC,2026-08-14 18:45:51+02,2026-08-31 21:32:28+02,Disparue,17,17,M1805,Développeur / Développeuse informatique,CDI,False,Grand Est,developpeur ia
+212MJJP,2026-08-14 18:36:43+02,2026-08-31 21:32:20+02,Disparue,17,17,M1419,Data analyst,CDI,False,Grand Est,data analyst
+212MNJX,2026-08-14 18:45:53+02,2026-08-31 21:32:23+02,Disparue,17,17,M1853,Chef / Cheffe de projet étude et développement informatique,CDI,False,Pays de la Loire,devops
+212MPTX,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,17,M1876,Technicien / Technicienne Cloud,CDI,False,Non renseignee,devops
+6003131,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,16,M1419,Data analyst,CDI,False,Guyane,data analyst
+6003150,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,16,M1419,Data analyst,CDI,False,Guyane,data analyst
+6007038,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,16,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+6018232,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,16,G1302,Yield manager,CDI,False,Ile-de-France,data analyst
+6019792,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,16,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Bretagne,developpeur ia
+6020804,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,16,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+6027430,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+6027442,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6027466,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6027465,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+6029686,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6029681,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+6029669,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6029728,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,15,M1419,Data analyst,CDI,False,La Réunion,data analyst
+6029731,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+6029796,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,15,M1419,Data analyst,CDI,False,La Réunion,data analyst
+6030162,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+6030216,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+6030252,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,J1411,Orthoprothésiste,CDI,False,Non renseignee,business analyst
+6030263,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Non renseignee,business analyst
+6030301,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,15,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Non renseignee,business analyst
+212MVGT,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,15,M1855,Développeur / Développeuse web,CDI,False,Pays de la Loire,devops
+212MVQP,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,14,M1811,Data engineer,CDI,False,Normandie,machine learning
+6039099,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,14,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+6039833,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,14,M1419,Data analyst,CDI,False,La Réunion,data analyst
+6039834,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,14,M1419,Data analyst,CDI,False,La Réunion,data analyst
+6039856,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,14,M1419,Data analyst,CDI,False,La Réunion,data analyst
+6040069,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,14,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+6040071,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,14,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Centre-Val de Loire,business analyst
+6040072,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,14,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212MXBQ,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,14,M1419,Data analyst,CDD,False,Centre-Val de Loire,data analyst
+212NBMT,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,14,M1842,Qualiticien / Qualiticienne logiciel en informatique,CDI,False,Ile-de-France,devops
+212NBNW,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,14,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+212NBPN,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,14,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212NCBL,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,14,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+212NNZK,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,14,M1811,Data engineer,CDD,False,Ile-de-France,data engineer
+212NPQQ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,14,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+212NSKL,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,14,M1814,Scrum Master,CDI,False,Auvergne-Rhône-Alpes,devops
+212NWZV,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,14,M1841,Ingénieur informaticien / Ingénieure informaticienne,CDI,False,Grand Est,devops
+6058699,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,13,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6074487,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,13,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+212PDRT,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,13,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,devops
+212PFHX,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,13,M1502,Chargé / Chargée de recrutement,CDD,True,Provence-Alpes-Côte d'Azur,devops
+212PHZN,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,13,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+6077842,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,13,M1419,Data analyst,CDI,False,Ile-de-France,business analyst
+6078063,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,13,D1410,Attaché commercial / Attachée commerciale,CDD,True,Ile-de-France,developpeur ia
+6078293,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,13,C1217,Conseiller commercial / Conseillère commerciale de banque,CDI,False,Auvergne-Rhône-Alpes,business analyst
+212PNNQ,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,13,M1419,Data analyst,CDI,False,Nouvelle-Aquitaine,data analyst
+6078799,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,13,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+6079356,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,13,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+212PSWJ,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,13,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+212PTHN,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,13,M1860,Architecte cloud,CDI,False,Hauts-de-France,devops
+212PVKK,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,13,M1827,Ingénieur / Ingénieure DevOps,CDD,True,Ile-de-France,devops
+212PWLX,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,13,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+6084059,2026-08-31 21:32:20+02,2026-08-31 21:32:25+02,Disparue,0,13,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+6085528,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,13,M1405,Data scientist,CDD,False,Ile-de-France,data scientist
+6086170,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,12,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6086171,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,12,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6086177,2026-08-31 21:32:20+02,2026-08-31 21:32:24+02,Disparue,0,12,G1211,Analyste de la performance sportive,CDI,False,Ile-de-France,data analyst senior
+6090077,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,12,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Bretagne,business analyst
+6090092,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,12,M1811,Data engineer,CDI,False,Pays de la Loire,data engineer
+6090099,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,12,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+6090375,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,12,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+212QKBB,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,12,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Occitanie,devops
+6107741,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,12,M1868,Architecte base de données,CDI,False,Hauts-de-France,machine learning
+6107750,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,12,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+6107779,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,12,M1855,Développeur / Développeuse web,CDI,False,Occitanie,developpeur ia
+6109577,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,12,M1811,Data engineer,CDI,False,Bourgogne-Franche-Comté,data engineer senior
+6109575,2026-08-31 21:32:22+02,2026-08-31 21:32:28+02,Disparue,0,12,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+212QVMG,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,12,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6112423,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,12,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+212RFBZ,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,12,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+212RFLG,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,12,M1879,Ingénieur / Ingénieure Cloud computing,CDI,False,Ile-de-France,devops
+212RGJR,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,12,M1805,Développeur / Développeuse informatique,CDI,False,Ile-de-France,devops
+212RHKF,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,12,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,devops
+6117188,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,11,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+212RJVM,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,11,M1852,Analyste d'étude informatique,MIS,False,Nouvelle-Aquitaine,business analyst
+6117320,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,11,M1419,Data analyst,CDI,False,Occitanie,business analyst
+6120728,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1419,Data analyst,CDI,False,La Réunion,data analyst
+6120736,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1419,Data analyst,CDI,False,Guyane,data analyst
+6120749,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1419,Data analyst,CDI,False,Martinique,data analyst
+6124110,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,11,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,MIS,False,Nouvelle-Aquitaine,business analyst
+6124466,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,11,M1405,Data scientist,CDI,False,Non renseignee,data scientist
+6124465,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1811,Data engineer,CDI,False,Non renseignee,data analyst
+6124474,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1811,Data engineer,CDI,False,Non renseignee,data analyst
+212RPDX,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1419,Data analyst,CDI,False,Hauts-de-France,data analyst
+212RPGK,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,11,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Pays de la Loire,devops
+212RPWF,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6141304,2026-08-31 21:32:25+02,2026-08-31 21:32:25+02,Disparue,0,11,M1811,Data engineer,MIS,False,Ile-de-France,data engineer senior
+6141656,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,11,L1505,Opérateur / Opératrice de prise de vues,CDD,True,Occitanie,machine learning
+6141796,2026-08-31 21:32:24+02,2026-08-31 21:32:24+02,Disparue,0,11,F1101,Architecte du bâtiment,CDI,False,Occitanie,mlops
+6142514,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1419,Data analyst,MIS,False,Ile-de-France,data analyst
+212RYBR,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,11,M1435,Chargé de tracking vérificateur / Chargée de tracking vérificatrice,CDD,False,Auvergne-Rhône-Alpes,data analyst
+212SGMP,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,11,M1811,Data engineer,CDD,False,Grand Est,data engineer
+6149512,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,10,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+6152406,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,10,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+6152685,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+6153516,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+6154125,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+6154157,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Bretagne,business analyst
+6155713,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+6155733,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+212SWMM,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,10,M1855,Développeur / Développeuse web,CDI,False,Normandie,devops
+6169335,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1419,Data analyst,CDI,False,Occitanie,business analyst
+6169348,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1419,Data analyst,CDI,False,Ile-de-France,business analyst
+6169380,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1419,Data analyst,CDI,False,Provence-Alpes-Côte d'Azur,business analyst
+6169407,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1855,Développeur / Développeuse web,CDI,False,Ile-de-France,developpeur ia
+6169404,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,10,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+6169412,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1861,Développeur / Développeuse logiciel ou d'application,CDD,True,Auvergne-Rhône-Alpes,developpeur ia
+6169434,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,10,M1405,Data scientist,CDI,False,Auvergne-Rhône-Alpes,data scientist
+6170009,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Guyane,developpeur ia
+6170298,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1841,Ingénieur informaticien / Ingénieure informaticienne,CDD,True,Auvergne-Rhône-Alpes,developpeur ia
+6172119,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1430,Chargé / Chargée d'études commerciales,MIS,False,Nouvelle-Aquitaine,business analyst
+212TBBJ,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,10,M1811,Data engineer,CDI,False,Bretagne,data engineer
+212THHD,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Bourgogne-Franche-Comté,business analyst
+212THJZ,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),DIN,False,Auvergne-Rhône-Alpes,developpeur ia
+212THRZ,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+212TJCK,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,10,H1218,Responsable de projet recherche et développement,CDI,False,Auvergne-Rhône-Alpes,devops
+212TJGY,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,10,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,devops
+212TJJF,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,10,M1802,Expert / Experte systèmes et réseaux informatiques,CDI,False,Auvergne-Rhône-Alpes,devops
+212TJYL,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,10,M1855,Développeur / Développeuse web,CDI,False,Nouvelle-Aquitaine,devops
+212TKBJ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,10,M1802,Expert / Experte systèmes et réseaux informatiques,CDI,False,Ile-de-France,devops
+212TKHW,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,10,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Occitanie,devops
+212TKMZ,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,10,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+212TKYQ,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,M1718,Chargé / Chargée de marketing digital,CDI,False,Occitanie,business analyst
+212TLDS,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,10,C1209,Spécialiste de la vérification client,CDI,False,Occitanie,business analyst
+6181703,2026-08-31 21:32:29+02,2026-08-31 21:32:29+02,Disparue,0,9,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,genai
+6181714,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,9,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+6185279,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,9,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Normandie,business analyst
+6186244,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,9,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+6189165,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,9,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+6203697,2026-08-31 21:32:21+02,2026-08-31 21:32:29+02,Disparue,0,9,M1405,Data scientist,CDI,False,Ile-de-France,genai
+6203701,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,9,H1406,Ingénieur / Ingénieure supply chain en industrie,CDI,False,Ile-de-France,business analyst
+6203702,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,9,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+6203706,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,9,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+6203707,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,9,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6204698,2026-08-31 21:32:20+02,2026-08-31 21:32:24+02,Disparue,0,9,M1419,Data analyst,CDI,False,Occitanie,data analyst senior
+6205230,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,9,M1811,Data engineer,MIS,False,Occitanie,data engineer
+6205322,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,9,M1419,Data analyst,CDI,False,Grand Est,data analyst
+6206210,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,9,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDD,True,Ile-de-France,business analyst
+6207903,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,9,M1405,Data scientist,CDD,True,Auvergne-Rhône-Alpes,data scientist
+6207908,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,9,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+212TTMY,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,9,M1852,Analyste d'étude informatique,CDI,False,Ile-de-France,data analyst
+6214728,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,8,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+6216982,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,8,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+6217089,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,8,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6217103,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,8,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,data engineer
+6217104,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,8,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6227121,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,7,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6227183,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,7,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+212VDFP,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,7,M1851,Analyste décisionnel - Business Intelligence,CDI,False,Ile-de-France,business analyst
+212VFFM,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+212VFQT,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,7,I1306,Frigoriste,CDI,False,Provence-Alpes-Côte d'Azur,machine learning
+212VFSH,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,7,M1811,Data engineer,CDI,False,Bourgogne-Franche-Comté,data engineer
+212VGRP,2026-08-31 21:32:22+02,2026-08-31 21:32:28+02,Disparue,0,7,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+212VHBZ,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,7,M1852,Analyste d'étude informatique,MIS,False,Ile-de-France,business analyst
+212VHMV,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,7,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+212VHNV,2026-08-31 21:32:21+02,2026-08-31 21:32:23+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,devops
+212VHQM,2026-08-31 21:32:21+02,2026-08-31 21:32:23+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,devops
+212VHZQ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,7,M1855,Développeur / Développeuse web,CDI,False,Ile-de-France,devops
+212VJMZ,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,7,M1895,Géomaticien / Géomaticienne,CDD,False,Bretagne,data analyst
+212VMCW,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,7,M1810,Technicien / Technicienne d'exploitation informatique,CDI,False,Grand Est,devops
+212VPVJ,2026-08-31 21:32:21+02,2026-08-31 21:32:23+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,devops
+212VPXC,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,7,M1860,Architecte cloud,CDI,False,Ile-de-France,devops
+212VVLN,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,7,M1855,Développeur / Développeuse web,CDD,False,Ile-de-France,devops
+212VVRK,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,7,M1811,Data engineer,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+212VWPJ,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,7,M1811,Data engineer,CDD,False,Ile-de-France,data engineer
+212VWZB,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,7,M1811,Data engineer,CDD,False,Ile-de-France,data engineer
+212VXGP,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,7,H1215,"Bioinformaticien / Bioinformaticienne en études, recherche et développement",CDD,False,Ile-de-France,devops
+212VXPR,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,7,M1855,Développeur / Développeuse web,CDD,False,Ile-de-France,devops
+212VZWV,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,7,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+212VZXJ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,7,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Centre-Val de Loire,devops
+6236512,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,6,M1828,Chef de projet / Cheffe de projet (Project Management Officer),CDI,False,Grand Est,business analyst
+6240246,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,6,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+6242141,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,6,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6244043,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,6,M1201,Analyste financier / Analyste financière,CDI,False,Bretagne,business analyst
+6244134,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,6,M1201,Analyste financier / Analyste financière,CDI,False,Pays de la Loire,business analyst
+6244341,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,6,M1201,Analyste financier / Analyste financière,CDI,False,Ile-de-France,business analyst
+6244456,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,6,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6245051,2026-08-31 21:32:21+02,2026-08-31 21:32:25+02,Disparue,0,6,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer senior
+6245173,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,6,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+6245172,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,6,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+6245180,2026-08-31 21:32:21+02,2026-08-31 21:32:25+02,Disparue,0,6,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+6245181,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,6,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+212WHSJ,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,6,M1805,Développeur / Développeuse informatique,CDI,False,Grand Est,developpeur ia
+212WJJN,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,6,M1802,Expert / Experte systèmes et réseaux informatiques,CDI,False,Ile-de-France,devops
+212WRCG,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,6,M1878,Responsable de la production informatique,CDI,False,Auvergne-Rhône-Alpes,devops
+212WRHG,2026-08-31 21:32:23+02,2026-08-31 21:32:28+02,Disparue,0,6,M1855,Développeur / Développeuse web,CDI,False,Occitanie,developpeur ia
+6264401,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,6,M1868,Architecte base de données,CDI,False,Provence-Alpes-Côte d'Azur,data engineer
+6268435,2026-08-31 21:32:24+02,2026-08-31 21:32:24+02,Disparue,0,6,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Auvergne-Rhône-Alpes,mlops
+6268831,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,6,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),MIS,False,Ile-de-France,developpeur ia
+212WVLK,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,6,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+212WWPX,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Grand Est,business analyst
+6271290,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,6,M1419,Data analyst,CDD,True,Ile-de-France,business analyst
+212WZKZ,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,6,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Pays de la Loire,developpeur ia
+212XDLB,2026-08-31 21:32:23+02,2026-08-31 21:32:28+02,Disparue,0,6,M1855,Développeur / Développeuse web,CDI,False,Occitanie,developpeur ia
+212XFGL,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,6,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Nouvelle-Aquitaine,developpeur ia
+212XGGF,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,6,M1853,Chef / Cheffe de projet étude et développement informatique,CDI,False,Pays de la Loire,machine learning
+212XGZV,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,6,M1855,Développeur / Développeuse web,CDI,False,Ile-de-France,machine learning
+212XHHD,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,6,M1805,Développeur / Développeuse informatique,CDI,False,Bourgogne-Franche-Comté,machine learning
+212XKSK,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,6,M1405,Data scientist,CDD,False,Ile-de-France,data scientist
+212XKWS,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,6,M1419,Data analyst,CDD,False,Grand Est,data analyst
+212XLDH,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,6,M1828,Chef de projet / Cheffe de projet (Project Management Officer),CDI,False,Provence-Alpes-Côte d'Azur,devops
+212XMPF,2026-08-31 21:32:21+02,2026-08-31 21:32:23+02,Disparue,0,6,M1405,Data scientist,CDI,False,Ile-de-France,devops
+6275634,2026-08-31 21:32:24+02,2026-08-31 21:32:24+02,Disparue,0,6,M1419,Data analyst,CDI,False,Ile-de-France,data analyst senior
+6277000,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,6,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6277017,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,6,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+6277738,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,5,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+6278304,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,5,M1405,Data scientist,CDI,False,Provence-Alpes-Côte d'Azur,data scientist
+6278369,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,5,M1419,Data analyst,CDD,True,Hauts-de-France,data analyst
+6284052,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,5,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+6284088,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,5,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+6284532,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,5,M1419,Data analyst,MIS,False,Auvergne-Rhône-Alpes,data analyst
+6284555,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,5,M1405,Data scientist,MIS,False,Ile-de-France,data scientist
+6288677,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,5,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+6288710,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,5,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+212XRPX,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,5,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+212XRXB,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,5,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Hauts-de-France,devops
+212XRYP,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,5,G1211,Analyste de la performance sportive,MIS,False,Ile-de-France,data analyst
+212XVMD,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,5,M1855,Développeur / Développeuse web,CDI,False,Hauts-de-France,devops
+212XWNW,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,5,M1805,Développeur / Développeuse informatique,CDI,False,Hauts-de-France,developpeur ia
+212XXCR,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,5,M1805,Développeur / Développeuse informatique,CDI,False,Hauts-de-France,developpeur ia
+6304247,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,5,M1419,Data analyst,CDI,False,Pays de la Loire,business analyst
+6304626,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,5,M1419,Data analyst,CDI,False,Occitanie,data analyst
+6304725,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,5,M1861,Développeur / Développeuse logiciel ou d'application,CDI,False,Ile-de-France,developpeur ia
+6306199,2026-08-31 21:32:21+02,2026-08-31 21:32:25+02,Disparue,0,5,M1811,Data engineer,CDI,False,Ile-de-France,data engineer senior
+6307095,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,5,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+212YFNC,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,5,M1872,Consultant décisionnel / Consultante décisionnelle - Business Intelligence,CDI,False,Ile-de-France,devops
+212YGKW,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,5,M1811,Data engineer,CDI,False,Grand Est,data engineer
+212YKFH,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,5,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Non renseignee,devops
+212YKYZ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,5,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Martinique,devops
+212YLVR,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,5,M1827,Ingénieur / Ingénieure DevOps,CDD,False,Grand Est,devops
+212YNKT,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,5,I1310,Mécanicien / Mécanicienne de maintenance industrielle,CDI,False,Auvergne-Rhône-Alpes,machine learning
+212YNWG,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,5,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Pays de la Loire,devops
+212YRWT,2026-08-31 21:32:23+02,2026-08-31 21:32:28+02,Disparue,0,5,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+212YSHJ,2026-08-31 21:32:21+02,2026-08-31 21:32:23+02,Disparue,0,5,M1811,Data engineer,CDI,False,Ile-de-France,devops
+6316217,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,5,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+212YWRS,2026-08-31 21:32:22+02,2026-08-31 21:32:28+02,Disparue,0,4,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,developpeur ia
+6322167,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6322889,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+6323329,2026-08-31 21:32:24+02,2026-08-31 21:32:24+02,Disparue,0,4,F1137,Chargé / Chargée de méthodes BTP,CDD,False,Ile-de-France,mlops
+6323833,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,4,M1405,Data scientist,CDI,False,Pays de la Loire,data scientist
+6324109,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,MIS,False,Ile-de-France,business analyst
+6324332,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,4,M1405,Data scientist,CDI,False,Pays de la Loire,machine learning
+6325835,2026-08-31 21:32:22+02,2026-08-31 21:32:28+02,Disparue,0,4,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+6325841,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,4,M1405,Data scientist,CDI,False,Non renseignee,machine learning
+6326269,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,4,J1304,Auxiliaire de puériculture,CDI,False,Pays de la Loire,machine learning
+212YYXJ,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,4,M1419,Data analyst,CDI,False,Grand Est,data analyst
+212ZDRH,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,4,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,machine learning
+212ZGMJ,2026-08-31 21:32:22+02,2026-08-31 21:32:28+02,Disparue,0,4,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Hauts-de-France,developpeur ia
+212ZHCM,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,4,H1520,Ingénieur qualité / Ingénieure qualité,CDI,False,Hauts-de-France,devops
+6340946,2026-08-31 21:32:29+02,2026-08-31 21:32:29+02,Disparue,0,4,M1868,Architecte base de données,CDI,False,Occitanie,genai
+6340957,2026-08-31 21:32:21+02,2026-08-31 21:32:25+02,Disparue,0,4,M1868,Architecte base de données,CDI,False,Ile-de-France,data engineer senior
+6341769,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,4,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,data analyst
+6341771,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,4,D1410,Attaché commercial / Attachée commerciale,CDD,True,Ile-de-France,machine learning
+6341921,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,4,D1410,Attaché commercial / Attachée commerciale,CDD,True,Ile-de-France,machine learning
+6341936,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,4,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+6341937,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,4,M1405,Data scientist,CDD,True,Ile-de-France,machine learning
+6341959,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,4,M1419,Data analyst,CDI,False,Occitanie,business analyst
+212ZHVP,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,4,M1419,Data analyst,CDD,False,Occitanie,data analyst
+212ZKRP,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+212ZLNH,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+212ZLTH,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,4,K2202,Laveur / Laveuse de vitres,CDI,False,Nouvelle-Aquitaine,machine learning
+6344771,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,4,M1405,Data scientist,CDD,True,Ile-de-France,machine learning
+6344775,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,4,M1419,Data analyst,CDD,True,Ile-de-France,data analyst
+6344763,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,4,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDD,True,Ile-de-France,data analyst
+6344786,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,4,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+6344772,2026-08-31 21:32:21+02,2026-08-31 21:32:28+02,Disparue,0,4,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+212ZPXY,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,4,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+6349492,2026-08-31 21:32:20+02,2026-08-31 21:32:24+02,Disparue,0,4,E1405,Référenceur / Référenceuse web,CDI,False,Ile-de-France,data analyst senior
+212ZTTV,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,4,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+212ZWZX,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,4,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+212ZXGN,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,4,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Provence-Alpes-Côte d'Azur,devops
+212ZZGK,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,4,M1805,Développeur / Développeuse informatique,CDI,False,Nouvelle-Aquitaine,devops
+212ZZXK,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,4,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Ile-de-France,devops
+6354745,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,3,M1405,Data scientist,CDI,False,Pays de la Loire,machine learning
+6355185,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,H2906,Opérateur / Opératrice en fabrication mécanique,CDI,False,Nouvelle-Aquitaine,machine learning
+6357524,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6357545,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,M1811,Data engineer,CDI,False,Hauts-de-France,machine learning
+6357546,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,3,M1419,Data analyst,CDI,False,Provence-Alpes-Côte d'Azur,data analyst
+6357548,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,3,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6359301,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,I1302,Technicien / Technicienne de maintenance d'installations automatisées,CDI,False,Nouvelle-Aquitaine,machine learning
+6359852,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,MIS,False,Pays de la Loire,data engineer
+6378251,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,3,H1406,Ingénieur / Ingénieure supply chain en industrie,CDI,False,Nouvelle-Aquitaine,data analyst
+6378351,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,I1122,Directeur / Directrice de travaux d'infrastructure,CDI,False,Ile-de-France,data scientist
+6378365,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1405,Data scientist,CDI,False,Ile-de-France,data scientist
+213BFVM,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,H3302,Agent / Agente de conditionnement,MIS,False,Bretagne,machine learning
+213BHFF,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,MIS,False,Nouvelle-Aquitaine,data engineer
+213BHNP,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,3,M1852,Analyste d'étude informatique,CDI,False,Ile-de-France,business analyst
+213BJJN,2026-08-31 21:32:21+02,2026-08-31 21:32:23+02,Disparue,0,3,M1876,Technicien / Technicienne Cloud,CDI,False,Ile-de-France,devops
+213BKXW,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+213BNCW,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6379996,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1707,Responsable du développement commercial,CDI,False,Ile-de-France,data engineer
+6380064,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6380074,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1707,Responsable du développement commercial,CDI,False,Hauts-de-France,data engineer
+6381759,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,3,M1864,Product Owner,CDI,False,Occitanie,business analyst
+6381869,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,D1403,Conseiller commercial / Conseillère commerciale auprès des particuliers,CDI,False,Provence-Alpes-Côte d'Azur,machine learning
+6381878,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,3,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6381885,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,3,M1419,Data analyst,CDI,False,Auvergne-Rhône-Alpes,business analyst
+6381905,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1868,Architecte base de données,CDI,False,Hauts-de-France,data engineer
+6381935,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1868,Architecte base de données,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6382153,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,M1702,Planneur / Planneuse stratégique,LIB,False,Nouvelle-Aquitaine,machine learning
+6382156,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1868,Architecte base de données,LIB,False,Auvergne-Rhône-Alpes,data engineer
+6382179,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1868,Architecte base de données,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6382786,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,CDI,False,Hauts-de-France,data engineer
+6383476,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,3,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Ile-de-France,developpeur ia
+6384314,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,3,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+213BVTB,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,CDD,False,Ile-de-France,data engineer
+213BWNQ,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,H2903,Usineur / Usineuse,MIS,False,Pays de la Loire,machine learning
+213BXLV,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,3,M1864,Product Owner,CDI,False,Occitanie,devops
+213BXQW,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Occitanie,business analyst
+213BXYF,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,data engineer
+213BYFZ,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,3,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+213BYNR,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,3,M1827,Ingénieur / Ingénieure DevOps,CDI,False,Hauts-de-France,devops
+213BYPM,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,3,M1802,Expert / Experte systèmes et réseaux informatiques,CDI,False,Pays de la Loire,devops
+213BZVD,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,3,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+213CFKJ,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,3,K2111,Formateur / Formatrice,CDI,False,Ile-de-France,machine learning
+213CFXN,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,3,M1435,Chargé de tracking vérificateur / Chargée de tracking vérificatrice,CDD,False,Occitanie,data analyst
+213CHCV,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,3,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6394722,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,2,C1105,Actuaire en assurances,CDI,False,Ile-de-France,machine learning
+6396130,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Occitanie,business analyst
+6396501,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,2,M1861,Développeur / Développeuse logiciel ou d'application,CDI,False,Nouvelle-Aquitaine,developpeur ia
+6397017,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,2,M1419,Data analyst,CDI,False,Ile-de-France,business analyst
+6397044,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6397651,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Ile-de-France,business analyst
+6397732,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,2,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6398145,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,2,M1419,Data analyst,CDI,False,Nouvelle-Aquitaine,data analyst
+6398158,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+6398243,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Pays de la Loire,business analyst
+6399378,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,2,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Auvergne-Rhône-Alpes,developpeur ia
+6399377,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,2,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Bourgogne-Franche-Comté,developpeur ia
+6399397,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,2,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+6400564,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,MIS,False,Ile-de-France,business analyst
+6401127,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Hauts-de-France,business analyst
+6401503,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Non renseignee,business analyst
+6401504,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,2,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+6401509,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,2,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,developpeur ia
+6401510,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,2,M1405,Data scientist,CDI,False,Non renseignee,machine learning
+6402284,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,2,M1419,Data analyst,CDI,False,Ile-de-France,business analyst
+6417943,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,2,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6418493,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,2,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Occitanie,developpeur ia
+6419275,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,2,M1419,Data analyst,CDI,False,Grand Est,data analyst
+6419296,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,2,C1208,Courtier / Courtière en banque,CDI,False,Grand Est,business analyst
+6423571,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,2,C1401,Agent administratif / Agente administrative banque ou assurance,CDD,False,Occitanie,machine learning
+6424878,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,1,G1211,Analyste de la performance sportive,CDI,False,Occitanie,data analyst
+6424882,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,K1804,Conseiller / Conseillère en création d'entreprise,CDI,False,Occitanie,machine learning
+6424893,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,C1130,Gestionnaire en protection sociale,CDI,False,Ile-de-France,machine learning
+6425687,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,1,M1419,Data analyst,CDI,False,Nouvelle-Aquitaine,data analyst
+6429100,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,1,M1419,Data analyst,CDI,False,Occitanie,business analyst
+6429386,2026-08-31 21:32:20+02,2026-08-31 21:32:30+02,Active,0,1,M1419,Data analyst,CDI,False,Ile-de-France,business analyst
+6430067,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,1,M1419,Data analyst,CDI,False,Ile-de-France,data analyst
+6430326,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,1,M1811,Data engineer,CDI,False,Ile-de-France,machine learning
+6430343,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,1,M1864,Product Owner,CDI,False,Auvergne-Rhône-Alpes,business analyst
+6430354,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,1,M1811,Data engineer,MIS,False,Ile-de-France,machine learning
+6430369,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,M1813,Intégrateur / Intégratrice logiciels métiers,CDI,False,Ile-de-France,machine learning
+6430376,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,1,M1405,Data scientist,CDI,False,Ile-de-France,machine learning
+6430420,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,1,M1405,Data scientist,MIS,False,Ile-de-France,machine learning
+6430487,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,1,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Auvergne-Rhône-Alpes,business analyst
+6430489,2026-08-31 21:32:30+02,2026-08-31 21:32:30+02,Active,0,1,M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,CDI,False,Nouvelle-Aquitaine,business analyst
+6430490,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,1,M1811,Data engineer,CDI,False,Ile-de-France,data engineer
+6430579,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,M1501,Assistant / Assistante Ressources Humaines (RH),CDI,False,Ile-de-France,machine learning
+6430582,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,H2515,Chef / Cheffe d'atelier en industrie de transformation,CDI,False,Ile-de-France,machine learning
+6430585,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,H2515,Chef / Cheffe d'atelier en industrie de transformation,CDI,False,Ile-de-France,machine learning
+6430591,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,H2515,Chef / Cheffe d'atelier en industrie de transformation,CDI,False,Ile-de-France,machine learning
+6430639,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Non renseignee,machine learning
+6433165,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,1,G1302,Yield manager,CDI,False,Centre-Val de Loire,data analyst
+6433758,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,K2111,Formateur / Formatrice,CDI,False,Bretagne,machine learning
+6435841,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,1,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Occitanie,developpeur ia
+6435913,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,1,M1405,Data scientist,CDI,False,Ile-de-France,data scientist senior
+6436370,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,1,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Grand Est,developpeur ia
+6436377,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,1,M1811,Data engineer,CDI,False,Bourgogne-Franche-Comté,data engineer
+213CMWW,2026-08-31 21:32:22+02,2026-08-31 21:32:22+02,Disparue,0,1,K2111,Formateur / Formatrice,LIB,False,Centre-Val de Loire,machine learning
+6445466,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,0,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,Auvergne-Rhône-Alpes,developpeur ia
+213CNNN,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,0,M1419,Data analyst,CDD,True,La Réunion,data analyst
+213CNNV,2026-08-31 21:32:28+02,2026-08-31 21:32:28+02,Disparue,0,0,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDD,True,La Réunion,developpeur ia
+213CSLD,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,0,M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),CDI,False,Ile-de-France,devops
+213CTNR,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,0,M1834,Administrateur / Administratrice de site internet,CDI,False,Auvergne-Rhône-Alpes,devops
+213CXWS,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,0,M1811,Data engineer,CDI,False,Auvergne-Rhône-Alpes,data engineer
+6462362,2026-08-31 21:32:20+02,2026-08-31 21:32:20+02,Disparue,0,0,M1419,Data analyst,CDD,True,Provence-Alpes-Côte d'Azur,data analyst
+213DGJM,2026-08-31 21:32:21+02,2026-08-31 21:32:26+02,Disparue,0,0,M1405,Data scientist,CDD,False,Ile-de-France,data scientist senior
+213DGMC,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,0,M1811,Data engineer,CDD,False,Ile-de-France,machine learning
+213DHPQ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,0,M1855,Développeur / Développeuse web,CDI,False,Auvergne-Rhône-Alpes,devops
+213DHSQ,2026-08-31 21:32:23+02,2026-08-31 21:32:23+02,Disparue,0,0,M1855,Développeur / Développeuse web,CDI,False,Auvergne-Rhône-Alpes,devops
+213DJPS,2026-08-31 21:32:21+02,2026-08-31 21:32:21+02,Disparue,0,0,M1811,Data engineer,CDI,False,Nouvelle-Aquitaine,data engineer
+6467491,2026-08-31 21:32:21+02,2026-08-31 21:32:22+02,Disparue,0,0,M1811,Data engineer,CDI,False,Ile-de-France,machine learning

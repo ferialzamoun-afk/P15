@@ -1,0 +1,901 @@
+﻿date_collecte,type_dimension,valeur_dimension,nombre_offres
+2026-08-14,Contrat,CDI,366
+2026-08-15,Contrat,CCE,2
+2026-08-14,Contrat,LIB,5
+2026-08-31,Contrat,LIB,7
+2026-08-31,Contrat,DIN,1
+2026-08-15,Contrat,CDI,86
+2026-08-31,Contrat,CDI,541
+2026-08-14,Contrat,MIS,21
+2026-08-31,Contrat,CDD,91
+2026-08-15,Contrat,CDD,6
+2026-08-31,Contrat,DDI,2
+2026-08-14,Contrat,CDD,81
+2026-08-31,Contrat,MIS,40
+2026-08-15,Contrat,MIS,6
+2026-08-14,Region (derniere connue),Occitanie,25
+2026-08-15,Region (derniere connue),Nouvelle-Aquitaine,10
+2026-08-31,Region (derniere connue),Grand Est,38
+2026-08-31,Region (derniere connue),Nouvelle-Aquitaine,42
+2026-08-15,Region (derniere connue),Grand Est,1
+2026-08-14,Region (derniere connue),Grand Est,31
+2026-08-14,Region (derniere connue),Nouvelle-Aquitaine,28
+2026-08-31,Region (derniere connue),Occitanie,45
+2026-08-15,Region (derniere connue),Occitanie,2
+2026-08-14,Region (derniere connue),Provence-Alpes-Côte d'Azur,35
+2026-08-14,Region (derniere connue),Bourgogne-Franche-Comté,7
+2026-08-15,Region (derniere connue),Ile-de-France,50
+2026-08-15,Region (derniere connue),Auvergne-Rhône-Alpes,18
+2026-08-15,Region (derniere connue),Bretagne,3
+2026-08-31,Region (derniere connue),Auvergne-Rhône-Alpes,74
+2026-08-31,Region (derniere connue),Ile-de-France,293
+2026-08-31,Region (derniere connue),Bretagne,14
+2026-08-15,Region (derniere connue),Hauts-de-France,3
+2026-08-31,Region (derniere connue),Hauts-de-France,38
+2026-08-14,Region (derniere connue),Corse,1
+2026-08-14,Region (derniere connue),Centre-Val de Loire,8
+2026-08-31,Region (derniere connue),La Réunion,9
+2026-08-14,Region (derniere connue),Normandie,5
+2026-08-14,Region (derniere connue),Non renseignee,12
+2026-08-14,Region (derniere connue),Pays de la Loire,20
+2026-08-31,Region (derniere connue),Martinique,3
+2026-08-15,Region (derniere connue),Normandie,3
+2026-08-31,Region (derniere connue),Normandie,7
+2026-08-31,Region (derniere connue),Centre-Val de Loire,9
+2026-08-31,Region (derniere connue),Non renseignee,24
+2026-08-31,Region (derniere connue),Guyane,4
+2026-08-15,Region (derniere connue),Centre-Val de Loire,2
+2026-08-14,Region (derniere connue),La Réunion,2
+2026-08-31,Region (derniere connue),Pays de la Loire,34
+2026-08-14,Region (derniere connue),Martinique,2
+2026-08-15,Region (derniere connue),Pays de la Loire,6
+2026-08-14,Region (derniere connue),Ile-de-France,211
+2026-08-14,Region (derniere connue),Auvergne-Rhône-Alpes,55
+2026-08-14,Region (derniere connue),Hauts-de-France,19
+2026-08-14,Region (derniere connue),Bretagne,12
+2026-08-31,Region (derniere connue),Provence-Alpes-Côte d'Azur,36
+2026-08-31,Region (derniere connue),Bourgogne-Franche-Comté,12
+2026-08-15,Region (derniere connue),Provence-Alpes-Côte d'Azur,2
+2026-08-14,Competence,Utiliser des logiciels statistiques pour le traitement de données,1
+2026-08-14,Competence,SQL,1
+2026-08-14,Competence,Définir et faire évoluer des procédés de traitement de l'information,17
+2026-08-15,Competence,Optimiser l'utilisation des ressources informatiques,1
+2026-08-31,Competence,"Analyser, exploiter, structurer des données",50
+2026-08-31,Competence,Apporter une assistance technique aux équipes,4
+2026-08-31,Competence,"Concevoir un logiciel, un système d'informations, une application",9
+2026-08-31,Competence,Jira,2
+2026-08-14,Competence,Configurer le poste de travail aux besoins de l'utilisateur,2
+2026-08-14,Competence,Data engineer,4
+2026-08-14,Competence,Google ads,1
+2026-08-31,Competence,ERP LN,1
+2026-08-31,Competence,Anglais technique,8
+2026-08-31,Competence,Paramétrer un programme d'automatisation pour un automate programmable,1
+2026-08-14,Competence,Planifier et coordonner les activités de projet CVC,1
+2026-08-15,Competence,Analyser les besoins fonctionnels des utilisateurs,7
+2026-08-31,Competence,Configurer et optimiser des systèmes DevOps,35
+2026-08-14,Competence,Bootstrap,1
+2026-08-14,Competence,Collaborer dans un groupe pour réaliser un projet,6
+2026-08-14,Competence,Argumenter pour obtenir des financements,1
+2026-08-14,Competence,Définir l'implantation des éléments d'un équipement,1
+2026-08-14,Competence,"Vérifier le montage et le câblage (valeur des composants, continuité électrique, etc.)",1
+2026-08-31,Competence,Lecture de plans et de schémas,1
+2026-08-31,Competence,Java,4
+2026-08-14,Competence,Gérer et maitriser des bases de données (SQL/NoSQL),4
+2026-08-14,Competence,Architecture web,2
+2026-08-15,Competence,Gestion des risques informatiques,1
+2026-08-14,Competence,Analyse de données programmatiques,2
+2026-08-14,Competence,Connaissance de l'industrie du noir de carbone,1
+2026-08-15,Competence,Communiquer efficacement avec l'équipe et les clients,3
+2026-08-14,Competence,Baliser les zones glissantes,1
+2026-08-31,Competence,Methodologie Agile / Safe,1
+2026-08-14,Competence,Conformité et réglementations du cloud,1
+2026-08-31,Competence,Communiquer efficacement avec l'équipe et les clients,2
+2026-08-31,Competence,Analyser les besoins fonctionnels des utilisateurs,3
+2026-08-14,Competence,Développer une application en lien avec une base de données,2
+2026-08-14,Competence,Actualiser régulièrement ses connaissances,4
+2026-08-14,Competence,Piloter le déploiement et l'intégration d'outils d'optimisation au sein des processus métiers,1
+2026-08-31,Competence,"Positionner et fixer les groupes, condenseurs, tubes, câbles électriques",1
+2026-08-31,Competence,Intégration de systèmes,1
+2026-08-14,Competence,"Créer, élaborer et identifier des concepts innovants",2
+2026-08-14,Competence,Optimisation de la performance des systèmes,1
+2026-08-14,Competence,#TDFE2026,9
+2026-08-31,Competence,Inspecter visuellement les produits finis pour détecter les défauts,1
+2026-08-31,Competence,"Infra & DevOps : AWS (ECS), Docker, CI/CD",1
+2026-08-31,Competence,Recruter et intégrer une personne,1
+2026-08-31,Competence,#TDEF2026,2
+2026-08-14,Competence,Paramétrer un logiciel métier et l'interfacer à d'autres applicatifs,2
+2026-08-31,Competence,CI/CD,1
+2026-08-31,Competence,Méthodologie Agile Scrum,1
+2026-08-14,Competence,Concevoir des tableaux de bord pour le suivi des performances,2
+2026-08-14,Competence,Contrôler et vérifier la qualité,1
+2026-08-31,Competence,Concevoir des architectures de sécurité,1
+2026-08-14,Competence,Présider ou participer à un jury d'examen,1
+2026-08-14,Competence,Anglais financier,1
+2026-08-31,Competence,ERP,1
+2026-08-14,Competence,Analyser des données pour prendre des décisions stratégiques,4
+2026-08-14,Competence,Dépanner des équipements informatiques,1
+2026-08-14,Competence,"Contrôler la conformité d'un équipement, d'une machine, d'une installation",2
+2026-08-15,Competence,Recruter et intégrer une personne,1
+2026-08-31,Competence,SQL et SQL SERVER,1
+2026-08-31,Competence,Cypress,1
+2026-08-14,Competence,Circuits hydrauliques,3
+2026-08-14,Competence,Développement Typescript/Angular,1
+2026-08-14,Competence,Documenter les procédures techniques et les configurations,1
+2026-08-14,Competence,"Réparer un équipement, une machine, une installation",1
+2026-08-31,Competence,Respecter des normes et consignes,1
+2026-08-31,Competence,"Vous êtes à l'aise avec FastAPI, les APIs, Docker",1
+2026-08-14,Competence,Capacité à schématiser,1
+2026-08-14,Competence,Windows Server,1
+2026-08-31,Competence,Déployer le code de façon conteneurisée,2
+2026-08-31,Competence,Application des méthodes de machine learning dans BI,1
+2026-08-14,Competence,"Enseigner, développer des compétences",1
+2026-08-31,Competence,Concevoir et maintenir un système de cybersécurité,3
+2026-08-31,Competence,Mettre en place des solutions d'amélioration de la performance,2
+2026-08-31,Competence,Xray,1
+2026-08-31,Competence,Langage informatique SQL,1
+2026-08-31,Competence,Présenter les évolutions du système d'information au commanditaire,2
+2026-08-14,Competence,"Déployer, intégrer un logiciel, un système d'informations, une application",1
+2026-08-14,Competence,Coordonner les équipes de développement ou de production pour respecter les délais,1
+2026-08-14,Competence,conteneurisation,1
+2026-08-31,Competence,Confluence,2
+2026-08-14,Competence,Réaliser les essais de fonctionnement,1
+2026-08-31,Competence,Développement JavaScript,1
+2026-08-14,Competence,Ingénieur diplômé de l'école nationale supérieure d'informatique pour l'industrie et l'entreprise spécialité informatique,2
+2026-08-14,Competence,"Collecter et analyser des données, des informations",3
+2026-08-31,Competence,JavaScript,1
+2026-08-14,Competence,Concevoir un projet de santé,1
+2026-08-31,Competence,Analyser la recevabilité d'une demande de crédit,1
+2026-08-14,Competence,Connaissance approfondie en mathématiques,3
+2026-08-15,Competence,Intégration de systèmes,1
+2026-08-14,Competence,Régler des caméras,1
+2026-08-31,Competence,Pneumatique,2
+2026-08-31,Competence,Optimiser l'utilisation des ressources informatiques,1
+2026-08-31,Competence,Assurer la conformité des livrables de projet,1
+2026-08-14,Competence,"Python (NumPy, pandas, Biopython)",1
+2026-08-14,Competence,Installer le matériel et les équipements sur un lieu de tournage,1
+2026-08-31,Competence,JSON,1
+2026-08-14,Competence,Documenter les procédures techniques pour les utilisateurs,1
+2026-08-31,Competence,Architecture de solutions cloud,1
+2026-08-14,Competence,Créer une documentation technique,1
+2026-08-14,Competence,Communiquer des résultats de recherche à des non-spécialistes,1
+2026-08-31,Competence,Mlops,1
+2026-08-31,Competence,Établir un cahier des charges,1
+2026-08-14,Competence,Logiciel de supervision,2
+2026-08-31,Competence,Règles de sécurité Informatique et Télécoms,1
+2026-08-14,Competence,Gestion de bases de données biologiques,1
+2026-08-14,Competence,Communiquer les résultats des études aux parties prenantes,30
+2026-08-14,Competence,Réglementation applicable à son domaine d’activité,1
+2026-08-31,Competence,Identifier les contraintes d'un projet,1
+2026-08-31,Competence,Optimiser les performances des systèmes d'IA,22
+2026-08-14,Competence,Traiter des données,4
+2026-08-14,Competence,Effectuer le suivi technique des produits et leur évolution auprès des clients,1
+2026-08-14,Competence,Réaliser un modèle de prévision,4
+2026-08-31,Competence,Techniques de formation individuelle,1
+2026-08-31,Competence,Optimiser l'utilisation des ressources cloud,2
+2026-08-14,Competence,Gérer les campagnes publicitaires digitales,2
+2026-08-14,Competence,Développer des modèles prédictifs pour l'analyse de données,14
+2026-08-31,Competence,Conditionner des produits,1
+2026-08-14,Competence,Exploiter des solutions de Data Science ou d'Intelligence Artificielle,4
+2026-08-14,Competence,Communiquer auprès de ses interlocuteurs internes et externes,4
+2026-08-31,Competence,Analyse de données client,1
+2026-08-31,Competence,Identifier et interpréter les données et caractéristiques géographiques et analyser les résultats,1
+2026-08-31,Competence,TypeScript / Node.js,1
+2026-08-31,Competence,Concevoir les spécifications de l'installation automatisée en fonction du cahier des charges,1
+2026-08-31,Competence,Planifier des sessions de brainstorming pour l'innovation en données,2
+2026-08-14,Competence,python,2
+2026-08-14,Competence,Respecter la confidentialité des informations,1
+2026-08-31,Competence,"Réaliser une étude de marché, évaluer le potentiel d'un produit ou service",3
+2026-08-31,Competence,Intégrer des considérations éthiques dans l'analyse de données,2
+2026-08-31,Competence,Elaborer une stratégie de résolution de problèmes,1
+2026-08-14,Competence,"UniProt, PDB, NCBI/GenBank",1
+2026-08-14,Competence,Collaborer avec les développeurs pour améliorer la qualité du logiciel,2
+2026-08-14,Competence,Assurer la sécurité des pipelines de CI/CD,6
+2026-08-31,Competence,Systèmes d'exploitation informatique,3
+2026-08-31,Competence,Intégrer des outils IA/Data Science,4
+2026-08-14,Competence,Mobiliser une vision stratégique et d'anticipation,1
+2026-08-14,Competence,Relayer de l'information,2
+2026-08-14,Competence,HTML,3
+2026-08-14,Competence,Analyser les besoins informatiques,7
+2026-08-14,Competence,Collaborer avec une équipe projet,6
+2026-08-14,Competence,Vérifier la compatibilité des développements produits avec les spécifications,2
+2026-08-31,Competence,Elaborer des solutions techniques et fonctionnelles,2
+2026-08-31,Competence,"Conda, docker, nextflow, snakemake",1
+2026-08-14,Competence,Système d'exploitation Linux,2
+2026-08-14,Competence,Méthode AGILE,2
+2026-08-14,Competence,Réaliser un diagnostic technique,1
+2026-08-14,Competence,Tableur Utilisation experte,2
+2026-08-31,Competence,C# ou C++,1
+2026-08-31,Competence,"Evaluer, prévenir, et gérer les risques et la sécurité",1
+2026-08-31,Competence,Concevoir l'ingénierie de formation et les séquences pédagogiques,2
+2026-08-14,Competence,"Entretenir, nettoyer un espace, un lieu, un local",2
+2026-08-14,Competence,Microsoft Azure,1
+2026-08-14,Competence,Présenter et valoriser un produit ou un service,1
+2026-08-31,Competence,Contrôle qualité et fiabilisation des données,1
+2026-08-14,Competence,PostgreSQL,1
+2026-08-14,Competence,GitHub,1
+2026-08-15,Competence,Elaborer une stratégie de résolution de problèmes,1
+2026-08-31,Competence,"ML/AI: scikit-learn, PyTorch, TensorFlow",1
+2026-08-31,Competence,"Optimiser des algorithmes, une application informatique et mettre en oeuvre leur développement",3
+2026-08-31,Competence,Gérer les versions de logiciels et leurs mises à jour,1
+2026-08-31,Competence,Conduire des travaux d'études et de recherche,2
+2026-08-31,Competence,"Piloter une démarche qualité, un processus d'amélioration continue",2
+2026-08-31,Competence,frameworks IA,1
+2026-08-14,Competence,"Structurer, synthétiser des informations",2
+2026-08-14,Competence,Réaliser un montage son ou vidéo,1
+2026-08-15,Competence,Recette sur applications web et mobiles,1
+2026-08-31,Competence,"Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",1
+2026-08-14,Competence,Analyse de données de production,2
+2026-08-14,Competence,Faciliter l'adoption de nouvelles technologies,1
+2026-08-31,Competence,Concevoir des supports de communication et d'image,1
+2026-08-14,Competence,MySQL,3
+2026-08-14,Competence,Modéliser une base de données,3
+2026-08-31,Competence,DRT modélisation calcul scientifique statistique et informatique,1
+2026-08-31,Competence,Favoriser un environnement de travail collaboratif,1
+2026-08-31,Competence,sql,1
+2026-08-15,Competence,"Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",1
+2026-08-31,Competence,"Maîtrise d'un outil de gestion de flux (Kafka, Flink…)",4
+2026-08-31,Competence,Diagnostiquer et résoudre les problèmes techniques du Cloud,1
+2026-08-31,Competence,"Lire et interpréter des données et documents techniques, au besoin en anglais",1
+2026-08-14,Competence,Analyser les risques de sécurité pour les systèmes informatiques,1
+2026-08-15,Competence,Développer des stratégies pour l'intégration des systèmes,2
+2026-08-31,Competence,Prévisions de ventes,1
+2026-08-14,Competence,Proposer des solutions innovantes pour résoudre des problèmes techniques,1
+2026-08-31,Competence,Piloter les fonctionnalités des équipements et systèmes de sécurité informatique,1
+2026-08-31,Competence,Améliorer les processus de reporting financier,2
+2026-08-31,Competence,Mise en place d'un RAG avec vectorisation,1
+2026-08-31,Competence,Abilité à suivre des réglementations strictes,1
+2026-08-14,Competence,Réseaux informatiques et télécoms,1
+2026-08-31,Competence,Azure Cloud,1
+2026-08-31,Competence,Azure DevOps,1
+2026-08-31,Competence,Terraform,1
+2026-08-14,Competence,Concevoir un plan d'analyse statistique,1
+2026-08-14,Competence,Animer une démarche agile et innovante,1
+2026-08-31,Competence,"Entretenir, nettoyer un produit ou du matériel",1
+2026-08-14,Competence,Assurer la maintenance préventive et les améliorations des infrastructures numériques,1
+2026-08-14,Competence,Python Django,1
+2026-08-14,Competence,Mettre en place des solutions de sauvegarde et de récupération des données,2
+2026-08-31,Competence,Documenter les procédures de sécurité,1
+2026-08-14,Competence,Assurer la conformité réglementaire des solutions cloud,1
+2026-08-31,Competence,dialogue avec des spécialistes d’autres discipline,1
+2026-08-14,Competence,Régulation et instrumentation,1
+2026-08-31,Competence,EXCEL Niveau Avancé TCD,1
+2026-08-31,Competence,Maintenir son attention dans la durée,1
+2026-08-31,Competence,Rédiger et élaborer des notices et fiches techniques,2
+2026-08-15,Competence,Elaborer et suivre des tableaux de bord des incidents sécurité,1
+2026-08-31,Competence,github,1
+2026-08-31,Competence,Développer des stratégies pour l'intégration des systèmes,1
+2026-08-15,Competence,Sécurité des systèmes d'information,1
+2026-08-14,Competence,Techniques de machine learning en bioinformatique,1
+2026-08-31,Competence,"Réaliser un dépannage sur site ou le remorquage d'un engin (engin de chantier, machine agricole, etc.)",1
+2026-08-14,Competence,Rédiger des documents d'ingénierie (rédaction des spécifications fonctionnelles et livrables techniques des solutions),2
+2026-08-31,Competence,Bash et environnement Linux,1
+2026-08-31,Competence,Encourager l'innovation responsable,1
+2026-08-31,Competence,.NET Core,1
+2026-08-31,Competence,Big data Analytics,1
+2026-08-31,Competence,Analyse de données expérimentales,1
+2026-08-14,Competence,Développer des tableaux de bord pour suivre les indicateurs de performance (KPI),2
+2026-08-14,Competence,Optimiser la visibilité des publications sur les réseaux sociaux,2
+2026-08-14,Competence,Se représenter un objet dans l'espace,1
+2026-08-14,Competence,Docker,3
+2026-08-15,Competence,Concevoir et gérer un projet,23
+2026-08-31,Competence,Utilisation d'outils Business Intelligence (BI) - Informatique décisionnelle,2
+2026-08-31,Competence,Concevoir et gérer un projet,34
+2026-08-31,Competence,Déterminer des mesures correctives,41
+2026-08-31,Competence,"Superviser, coordonner les réalisations ou développements informatiques (collaborateurs, sous-traitants)",1
+2026-08-14,Competence,Mastère spécialisé expert big data engineer,4
+2026-08-14,Competence,Documenter les processus et les architectures d'IA,9
+2026-08-31,Competence,"Rédiger un rapport, un compte rendu d'activité",1
+2026-08-31,Competence,Développement PowerBI,1
+2026-08-31,Competence,Réaliser un audit,1
+2026-08-31,Competence,"Mise en prodution de modele IA, ML (Exp 2 ans)",1
+2026-08-31,Competence,SAP ABAP,1
+2026-08-14,Competence,Compétences en traitement de données de santé,1
+2026-08-14,Competence,Concevoir une application web,16
+2026-08-31,Competence,Gérer la documentation technique et les archives de projets,1
+2026-08-14,Competence,Méthodes de clustering et classification,1
+2026-08-14,Competence,Administrer un système d'informations,7
+2026-08-14,Competence,Définir la stratégie des systèmes d'informations,2
+2026-08-15,Competence,"Jira, confluence, Power BI, SQL, TOGAF, BPMN",1
+2026-08-31,Competence,Recueillir et analyser les besoins client,6
+2026-08-14,Competence,Power BI,2
+2026-08-14,Competence,Surveiller le fonctionnement d'applicatifs et logiciels,2
+2026-08-14,Competence,Solide expertise en Python avec des bases de code,1
+2026-08-31,Competence,Rédaction d’articles scientifiques en anglais,1
+2026-08-31,Competence,Réaliser l'analyse fonctionnelle de l'installation et la décliner en un programme d'automatisation,1
+2026-08-31,Competence,"Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",4
+2026-08-14,Competence,Développement de produits basés sur l'IA,3
+2026-08-14,Competence,Déploiement de services cloud (cloud computing),6
+2026-08-31,Competence,Collaborer avec des équipes internationales pour des projets de recherche,1
+2026-08-14,Competence,LLM,1
+2026-08-14,Competence,Traitement de texte Utilisation experte,2
+2026-08-31,Competence,Gérer les risques associés aux technologies d'IA,1
+2026-08-31,Competence,Optimiser les performances des systèmes cloud,1
+2026-08-31,Competence,Expliquer et faire respecter les règles et procédures,1
+2026-08-14,Competence,Réaliser des études et développements informatiques,1
+2026-08-31,Competence,Maintenance préventive et curative de deuxième niveau,1
+2026-08-31,Competence,Optimiser la performance de l'organisation,1
+2026-08-14,Competence,Veille concurrentielle sur le marché digital,2
+2026-08-14,Competence,Collaborer avec les équipes pour comprendre les besoins en données,2
+2026-08-14,Competence,"Analyser les données d'une étude, d'un projet",1
+2026-08-31,Competence,Gérer les stocks de matériel de maintenance et de pièces de rechange,1
+2026-08-31,Competence,Garantir la confidentialité des informations,2
+2026-08-31,Competence,Documenter les procédures d'analyse pour assurer la continuité,1
+2026-08-14,Competence,Rédaction de publications scientifiques,1
+2026-08-14,Competence,"Identifier et sélectionner des fournisseurs, sous-traitants, prestataires",1
+2026-08-14,Competence,Planifier les mises à jour systèmes sans interruption de service,2
+2026-08-14,Competence,Configurer des serveurs pour des applications Cloud,1
+2026-08-31,Competence,Techniques de montage audiovisuel,1
+2026-08-31,Competence,Collaborer avec des experts en éthique pour évaluer les projets d'IA,1
+2026-08-31,Competence,"Backend : Python, FastAPI",1
+2026-08-14,Competence,"Tester un logiciel, un système d'informations, une application",3
+2026-08-14,Competence,Intelligence artificielle,3
+2026-08-14,Competence,Développer des scripts pour automatiser les tâches,2
+2026-08-14,Competence,Master mention informatique,4
+2026-08-31,Competence,Respecter les normes éthiques dans le développement de l'IA,1
+2026-08-31,Competence,Rédiger des rapports d'intervention détaillés,1
+2026-08-14,Competence,"Techniques de communication orales, écrites et numériques",1
+2026-08-31,Competence,"Sélectionner, traiter et réaliser l'analyse spatiale de données géographiques",1
+2026-08-31,Competence,Contrôler des données qualité,1
+2026-08-31,Competence,"Organiser, aménager un espace de vente",1
+2026-08-14,Competence,"Concevoir l'architecture d'un système, d'un réseau",2
+2026-08-31,Competence,"Entretenir un équipement, une machine, une installation",2
+2026-08-31,Competence,Gestion des brevets et propriété intellectuelle,1
+2026-08-31,Competence,BTS services informatiques aux organisations option B : solutions logicielles et applications métiers,1
+2026-08-14,Competence,Proposer des solutions adaptées aux problématiques de santé,1
+2026-08-14,Competence,javascript,1
+2026-08-15,Competence,Méthodologies Agile et Cycle en V,1
+2026-08-14,Competence,valorisation dans des revues internationales,1
+2026-08-14,Competence,machine learning,1
+2026-08-15,Competence,Déterminer des mesures correctives,1
+2026-08-15,Competence,Outils qualité et amélioration continue,1
+2026-08-31,Competence,Analyse des risques financiers,1
+2026-08-31,Competence,WEB,1
+2026-08-14,Competence,"Mettre en place une blockchain (protocoles, consensus etc.)",1
+2026-08-31,Competence,Analyse de données,1
+2026-08-31,Competence,Analyse de performance,1
+2026-08-14,Competence,"Git, GitHub ou GitLab",1
+2026-08-14,Competence,Suivre les évolutions réglementaires,1
+2026-08-15,Competence,Recueillir et analyser les besoins client,1
+2026-08-14,Competence,"Superviser des opérations, des actions",1
+2026-08-31,Competence,Contrôler la qualité et la conformité des process,1
+2026-08-31,Competence,Changer ou réparer une pièce ou un ensemble défectueux,1
+2026-08-14,Competence,Google Analytics,1
+2026-08-15,Competence,Optimiser la performance de l'organisation,1
+2026-08-31,Competence,Procéder aux phases de tests et de recettes des applications développées,1
+2026-08-31,Competence,Optimiser les processus de qualité pour assurer la fiabilité des logiciels,1
+2026-08-14,Competence,Agir rapidement en cas de panne pour minimiser les interruptions,1
+2026-08-31,Competence,Respecter les normes de confidentialité des données génétiques,1
+2026-08-14,Competence,Informatique,1
+2026-08-31,Competence,DUT informatique,1
+2026-08-14,Competence,Diplôme d'ingénieur IA ou MASTER informatique IA,1
+2026-08-14,Competence,Implémenter des solutions de sécurité informatique,1
+2026-08-14,Competence,Connaissance d'AWS,1
+2026-08-14,Competence,Azure App Service,1
+2026-08-15,Competence,Maîtrise de l'outil de gestion Jira,1
+2026-08-15,Competence,Modélisation informatique,1
+2026-08-31,Competence,Développer des stratégies d'innovation adaptées aux besoins du marché,1
+2026-08-31,Competence,Analyser des données techniques pour optimiser les processus,1
+2026-08-14,Competence,rigueur documentaire,1
+2026-08-14,Competence,Développer une démarche pédagogique pour l'enseignement des savoirs fondamentaux,1
+2026-08-14,Competence,Connexion électrique,1
+2026-08-31,Competence,Licence pro mention métiers de l'informatique : applications web,1
+2026-08-14,Competence,Meta ads,1
+2026-08-14,Competence,Documenter les interventions et les anomalies rencontrées,1
+2026-08-14,Competence,Gérer et déployer des logiciels à distance,5
+2026-08-15,Competence,Vérifier la conformité de fonctionnement et d'utilisation des systèmes d'information,1
+2026-08-31,Competence,"Rédiger un cahier des charges, des spécifications techniques",44
+2026-08-31,Competence,Concevoir et développer une solution digitale,5
+2026-08-31,Competence,Adapter les outils de traitement statistique de données,26
+2026-08-31,Competence,Application web,23
+2026-08-14,Competence,Mettre en place des outils d'aide à la décision,1
+2026-08-15,Competence,Analyser les besoins des utilisateurs pour la conception de systèmes,5
+2026-08-14,Competence,"Réaliser une veille de marché, une veille concurrentielle",3
+2026-08-14,Competence,Communiquer avec les professionnels de santé pour collecter des informations,1
+2026-08-31,Competence,Effectuer un reporting régulier à la hiérarchie,2
+2026-08-31,Competence,Analyser les besoins des utilisateurs pour la conception de systèmes,2
+2026-08-14,Competence,"Réaliser les travaux de montage, d'assemblage",1
+2026-08-31,Competence,Langages de programmation informatique,4
+2026-08-14,Competence,Programmation en Python,9
+2026-08-14,Competence,Développement front-end et back-end,2
+2026-08-14,Competence,Kubernetes,1
+2026-08-31,Competence,"Vérifier le programme d'automatisation par une série de tests sur plate-forme d'essais, en atelier, sur site",1
+2026-08-14,Competence,"Préparer et animer une réunion, un groupe de travail, un atelier",3
+2026-08-14,Competence,Github,1
+2026-08-31,Competence,Superviser les opérations de migration de données,1
+2026-08-31,Competence,Déterminer des axes d'évolution technologiques,5
+2026-08-14,Competence,Méthodes et procédures de contrôle comptable,1
+2026-08-31,Competence,Python,1
+2026-08-14,Competence,Proposer des pistes d'amélioration des solutions,2
+2026-08-14,Competence,"Développer un logiciel, un système d'informations, une application",10
+2026-08-14,Competence,"analyse multivariée, séries temporelles",1
+2026-08-31,Competence,Connaissance des indicateurs de risque de blanchiment,1
+2026-08-14,Competence,Analyse de données opérationnelles,2
+2026-08-14,Competence,Techniques de soudure,1
+2026-08-31,Competence,Rendre compte de son activité,2
+2026-08-31,Competence,Préparer du matériel en prévision d'un travail,1
+2026-08-14,Competence,Exécuter des gestes avec dextérité,1
+2026-08-14,Competence,Gérer le budget alloué aux projets d'innovation,1
+2026-08-14,Competence,Linux Debian,1
+2026-08-15,Competence,Adapter les outils de traitement statistique de données,1
+2026-08-14,Competence,"Licence pro mention métiers de l'informatique : conception, développement et test de logiciels",1
+2026-08-31,Competence,Résoudre les problèmes techniques et bugs des sites,2
+2026-08-31,Competence,Optimisation des processus DevOps,2
+2026-08-14,Competence,Elaborer et mettre en oeuvre un plan de tests,3
+2026-08-14,Competence,"analyse de trajectoires (GBTM), machine learning",1
+2026-08-14,Competence,Parler une ou plusieurs langues étrangères,1
+2026-08-31,Competence,Vérifier les composants et les disposer en fonction du déroulement des opérations de montage,1
+2026-08-14,Competence,Informatica,1
+2026-08-14,Competence,"Sélectionner, assembler et intégrer des composants informatiques (progiciels, bases de données, développements spécifiques, ...)",2
+2026-08-14,Competence,"Piloter la gestion de la production, de l'exploitation",2
+2026-08-15,Competence,"Calculer les marges, la rentabilité d'un produit ou d'une activité",2
+2026-08-31,Competence,Utiliser l'anglais dans un contexte professionnel,4
+2026-08-31,Competence,"Maîtrise des logiciels SAS, R, SQL, Python",1
+2026-08-31,Competence,"Calculer les marges, la rentabilité d'un produit ou d'une activité",1
+2026-08-14,Competence,Procédures de contrôle comptable,1
+2026-08-31,Competence,Convaincre en argumentant avec un ou plusieurs interlocuteurs,1
+2026-08-31,Competence,Mise à jour des procédures,1
+2026-08-31,Competence,Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives,4
+2026-08-14,Competence,Symfony,1
+2026-08-14,Competence,C++,1
+2026-08-31,Competence,"Data & ML : SQL, Snowflake, Scikit-learn, XGBoost,",1
+2026-08-31,Competence,"Travailler en groupe, en réseau",1
+2026-08-31,Competence,Gestion de projet informatique,3
+2026-08-31,Competence,Préparer et présenter des rapports financiers détaillés aux parties prenantes,1
+2026-08-14,Competence,"Analyser, résoudre un problème courant ou complexe",2
+2026-08-14,Competence,Grafana,1
+2026-08-15,Competence,Rédaction de spécifications fonctionnelles,1
+2026-08-31,Competence,Présentation des résultats dans des conférences,1
+2026-08-14,Competence,Promouvoir la collaboration entre les développeurs et les opérateurs pour une meilleure intégration,1
+2026-08-31,Competence,Evaluation de modèles d'IA,1
+2026-08-31,Competence,Maintenir à jour la documentation technique et les manuels d'utilisation,1
+2026-08-14,Competence,Concevoir des modules de formation,1
+2026-08-14,Competence,Elaborer des processus et des modes opératoires techniques,1
+2026-08-14,Competence,"Concevoir, conduire et vérifier des travaux d'analyse en laboratoire dans le respect des Bonnes Pratiques de Laboratoire (BPL)",1
+2026-08-15,Competence,Développement de solutions informatiques,1
+2026-08-14,Competence,Former les utilisateurs aux bonnes pratiques de sécurité informatique,1
+2026-08-15,Competence,Application web,1
+2026-08-31,Competence,Délimiter un périmètre de sécurité,1
+2026-08-31,Competence,Utilisation de logiciels d'analyse statistique,1
+2026-08-31,Competence,Analyser des résultats d'exploitation bio-informatiques,1
+2026-08-14,Competence,"* Autonomie, rigueur",1
+2026-08-14,Competence,Utiliser les outils numériques,1
+2026-08-14,Competence,Améliorer la qualité du code par des revues systématiques,2
+2026-08-31,Competence,c++ C# ou python,1
+2026-08-31,Competence,Proposer des améliorations pour augmenter l'efficacité des systèmes,1
+2026-08-14,Competence,Faciliter l'intégration de solutions d'intelligence artificielle dans les projets existants,1
+2026-08-15,Competence,"Rédiger un cahier des charges, des spécifications techniques",1
+2026-08-31,Competence,Conception orientée objet,1
+2026-08-31,Competence,Procédures de contrôle qualité,1
+2026-08-14,Competence,Concevoir des architectures réseau optimisées,1
+2026-08-14,Competence,configurer des systèmes devops,1
+2026-08-31,Competence,Contrôler l'étanchéité,1
+2026-08-14,Competence,Surveiller les tendances du marché du cloud,1
+2026-08-14,Competence,programmation embarquée,1
+2026-08-31,Competence,Développer des algorithmes pour l'analyse de données,1
+2026-08-31,Competence,"Procéder à des tests, expérimentations",1
+2026-08-31,Competence,"Maitrise des outils comme Git, Azure DevOps,",1
+2026-08-14,Competence,Promouvoir les méthodes pédagogiques innovantes,1
+2026-08-31,Competence,Ecrire une ou plusieurs langues étrangères,1
+2026-08-31,Competence,"Etablir les préconisations et les recommandations d'utilisation, de mise en service, de démontage ou d'entretien",1
+2026-08-14,Competence,Sensibiliser les équipes aux enjeux de la Responsabilité Sociétale et Environnementale (RSE),1
+2026-08-31,Competence,Management stratégique,1
+2026-08-31,Competence,Contrôler la conformité des données,1
+2026-08-14,Competence,"Analyser, exploiter, structurer des données",57
+2026-08-14,Competence,Recruter et intégrer une personne,1
+2026-08-14,Competence,OCPP/OCPI,1
+2026-08-31,Competence,Définir et faire évoluer des procédés de traitement de l'information,6
+2026-08-31,Competence,Connaissance de l'industrie du noir de carbone,1
+2026-08-31,Competence,#TDFE2026,7
+2026-08-14,Competence,Mettre en place des solutions d'amélioration de la performance,6
+2026-08-14,Competence,Configurer et optimiser des systèmes DevOps,33
+2026-08-31,Competence,Evaluer le résultat de ses actions,5
+2026-08-14,Competence,Anglais technique,7
+2026-08-14,Competence,Respecter des normes et consignes,1
+2026-08-31,Competence,Jira / Confluence,1
+2026-08-14,Competence,language C,1
+2026-08-14,Competence,"Vous êtes à l'aise avec FastAPI, les APIs, Docker",1
+2026-08-31,Competence,Identifier les opportunités d'automatisation des processus,2
+2026-08-15,Competence,Analyser des données pour prendre des décisions stratégiques,3
+2026-08-14,Competence,Adapter les méthodes de travail à la réglementation locale,2
+2026-08-31,Competence,Anglais financier,1
+2026-08-31,Competence,Réaliser les essais de fonctionnement,2
+2026-08-14,Competence,Script Shell,2
+2026-08-14,Competence,Vue.js 3,1
+2026-08-31,Competence,SQL,4
+2026-08-31,Competence,Proposer des améliorations pour les systèmes existants,1
+2026-08-14,Competence,Snowflake,2
+2026-08-31,Competence,Bases en traitement signal transformée de fourrier,1
+2026-08-31,Competence,Installer le matériel et les équipements sur un lieu de tournage,1
+2026-08-31,Competence,Contrôler et vérifier la qualité,1
+2026-08-14,Competence,Former les utilisateurs aux nouvelles technologies,1
+2026-08-31,Competence,Analyse commerciale,1
+2026-08-31,Competence,Langage informatique Python,1
+2026-08-31,Competence,Analyser des données pour prendre des décisions stratégiques,4
+2026-08-31,Competence,Actualiser régulièrement ses connaissances,1
+2026-08-14,Competence,Optimiser des processus d'analyse de données,1
+2026-08-31,Competence,Gérer et maitriser des bases de données (SQL/NoSQL),5
+2026-08-31,Competence,Régler des caméras,1
+2026-08-14,Competence,Formaliser les résultats d'une étude statistique de données,2
+2026-08-31,Competence,Circuits hydrauliques,2
+2026-08-31,Competence,Approvisionner une machine en matière première ou en produit,1
+2026-08-31,Competence,Développer une application en lien avec une base de données,2
+2026-08-31,Competence,Maitrise de l’utilisation des ressources Severless,1
+2026-08-31,Competence,Etre en capacité de travailler en mode projets,1
+2026-08-31,Competence,Argumenter pour obtenir des financements,1
+2026-08-31,Competence,API REST,1
+2026-08-31,Competence,Surveiller les tendances du marché digital,1
+2026-08-15,Competence,Accompagner et former un client sur l'applicatif métier ou l'interface utilisateur,3
+2026-08-31,Competence,Architecture web,2
+2026-08-31,Competence,"Collecter et analyser des données, des informations",3
+2026-08-31,Competence,Gestion de bases de données biologiques,1
+2026-08-14,Competence,Pneumatique,4
+2026-08-14,Competence,"Infra & DevOps : AWS (ECS), Docker, CI/CD",1
+2026-08-14,Competence,"Concevoir un logiciel, un système d'informations, une application",4
+2026-08-15,Competence,"Déployer, intégrer un logiciel, un système d'informations, une application",3
+2026-08-31,Competence,Data engineer,4
+2026-08-31,Competence,Indicateurs de suivi d'activité,1
+2026-08-14,Competence,Java,4
+2026-08-14,Competence,Confluence,1
+2026-08-15,Competence,Assurer la liaison entre les différents départements techniques,2
+2026-08-15,Competence,Etre en capacité de travailler en mode projets,1
+2026-08-14,Competence,Intégrer de nouvelles technologies éducatives dans l'enseignement,1
+2026-08-31,Competence,Angular,1
+2026-08-31,Competence,Documenter les procédures techniques pour les utilisateurs,1
+2026-08-31,Competence,Accompagner et former un client sur l'applicatif métier ou l'interface utilisateur,1
+2026-08-14,Competence,Coder des données,4
+2026-08-14,Competence,Apporter une assistance technique aux équipes,4
+2026-08-14,Competence,Travailler en réseau et coopérer avec des profils métiers diversifiés,1
+2026-08-31,Competence,Dépanner des équipements informatiques,1
+2026-08-31,Competence,Evaluer les risques associés aux clients et aux transactions,1
+2026-08-31,Competence,"Contrôler la conformité d'un équipement, d'une machine, d'une installation",1
+2026-08-31,Competence,Laver des vitres ou d'autres surfaces,1
+2026-08-14,Competence,Assurer le suivi de la qualité des données,1
+2026-08-14,Competence,Concevoir des solutions numériques adaptées au secteur de la santé,1
+2026-08-31,Competence,Coordonner les équipes de développement ou de production pour respecter les délais,1
+2026-08-31,Competence,Définir l'implantation des éléments d'un équipement,1
+2026-08-14,Competence,Lecture de plans et de schémas,1
+2026-08-31,Competence,Créer une documentation technique,1
+2026-08-31,Competence,Communiquer des résultats de recherche à des non-spécialistes,1
+2026-08-14,Competence,Jira,1
+2026-08-14,Competence,Concevoir et maintenir un système de cybersécurité,2
+2026-08-31,Competence,Elasticsearch,1
+2026-08-14,Competence,Paramétrer un programme d'automatisation pour un automate programmable,1
+2026-08-14,Competence,Xray,1
+2026-08-15,Competence,Proposer des améliorations pour les systèmes existants,1
+2026-08-31,Competence,Implémenter des solutions d'IA dans des environnements de production,1
+2026-08-14,Competence,Mlops,1
+2026-08-31,Competence,Utiliser des logiciels statistiques pour le traitement de données,1
+2026-08-31,Competence,"Python (NumPy, pandas, Biopython)",1
+2026-08-15,Competence,Identifier les opportunités d'automatisation des processus,2
+2026-08-31,Competence,Formaliser des données cartographiques et les diffuser sur des réseaux d'information,1
+2026-08-31,Competence,Connaissance approfondie en mathématiques,1
+2026-08-31,Competence,Gestion des configurations,1
+2026-08-14,Competence,Optimiser les ressources pédagogiques disponibles,1
+2026-08-14,Competence,Perforce,1
+2026-08-15,Competence,Indicateurs de suivi d'activité,2
+2026-08-31,Competence,Restituer et mettre en forme les données géographiques pour l'édition cartographique,1
+2026-08-31,Competence,Gestion et suivi de projet,1
+2026-08-14,Competence,Gérer une base de données numériques,1
+2026-08-14,Competence,Application des méthodes de machine learning dans BI,1
+2026-08-31,Competence,"Vérifier le montage et le câblage (valeur des composants, continuité électrique, etc.)",1
+2026-08-31,Competence,Optimisation de la performance des systèmes,1
+2026-08-31,Competence,"Déployer, intégrer un logiciel, un système d'informations, une application",1
+2026-08-31,Competence,Configurer le poste de travail aux besoins de l'utilisateur,1
+2026-08-14,Competence,Concevoir des architectures de sécurité,1
+2026-08-31,Competence,Assurer la maintenance préventive de premier niveau des équipements,1
+2026-08-14,Competence,Logique mathématique,1
+2026-08-14,Competence,Concevoir et gérer un projet,15
+2026-08-14,Competence,Recueillir et analyser les besoins client,2
+2026-08-31,Competence,Concevoir une application web,21
+2026-08-14,Competence,Déterminer des mesures correctives,40
+2026-08-15,Competence,"Tester un logiciel, un système d'informations, une application",3
+2026-08-31,Competence,Agile,2
+2026-08-31,Competence,Documenter les processus et les architectures d'IA,21
+2026-08-14,Competence,Contrôler la qualité et la conformité des process,1
+2026-08-14,Competence,Garantir la confidentialité des informations,2
+2026-08-31,Competence,Piloter les étapes d'un projet agile et innovant,1
+2026-08-31,Competence,Administrer un système d'informations,5
+2026-08-31,Competence,Déploiement de services cloud (cloud computing),6
+2026-08-14,Competence,Optimiser les processus de qualité pour assurer la fiabilité des logiciels,5
+2026-08-14,Competence,Analyser les tendances du marché pour anticiper les besoins,1
+2026-08-31,Competence,Effectuer les réglages sur les machines et équipements dans un objectif de performance énergétique et environnementale de l'équipement,1
+2026-08-15,Competence,Intelligence artificielle,1
+2026-08-14,Competence,Machine Learning,2
+2026-08-14,Competence,Optimiser les performances des systèmes cloud,2
+2026-08-14,Competence,"Installer et intégrer le matériel (station, équipement réseau, périphériques, ...) dans l'environnement de production et configurer les ressources logistiques et physiques",4
+2026-08-31,Competence,Requêtage des bases de données,1
+2026-08-31,Competence,Power BI,2
+2026-08-31,Competence,Utiliser des logiciels spécifiques,1
+2026-08-14,Competence,"Superviser, coordonner les réalisations ou développements informatiques (collaborateurs, sous-traitants)",1
+2026-08-31,Competence,"Techniques de communication orales, écrites et numériques",1
+2026-08-14,Competence,Concevoir des architectures de systèmes embarqués pour l'IA,1
+2026-08-14,Competence,Identifier ses axes de progrès,2
+2026-08-15,Competence,Evaluer les risques SIC (système information et communication),1
+2026-08-31,Competence,Veille concurrentielle sur le marché digital,1
+2026-08-31,Competence,Compétences en traitement de données de santé,1
+2026-08-15,Competence,"Concevoir l'architecture d'un système, d'un réseau",1
+2026-08-14,Competence,Gestion des brevets et propriété intellectuelle,1
+2026-08-14,Competence,Utilisation d'outils Business Intelligence (BI) - Informatique décisionnelle,4
+2026-08-14,Competence,Programmation logicielle,2
+2026-08-15,Competence,Master mention informatique,1
+2026-08-31,Competence,Master mention informatique,2
+2026-08-31,Competence,Intelligence artificielle,4
+2026-08-14,Competence,Conception de tableaux de bord de gestion,2
+2026-08-31,Competence,Surveiller le fonctionnement d'applicatifs et logiciels,2
+2026-08-31,Competence,Se représenter un objet dans l'espace,1
+2026-08-14,Competence,traitement du signal,1
+2026-08-15,Competence,"Techniques de communication orales, écrites et numériques",1
+2026-08-31,Competence,"Concevoir l'architecture d'un système, d'un réseau",2
+2026-08-14,Competence,Développer des stratégies d'innovation adaptées aux besoins du marché,1
+2026-08-31,Competence,Langage informatique Script Shell,1
+2026-08-14,Competence,Capacité à gérer les situations urgentes,1
+2026-08-14,Competence,"Backend : Python, FastAPI",1
+2026-08-31,Competence,React & React Native,1
+2026-08-31,Competence,Réaliser des études et développements informatiques,2
+2026-08-31,Competence,Définir les solutions de stockage et de structuration des données,1
+2026-08-31,Competence,210TYWH,1
+2026-08-31,Competence,"Tester un logiciel, un système d'informations, une application",6
+2026-08-14,Competence,Piloter des opérations de tests informatiques,3
+2026-08-14,Competence,Réaliser un audit,2
+2026-08-31,Competence,Databricks,1
+2026-08-31,Competence,Tester et valider les fonctionnalités du logiciel,2
+2026-08-14,Competence,Gérer les risques associés aux technologies d'IA,1
+2026-08-14,Competence,Rédaction d’articles scientifiques en anglais,1
+2026-08-14,Competence,Techniques de montage audiovisuel,1
+2026-08-14,Competence,Caractéristiques des produits d'entretien,1
+2026-08-15,Competence,Implémenter des solutions de sécurité informatique,1
+2026-08-31,Competence,Traiter les retours utilisateurs pour améliorer les systèmes,1
+2026-08-31,Competence,Développer des scripts pour automatiser les tâches,1
+2026-08-14,Competence,"Déterminer et développer les méthodes de recherche, de recueil et d'analyse de données",1
+2026-08-14,Competence,Documenter les procédures d'analyse pour assurer la continuité,1
+2026-08-14,Competence,Elastic Search,1
+2026-08-14,Competence,Concevoir des modèles de détection des insights consommateurs,1
+2026-08-31,Competence,Méthodologie Scrum,1
+2026-08-31,Competence,Licence pro mention métiers de l'informatique : conduite de projets,1
+2026-08-14,Competence,Expliquer et faire respecter les règles et procédures,2
+2026-08-31,Competence,Connaissance du secteur minier,1
+2026-08-31,Competence,Implémenter des solutions de sécurité informatique,1
+2026-08-31,Competence,"Git, GitHub ou GitLab",1
+2026-08-31,Competence,Docker,3
+2026-08-31,Competence,Planifier et suivre les échéances de projet,1
+2026-08-14,Competence,Organisation / fonctionnement recherche et ens.sup,1
+2026-08-14,Competence,"Mise en prodution de modele IA, ML (Exp 2 ans)",1
+2026-08-31,Competence,valorisation dans des revues internationales,1
+2026-08-31,Competence,"Analyser la situation financière d'un client : vérification de ses revenus, de ses dettes, des dispositifs légaux et de sa capacité de remboursement",1
+2026-08-31,Competence,Développement de produits basés sur l'IA,1
+2026-08-14,Competence,Collaborer avec des experts en éthique pour évaluer les projets d'IA,1
+2026-08-31,Competence,rigueur documentaire,1
+2026-08-31,Competence,Collaborer avec les équipes pour comprendre les besoins en données,1
+2026-08-14,Competence,Respecter les normes de confidentialité des données génétiques,1
+2026-08-31,Competence,"Déposer les appareils et tuyauteries obsolètes (changement, rénovation)",1
+2026-08-31,Competence,Méthodes de clustering et classification,1
+2026-08-14,Competence,Respecter les normes éthiques dans le développement de l'IA,1
+2026-08-14,Competence,"maîtrise Talend ESB et TMC, Karaf, GitLab, ELK",1
+2026-08-14,Competence,"Entretenir un équipement, une machine, une installation",1
+2026-08-14,Competence,CSS,1
+2026-08-31,Competence,LLM,1
+2026-08-14,Competence,Réaliser l'analyse fonctionnelle de l'installation et la décliner en un programme d'automatisation,1
+2026-08-31,Competence,Reporting,1
+2026-08-14,Competence,"Organiser, aménager un espace de vente",1
+2026-08-31,Competence,Techniques d'optimisation pour IA,1
+2026-08-14,Competence,"Corriger des évaluations (exercices, travaux pratiques, examens)",1
+2026-08-14,Competence,Analyse de performance,1
+2026-08-14,Competence,Gérer la documentation technique et les archives de projets,1
+2026-08-14,Competence,Matériel de levage,1
+2026-08-14,Competence,Maitrise SAP,1
+2026-08-31,Competence,Techniques d'usinage,1
+2026-08-14,Competence,Jquery,1
+2026-08-31,Competence,Evaluer la solvabilité d'un créditeur et les risques,1
+2026-08-31,Competence,Optimiser la visibilité des publications sur les réseaux sociaux,1
+2026-08-14,Competence,Contrôler des données qualité,1
+2026-08-14,Competence,Analyse des risques financiers,1
+2026-08-14,Competence,Modélisation informatique,1
+2026-08-31,Competence,"Démarche DevOps (Git Flow,Pull request,...)",1
+2026-08-31,Competence,Mastère spécialisé expert big data engineer,1
+2026-08-31,Competence,Solide expertise en Python avec des bases de code,1
+2026-08-14,Competence,Collaborer avec des équipes internationales pour des projets de recherche,1
+2026-08-14,Competence,Optimiser les performances des systèmes d'IA,12
+2026-08-31,Competence,Communiquer les résultats des études aux parties prenantes,22
+2026-08-31,Competence,Traiter des données,2
+2026-08-31,Competence,Collaborer avec une équipe projet,6
+2026-08-14,Competence,Attribuer un marché,1
+2026-08-14,Competence,Intégrer des outils IA/Data Science,6
+2026-08-31,Competence,Effectuer le suivi technique des produits et leur évolution auprès des clients,1
+2026-08-14,Competence,"Optimiser des algorithmes, une application informatique et mettre en oeuvre leur développement",2
+2026-08-14,Competence,Documenter les procédures de sécurité,1
+2026-08-31,Competence,Réaliser un modèle de prévision,3
+2026-08-31,Competence,Développer des modèles prédictifs pour l'analyse de données,22
+2026-08-31,Competence,sensibilité aux outils IA BI gestion documentaire,1
+2026-08-14,Competence,dialogue avec des spécialistes d’autres discipline,1
+2026-08-31,Competence,Exploiter des solutions de Data Science ou d'Intelligence Artificielle,5
+2026-08-31,Competence,GitHub,2
+2026-08-14,Competence,Piloter les fonctionnalités des équipements et systèmes de sécurité informatique,1
+2026-08-14,Competence,"ML/AI: scikit-learn, PyTorch, TensorFlow",1
+2026-08-14,Competence,"Piloter une démarche qualité, un processus d'amélioration continue",2
+2026-08-31,Competence,Relayer de l'information,1
+2026-08-31,Competence,Analyser les besoins informatiques,3
+2026-08-14,Competence,Mise en place d'un RAG avec vectorisation,1
+2026-08-31,Competence,Power Bi,1
+2026-08-31,Competence,Réaliser un diagnostic technique,2
+2026-08-14,Competence,"Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",1
+2026-08-15,Competence,"Structurer, synthétiser des informations",4
+2026-08-31,Competence,Modéliser une base de données,2
+2026-08-31,Competence,python,1
+2026-08-31,Competence,Gérer les campagnes publicitaires digitales,1
+2026-08-14,Competence,Encourager l'innovation responsable,1
+2026-08-14,Competence,Organisation et rigueur,1
+2026-08-14,Competence,"Maîtrise d'un outil de gestion de flux (Kafka, Flink…)",3
+2026-08-14,Competence,"Réaliser une étude de marché, évaluer le potentiel d'un produit ou service",3
+2026-08-31,Competence,Azure Devops,2
+2026-08-14,Competence,Collaborer avec des équipes pour intégrer des analyses,2
+2026-08-31,Competence,"Structurer, synthétiser des informations",3
+2026-08-31,Competence,Analyser les risques de sécurité pour les systèmes informatiques,1
+2026-08-31,Competence,"UniProt, PDB, NCBI/GenBank",1
+2026-08-14,Competence,Big data Analytics,2
+2026-08-14,Competence,Analyser des données pour identifier des tendances,2
+2026-08-31,Competence,Méthode AGILE,1
+2026-08-14,Competence,Règles de sécurité,1
+2026-08-14,Competence,Conduire des travaux d'études et de recherche,6
+2026-08-14,Competence,"Réaliser un dépannage sur site ou le remorquage d'un engin (engin de chantier, machine agricole, etc.)",1
+2026-08-14,Competence,Planifier des sessions de brainstorming pour l'innovation en données,2
+2026-08-14,Competence,Systèmes d'exploitation informatique,1
+2026-08-31,Competence,Présenter et valoriser un produit ou un service,1
+2026-08-14,Competence,Concevoir des supports de communication et d'image,2
+2026-08-14,Competence,Gérer les versions de logiciels et leurs mises à jour,1
+2026-08-14,Competence,Analyse de données expérimentales,2
+2026-08-14,Competence,Intégrer des considérations éthiques dans l'analyse de données,3
+2026-08-31,Competence,Assurer la sécurité des pipelines de CI/CD,4
+2026-08-31,Competence,Communiquer auprès de ses interlocuteurs internes et externes,2
+2026-08-31,Competence,Concevoir des architectures de solutions cloud,1
+2026-08-31,Competence,Rédiger des documents d'ingénierie (rédaction des spécifications fonctionnelles et livrables techniques des solutions),1
+2026-08-14,Competence,Améliorer les processus de reporting financier,2
+2026-08-31,Competence,Collaborer avec des équipes multidisciplinaires,2
+2026-08-14,Competence,"Concevoir et préparer les cours, les travaux dirigés ou les travaux pratiques",1
+2026-08-31,Competence,Assurer la maintenance préventive et les améliorations des infrastructures numériques,1
+2026-08-14,Competence,C# ou C++,1
+2026-08-31,Competence,Analyser les écarts ou incohérences dans les données,1
+2026-08-31,Competence,Collecter des données statistiques,1
+2026-08-31,Competence,API,1
+2026-08-14,Competence,Concevoir les spécifications de l'installation automatisée en fonction du cahier des charges,1
+2026-08-14,Competence,"Conda, docker, nextflow, snakemake",1
+2026-08-14,Competence,Accompagner l'appropriation d'un outil par ses utilisateurs,3
+2026-08-31,Competence,Régulation et instrumentation,1
+2026-08-14,Competence,Gestion de version de code,1
+2026-08-14,Competence,Principe de fonctionnement d'un moteur diesel,1
+2026-08-14,Competence,Favoriser un environnement de travail collaboratif,1
+2026-08-31,Competence,"BTS services informatiques aux organisations option A : solutions d'infrastructure, systèmes et réseaux",1
+2026-08-31,Competence,Techniques de machine learning en bioinformatique,1
+2026-08-14,Competence,"Promouvoir une proposition, un projet",1
+2026-08-14,Competence,sql,1
+2026-08-14,Competence,Java Springboot,1
+2026-08-14,Competence,Tableau,1
+2026-08-14,Competence,Sélectionner des canaux de communication,1
+2026-08-31,Competence,"Evaluer la mise en œuvre d'un projet, d'un plan d'action",1
+2026-08-31,Competence,Exécution de scripts,1
+2026-08-15,Competence,Assurer la formation des utilisateurs sur les nouveaux outils ou systèmes,3
+2026-08-31,Competence,Allouer et organiser les ressources d'un projet selon les besoins et contraintes,1
+2026-08-31,Competence,Git,1
+2026-08-14,Competence,Assurer le suivi des chiffres de vente et réaliser le reporting associé,1
+2026-08-14,Competence,Spécificités d'un moteur essence,1
+2026-08-31,Competence,Système d'exploitation Linux,1
+2026-08-14,Competence,Analyse de données client,2
+2026-08-14,Competence,Analyser les besoins de sécurité informatique,1
+2026-08-15,Competence,Communiquer les résultats des études aux parties prenantes,1
+2026-08-14,Competence,Bash et environnement Linux,1
+2026-08-31,Competence,Gestion de production,1
+2026-08-31,Competence,PYTHON,1
+2026-08-14,Competence,Intégrer des produits Data dans les processus métiers,1
+2026-08-31,Competence,Planifier les interventions en fonction des disponibilités des clients,1
+2026-08-31,Competence,Certificat de capacité analyste de la performance,1
+2026-08-31,Competence,"PHP,",1
+2026-08-31,Competence,Assurer la formation des utilisateurs sur les nouveaux outils ou systèmes,1
+2026-08-14,Competence,Concevoir l'ingénierie de formation et les séquences pédagogiques,1
+2026-08-31,Competence,Rédiger le contenu d'un support de communication,1
+2026-08-14,Competence,Capacité à simplifier les systèmes existants.,1
+2026-08-14,Competence,"Documenter les procédures de sécurité, ainsi que les incidents",1
+2026-08-31,Competence,"Entretenir, nettoyer un espace, un lieu, un local",1
+2026-08-31,Competence,Réaliser un montage son ou vidéo,1
+2026-08-14,Competence,Azure DevOps,1
+2026-08-31,Competence,Analyse de données de production,1
+2026-08-14,Competence,Diagnostiquer et résoudre les problèmes techniques du Cloud,1
+2026-08-14,Competence,Supports de manutention,1
+2026-08-31,Competence,C#,1
+2026-08-14,Competence,"Evaluer, prévenir, et gérer les risques et la sécurité",1
+2026-08-31,Competence,CRM,1
+2026-08-31,Competence,Microsoft Azure,1
+2026-08-31,Competence,HTML,1
+2026-08-14,Competence,Marketing (mercatique),1
+2026-08-14,Competence,Maintenir son attention dans la durée,1
+2026-08-14,Competence,Adapter les outils de traitement statistique de données,44
+2026-08-14,Competence,Utiliser l'anglais dans un contexte professionnel,4
+2026-08-31,Competence,Connaissance d'outils de data visualisation (ex. P,1
+2026-08-31,Competence,Programmation en Python,8
+2026-08-31,Competence,"Préparer et animer une réunion, un groupe de travail, un atelier",7
+2026-08-14,Competence,Interpréter des résultats de campagne média,1
+2026-08-31,Competence,Gérer le budget alloué aux projets d'innovation,1
+2026-08-14,Competence,Capacité rédactionnelle,1
+2026-08-14,Competence,Maintenir à jour la documentation technique et les manuels d'utilisation,1
+2026-08-31,Competence,Assurer une communication claire et efficace avec l'équipe,3
+2026-08-14,Competence,Développer des algorithmes pour l'analyse de données,3
+2026-08-14,Competence,Proposer des améliorations pour augmenter l'efficacité des systèmes,1
+2026-08-31,Competence,"Réaliser une veille de marché, une veille concurrentielle",3
+2026-08-31,Competence,Gérer et déployer des logiciels à distance,1
+2026-08-14,Competence,Gérer les droits d'accès des utilisateurs,2
+2026-08-31,Competence,"analyse multivariée, séries temporelles",1
+2026-08-14,Competence,Concevoir et développer une solution digitale,6
+2026-08-14,Competence,Assister une structure dans l'interprétation et l'analyse d'une étude,2
+2026-08-31,Competence,Documentation technique,1
+2026-08-14,Competence,"Rédiger un cahier des charges, des spécifications techniques",42
+2026-08-14,Competence,Déterminer des axes d'évolution technologiques,5
+2026-08-31,Competence,compétences en cybersécurité,1
+2026-08-14,Competence,Diagnostiquer la nature et l'origine des incidents et mettre en oeuvre les mesures correctives,5
+2026-08-31,Competence,Exécuter des gestes avec dextérité,1
+2026-08-31,Competence,"Développer un logiciel, un système d'informations, une application",5
+2026-08-14,Competence,Stimuler la participation étudiante en classe,1
+2026-08-15,Competence,Assurer une communication claire et efficace avec l'équipe,5
+2026-08-15,Competence,"Préparer et animer une réunion, un groupe de travail, un atelier",4
+2026-08-14,Competence,Méthode de Gestion Prévisionnelle des Emplois et des Compétences (GPEC),1
+2026-08-31,Competence,Gestes et postures de manutention,1
+2026-08-14,Competence,Rendre compte de son activité,3
+2026-08-14,Competence,Linux,2
+2026-08-31,Competence,"Réaliser les travaux de montage, d'assemblage",1
+2026-08-14,Competence,Effectuer un reporting régulier à la hiérarchie,2
+2026-08-31,Competence,"analyse de trajectoires (GBTM), machine learning",1
+2026-08-31,Competence,EPM,1
+2026-08-31,Competence,Techniques de soudure,1
+2026-08-31,Competence,"Licence pro mention métiers de l'informatique : conception, développement et test de logiciels",1
+2026-08-14,Competence,"Vérifier le programme d'automatisation par une série de tests sur plate-forme d'essais, en atelier, sur site",1
+2026-08-14,Competence,Préparer et présenter des rapports financiers détaillés aux parties prenantes,1
+2026-08-31,Competence,Recenser les besoins du commanditaire,1
+2026-08-14,Competence,Superviser les opérations de migration de données,1
+2026-08-14,Competence,Application web,12
+2026-08-14,Competence,"Data & ML : SQL, Snowflake, Scikit-learn, XGBoost,",1
+2026-08-14,Competence,Installer des équipements optionnels ou complémentaires d'adaptation aux engins de chantier,1
+2026-08-14,Competence,"Travailler en groupe, en réseau",1
+2026-08-14,Competence,Vérifier les composants et les disposer en fonction du déroulement des opérations de montage,1
+2026-08-14,Competence,"Maîtrise des logiciels SAS, R, SQL, Python",1
+2026-08-14,Competence,c++ C# ou python,1
+2026-08-14,Competence,Préparer du matériel en prévision d'un travail,1
+2026-08-31,Competence,Spring,1
+2026-08-14,Competence,Spécificités d'un moteur électrique,1
+2026-08-14,Competence,Management stratégique,1
+2026-08-15,Competence,Documentation technique,1
+2026-08-31,Competence,Réaliser les relevés terrain et collecter des données alphanumériques et graphiques,1
+2026-08-31,Competence,"Piloter la gestion de la production, de l'exploitation",1
+2026-08-31,Competence,"Analyser, résoudre un problème courant ou complexe",1
+2026-08-31,Competence,Analyse de données opérationnelles,1
+2026-08-15,Competence,Assurer le support technique de niveau avancé,3
+2026-08-14,Competence,Communiquer efficacement par écrit les résultats des tests,1
+2026-08-14,Competence,Contrôler la conformité des données,1
+2026-08-31,Competence,"Concevoir, conduire et vérifier des travaux d'analyse en laboratoire dans le respect des Bonnes Pratiques de Laboratoire (BPL)",1
+2026-08-31,Competence,Surveiller les tendances du marché du cloud,1
+2026-08-14,Competence,Réaliser une analyse ou modélisation statistique de données,1
+2026-08-31,Competence,Former les utilisateurs aux bonnes pratiques de sécurité informatique,1
+2026-08-31,Competence,Outils collaboratifs et de gestion,1
+2026-08-14,Competence,Langages de programmation informatique,2
+2026-08-31,Competence,Data fabric ou équivalent,1
+2026-08-31,Competence,Excel avancé TCD,1
+2026-08-31,Competence,SQL/NoSQL,1
+2026-08-31,Competence,Github,1
+2026-08-31,Competence,Elaborer et mettre en oeuvre un plan de tests,1
+2026-08-31,Competence,Analyser les besoins du client,1
+2026-08-31,Competence,"Sélectionner, assembler et intégrer des composants informatiques (progiciels, bases de données, développements spécifiques, ...)",1
+2026-08-31,Competence,Assurer le support technique de niveau avancé,1
+2026-08-14,Competence,Analyser des résultats d'exploitation bio-informatiques,2
+2026-08-14,Competence,#LUA/#1jobsud,1
+2026-08-31,Competence,Développeur Web – Gestion d’outils métiers (H/F),1
+2026-08-31,Competence,C# / .NET,1
+2026-08-14,Competence,Participer à des projets de recherche et développement,1
+2026-08-14,Competence,Azure Container Apps,1
+2026-08-31,Competence,Traitement et préparation de données,1
+2026-08-14,Competence,Assembler les éléments d'un engin ou d'un matériel,1
+2026-08-14,Competence,Ecrire une ou plusieurs langues étrangères,1
+2026-08-31,Competence,Utiliser les outils numériques,1
+2026-08-31,Competence,DATA STEWARD,1
+2026-08-31,Competence,Parler une ou plusieurs langues étrangères,1
+2026-08-14,Competence,Présentation des résultats dans des conférences,1
+2026-08-14,Competence,Optimisation des processus DevOps,1
+2026-08-14,Competence,Logiciels de gestion de base de données,1
+2026-08-31,Competence,Sensibiliser les équipes aux enjeux de la Responsabilité Sociétale et Environnementale (RSE),1
+2026-08-14,Competence,Progiciels de gestion intégrée d'entreprise (ERP),1
+2026-08-31,Competence,Elaborer des processus et des modes opératoires techniques,1

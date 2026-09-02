@@ -1,0 +1,21 @@
+﻿rome_code,PC1,PC2,rome_libelle,cluster_label,sortants_total,nombre_offres_ft,var_expliquee_pc1_pct,var_expliquee_pc2_pct
+D1106,0.5637743540697591,1.197026780902258,Vendeur / Vendeuse en épicerie,cluster_equilibre_demande_offre,2350.0,1,44.74221714171595,40.221245015456
+H1206,-0.022815184219720213,-0.9090099069467864,Ingénieur / Ingénieure R&D en industrie,cluster_equilibre_demande_offre,530.0,9,44.74221714171595,40.221245015456
+H2502,-1.1515907773647414,-0.39931650614511416,Responsable d'unité de production industrielle,cluster_equilibre_demande_offre,300.0,2,44.74221714171595,40.221245015456
+H2605,2.0622692437157584,3.9770364506456866,Monteur-câbleur / Monteuse-câbleuse en électronique,cluster_equilibre_demande_offre,110.0,1,44.74221714171595,40.221245015456
+I1401,-2.0442730780717886,0.40946053225251583,Technicien / Technicienne de maintenance en informatique,cluster_equilibre_demande_offre,720.0,1,44.74221714171595,40.221245015456
+I1404,-1.5429721306169721,0.05606482160988715,Conseiller / Conseillère support technique informatique,cluster_volume_modere,270.0,1,44.74221714171595,40.221245015456
+K2108,1.7547571406992923,-1.7590878873937112,Professeur / Professeure des universités,cluster_equilibre_demande_offre,160.0,1,44.74221714171595,40.221245015456
+K2205,2.069936585938151,-0.09436023615199764,Agent / Agente de propreté de locaux,cluster_equilibre_demande_offre,3620.0,1,44.74221714171595,40.221245015456
+K2402,0.6565253542726629,-1.0628927707622517,Ingénieur / Ingénieure de recherche scientifique,cluster_equilibre_demande_offre,180.0,1,44.74221714171595,40.221245015456
+M1101,0.3691942965790669,0.2613326058844484,Acheteur / Acheteuse,cluster_equilibre_demande_offre,280.0,1,44.74221714171595,40.221245015456
+M1102,0.8050931140915695,2.205384415993723,Responsable des achats,cluster_equilibre_demande_offre,180.0,1,44.74221714171595,40.221245015456
+M1405,1.7199870581931058,-2.4861862110350033,Data scientist,cluster_volume_modere,120.0,90,44.74221714171595,40.221245015456
+M1419,0.05936630714866669,0.7287939560610406,Data analyst,cluster_volume_modere,280.0,78,44.74221714171595,40.221245015456
+M1508,2.295583646456149,-0.6559746421778697,Conseiller / Conseillère en gestion de carrière,cluster_equilibre_demande_offre,340.0,2,44.74221714171595,40.221245015456
+M1801,-2.2637762384242825,0.29581674519672074,Administrateur / Administratrice de systèmes d'information (SI),cluster_equilibre_demande_offre,150.0,5,44.74221714171595,40.221245015456
+M1805,-1.989741448819866,0.37203508093281484,Développeur / Développeuse informatique,cluster_equilibre_demande_offre,490.0,7,44.74221714171595,40.221245015456
+M1810,-2.147300660036836,0.8082312452883689,Technicien / Technicienne d'exploitation informatique,cluster_equilibre_demande_offre,410.0,5,44.74221714171595,40.221245015456
+M1853,0.473972721300767,0.09432162126117637,Chef / Cheffe de projet étude et développement informatique,cluster_equilibre_demande_offre,140.0,2,44.74221714171595,40.221245015456
+M1855,-0.5479664515841879,-1.5550832955466052,Développeur / Développeuse web,cluster_equilibre_demande_offre,1680.0,8,44.74221714171595,40.221245015456
+M1861,-1.1200238533265532,-1.483592799869305,Développeur / Développeuse logiciel ou d'application,cluster_equilibre_demande_offre,240.0,2,44.74221714171595,40.221245015456

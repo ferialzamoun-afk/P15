@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Environment / secrets
+.env
+.env.*
+*.sqlite3
+
+# Donnees sources locales et sorties intermediaires
+/data/bruts/
+/data/processed/
+/data/raw/*.csv
+/data/raw/*.xlsx
+/data/raw/*.json
+
+# Application Streamlit publique (autoriser la version déployable)
+!/streamlit_app/
+!/streamlit_app/**
+
+#documentation
+/docs/journal_ia.md
+/docs/*.csv
+/docs/*.xlsx
+/docs/*.pdf
+
+# Scripts et notebooks
+/notebooks
+/src
+/tests
+/veille_alternance
+/pbi
+# /streamlit_app (décommenté pour autoriser le déploiement public)
+
+# Fichiers generes par la veille
+*.db
+*.log
+
+# Git
+.git/
+
+# Publication volontairement limitee au README, dependances et a l'application Streamlit publique.
+*
+!README.md
+!requirements.txt
+!.gitignore
+!streamlit_app/
+!streamlit_app/**
+
+
