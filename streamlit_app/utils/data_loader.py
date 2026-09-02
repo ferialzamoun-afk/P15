@@ -5,12 +5,14 @@ import duckdb
 import pandas as pd
 import streamlit as st
 
-# Résolution ultra-robuste des chemins
+# Résolution ultra-robuste des chemins pour Local et Streamlit Cloud
 POSSIBLE_MARTS_DIRS = [
-    Path(__file__).resolve().parents[2] / "data" / "processed" / "marts",
+    Path(__file__).resolve().parents[1] / "data" / "processed" / "marts",  # streamlit_app/data/processed/marts (sur Cloud)
+    Path(__file__).resolve().parents[2] / "data" / "processed" / "marts",  # P15/data/processed/marts (en local)
+    Path.cwd() / "streamlit_app" / "data" / "processed" / "marts",
+    Path.cwd() / "data" / "processed" / "marts",
+    Path("C:/Users/feria/Documents/P15/streamlit_app/data/processed/marts"),
     Path("C:/Users/feria/Documents/P15/data/processed/marts"),
-    Path("data/processed/marts"),
-    Path("../data/processed/marts"),
 ]
 
 MARTS_DIR = next((d for d in POSSIBLE_MARTS_DIRS if d.exists()), POSSIBLE_MARTS_DIRS[0])

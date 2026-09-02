@@ -53,19 +53,19 @@ sel_contrat = st.sidebar.selectbox("Type de contrat", types_contrat)
 opt_alt = st.sidebar.radio("Alternance", ["Toutes", "Uniquement Alternance", "Hors Alternance"])
 
 # 5. Filtre Date de création
-df_offres["date_creation_dt"] = pd.to_datetime(df_offres["dateCreation"], errors="coerce")
-min_date_val = df_offres["date_creation_dt"].min()
-max_date_val = df_offres["date_creation_dt"].max()
+sel_date_range = None
+if not df_offres.empty and "dateCreation" in df_offres.columns:
+    df_offres["date_creation_dt"] = pd.to_datetime(df_offres["dateCreation"], errors="coerce")
+    min_date_val = df_offres["date_creation_dt"].min()
+    max_date_val = df_offres["date_creation_dt"].max()
 
-if pd.notna(min_date_val) and pd.notna(max_date_val):
-    sel_date_range = st.sidebar.date_input(
-        "Période de date de création",
-        value=(min_date_val.date(), max_date_val.date()),
-        min_value=min_date_val.date(),
-        max_value=max_date_val.date(),
-    )
-else:
-    sel_date_range = None
+    if pd.notna(min_date_val) and pd.notna(max_date_val):
+        sel_date_range = st.sidebar.date_input(
+            "Période de date de création",
+            value=(min_date_val.date(), max_date_val.date()),
+            min_value=min_date_val.date(),
+            max_value=max_date_val.date(),
+        )
 
 # Bouton réinitialiser
 if st.sidebar.button("🔄 Réinitialiser les filtres", use_container_width=True):
