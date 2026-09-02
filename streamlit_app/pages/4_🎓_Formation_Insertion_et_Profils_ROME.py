@@ -67,16 +67,20 @@ tab1, tab2, tab3, tab4 = st.tabs([
 ])
 
 with tab1:
-    st.markdown("#### Projection ACP des Métiers ROME (Âge & Genre)")
+    st.markdown("#### Projection ACP des Métiers ROME Data & Tech (Âge & Genre)")
     if not df_acp.empty and "PC1" in df_acp.columns and "PC2" in df_acp.columns:
+        # Exclusion des codes ROME hors périmètre Data/Tech : K (Services), D (Commerce), J (Santé)
+        df_acp_clean = df_acp[~df_acp["rome_code"].astype(str).str.startswith(('K', 'D', 'J'))]
+        st.caption(f"Filtre actif : focalisation sur les métiers Data & Ingénierie ({len(df_acp_clean)} métiers affichés)")
+        
         fig_acp = px.scatter(
-            df_acp,
+            df_acp_clean,
             x="PC1",
             y="PC2",
-            color="cluster_label" if "cluster_label" in df_acp.columns else None,
-            hover_name="rome_libelle" if "rome_libelle" in df_acp.columns else "rome_code",
-            text="rome_code" if "rome_code" in df_acp.columns else None,
-            title="Plan Factoriel ACP : Typologie Sociodémographique des Métiers",
+            color="cluster_label" if "cluster_label" in df_acp_clean.columns else None,
+            hover_name="rome_libelle" if "rome_libelle" in df_acp_clean.columns else "rome_code",
+            text="rome_code" if "rome_code" in df_acp_clean.columns else None,
+            title="Plan Factoriel ACP : Typologie Sociodémographique des Métiers Data & Ingénierie",
             labels={"PC1": "Composante 1 (Structure d'Âge)", "PC2": "Composante 2 (Parité / Dynamisme)"},
         )
         fig_acp.update_traces(textposition="top center")

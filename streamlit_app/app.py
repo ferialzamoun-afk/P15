@@ -413,14 +413,18 @@ with tab_page4:
     
     with sub_f1:
         if not df_acp.empty and "PC1" in df_acp.columns and "PC2" in df_acp.columns:
+            # Exclusion des codes ROME hors périmètre Data/Tech : K (Services), D (Commerce), J (Santé)
+            df_acp_clean = df_acp[~df_acp["rome_code"].astype(str).str.startswith(('K', 'D', 'J'))]
+            st.caption(f"Filtre actif : focalisation sur les métiers Data & Ingénierie ({len(df_acp_clean)} métiers affichés)")
+            
             fig_acp = px.scatter(
-                df_acp,
+                df_acp_clean,
                 x="PC1",
                 y="PC2",
                 color="cluster_label",
                 hover_name="rome_libelle",
                 text="rome_code",
-                title="Plan Factoriel ACP : Typologie Sociodémographique des Métiers ROME",
+                title="Plan Factoriel ACP : Typologie Sociodémographique des Métiers Data & Ingénierie",
                 labels={"PC1": "Composante 1 (Structure d'Âge)", "PC2": "Composante 2 (Parité & Dynamisme)"},
             )
             fig_acp.update_traces(textposition="top center")
