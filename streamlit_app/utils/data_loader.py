@@ -5,7 +5,7 @@ import duckdb
 import pandas as pd
 import streamlit as st
 
-EXCLUDED_DISPLAY_ROME_CODES = {"K2205", "D1106"}
+EXCLUDED_DISPLAY_ROME_CODES = {"K2205", "D1106", "J1102", "H2605", "I1620"}
 ROME_CODE_COLUMNS = ("romeCode", "rome_code")
 
 
