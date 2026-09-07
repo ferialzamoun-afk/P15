@@ -13,7 +13,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.title("📊 Observatoire Analytique des Métiers Data & IA (Projet P15)")
+st.title("📊 Observatoire Analytique des Métiers Data & IA (Projet personnel)")
 st.caption("Architecture DuckDB • Modélisation Étoile & Bridges • Restitution Analytique Multi-Pages")
 
 # ==============================================================================
