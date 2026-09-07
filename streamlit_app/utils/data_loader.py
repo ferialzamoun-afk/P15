@@ -5,6 +5,23 @@ import duckdb
 import pandas as pd
 import streamlit as st
 
+EXCLUDED_DISPLAY_ROME_CODES = {"K2205", "D1106"}
+ROME_CODE_COLUMNS = ("romeCode", "rome_code")
+
+
+def exclude_display_rome_codes(df: pd.DataFrame) -> pd.DataFrame:
+    """Retire de l'affichage les codes ROME hors périmètre métier Data & IA."""
+    if df.empty:
+        return df
+
+    filtered_df = df
+    for column in ROME_CODE_COLUMNS:
+        if column in filtered_df.columns:
+            filtered_df = filtered_df[
+                ~filtered_df[column].astype(str).isin(EXCLUDED_DISPLAY_ROME_CODES)
+            ]
+    return filtered_df
+
 def get_marts_dir() -> Path:
     """Trouve dynamiquement le dossier des marts contenant les fichiers parquet."""
     current_file = Path(__file__).resolve()
@@ -32,13 +49,13 @@ def load_parquet(file_name: str) -> pd.DataFrame:
     p_file = marts / f"{stem}.parquet"
     if p_file.exists():
         try:
-            return pd.read_parquet(p_file)
+            return exclude_display_rome_codes(pd.read_parquet(p_file))
         except Exception:
             try:
                 con = duckdb.connect()
                 df = con.execute(f"SELECT * FROM '{p_file.as_posix()}'").df()
                 con.close()
-                return df
+                return exclude_display_rome_codes(df)
             except Exception:
                 pass
                 
@@ -46,7 +63,7 @@ def load_parquet(file_name: str) -> pd.DataFrame:
     c_file = marts / f"{stem}.csv"
     if c_file.exists():
         try:
-            return pd.read_csv(c_file)
+            return exclude_display_rome_codes(pd.read_csv(c_file))
         except Exception:
             pass
             
@@ -62,13 +79,13 @@ def load_parquet(file_name: str) -> pd.DataFrame:
         pf = d / f"{stem}.parquet"
         if pf.exists():
             try:
-                return pd.read_parquet(pf)
+                return exclude_display_rome_codes(pd.read_parquet(pf))
             except Exception:
                 pass
         cf = d / f"{stem}.csv"
         if cf.exists():
             try:
-                return pd.read_csv(cf)
+                return exclude_display_rome_codes(pd.read_csv(cf))
             except Exception:
                 pass
 
