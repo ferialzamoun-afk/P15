@@ -124,8 +124,17 @@ col1, col2, col3, col4, col5 = st.columns(5)
 nb_offres = len(df_offres_f) if not df_offres_f.empty else 0
 nb_rome = df_offres_f["romeCode"].nunique() if not df_offres_f.empty and "romeCode" in df_offres_f.columns else (int(df_kpi_global["nombre_codes_rome"].iloc[0]) if not df_kpi_global.empty else 0)
 nb_reg = df_offres_f["region"].nunique() if not df_offres_f.empty and "region" in df_offres_f.columns else (int(df_kpi_global["nombre_regions"].iloc[0]) if not df_kpi_global.empty else 0)
+nb_offres_global = int(df_kpi_global["nombre_offres"].iloc[0]) if not df_kpi_global.empty and "nombre_offres" in df_kpi_global.columns else 0
 couv_certif = float(df_kpi_global["couverture_certifications_pct"].iloc[0]) if not df_kpi_global.empty and "couverture_certifications_pct" in df_kpi_global.columns else 36.9
 date_col = str(df_kpi_global["derniere_collecte"].iloc[0])[:10] if not df_kpi_global.empty and "derniere_collecte" in df_kpi_global.columns else "2026-08-31"
+part_top_regions = 0.0
+if not df_offres.empty and {"id", "region"}.issubset(df_offres.columns):
+    nb_ids_global = df_offres["id"].nunique()
+    if nb_ids_global:
+        nb_ids_top_regions = df_offres.loc[
+            df_offres["region"].isin(["Ile-de-France", "Auvergne-Rhône-Alpes"]), "id"
+        ].nunique()
+        part_top_regions = 100.0 * nb_ids_top_regions / nb_ids_global
 
 col1.metric("Offres (filtrées)", f"{nb_offres:,}")
 col2.metric("Métiers ROME", f"{nb_rome}")
@@ -156,11 +165,13 @@ with tab_page1:
     st.markdown("**Question métier :** *Où se situe le volume d'offres Data & IA et quels signaux méritent une analyse détaillée ?*")
     st.markdown("Cette page offre une vision d'ensemble confrontant offres réelles collectées, intentions d'embauche BMO 2026 et qualité du mapping.")
     
-    st.info("""
+    st.info(f"""
     💡 **Insights clés & Alertes qualité :**
-    * **Concentration territoriale** : Île-de-France et Auvergne-Rhône-Alpes regroupent plus de 60 % du marché de l'emploi Data & IA.
-    * **Offres vs BMO** : L'enquête BMO déclare des volumes d'intentions bien supérieurs aux flux d'offres en ligne pour certains métiers, signalant un **marché caché** ou des recrutements directs de réseau.
-    * **Alertes qualité** : 36.9 % des offres sont rattachées à une certification RNCP officielle ; les métiers hybrides nécessitent un mapping complémentaire.
+    * **Comparaison des extractions** : le snapshot du 2026-08-31 comptait **1,047 offres** et **36.9 %** de couverture RNCP. Au 2026-09-25, le mart courant compte **{nb_offres_global:,} offres** et **{couv_certif:.1f} %** ({nb_offres_global - 1047:+,} offres ; {couv_certif - 36.9:+.1f} points).
+    * **Lecture prudente** : les dates et périmètres d'extraction diffèrent ; cet écart ne mesure pas à lui seul une croissance du marché.
+    * **Concentration territoriale** : Île-de-France et Auvergne-Rhône-Alpes représentent **{part_top_regions:.1f} %** des offres du mart courant.
+    * **Offres vs BMO** : les intentions BMO dépassent les offres publiées pour certains métiers ; les populations et temporalités diffèrent, ce qui ne suffit pas à conclure à un marché caché.
+    * **Qualité du mapping** : la couverture RNCP du mart courant est de **{couv_certif:.1f} %** ; les métiers hybrides restent à examiner.
     """)
     
     sub1, sub2, sub3, sub4 = st.tabs([

@@ -58,6 +58,16 @@ nb_total_offres = len(df_offres_plot) if not df_offres_plot.empty else (int(df_k
 taux_couverture = float(df_kpi_global["couverture_certifications_pct"].iloc[0]) if not df_kpi_global.empty and "couverture_certifications_pct" in df_kpi_global.columns else 36.9
 nb_codes_rome = int(df_kpi_global["nombre_codes_rome"].iloc[0]) if not df_kpi_global.empty and "nombre_codes_rome" in df_kpi_global.columns else (df_offres["romeCode"].nunique() if not df_offres.empty else 0)
 nb_regions = int(df_kpi_global["nombre_regions"].iloc[0]) if not df_kpi_global.empty and "nombre_regions" in df_kpi_global.columns else (df_offres["region"].nunique() if not df_offres.empty else 0)
+nb_offres_global = int(df_kpi_global["nombre_offres"].iloc[0]) if not df_kpi_global.empty and "nombre_offres" in df_kpi_global.columns else 0
+date_col = str(df_kpi_global["derniere_collecte"].iloc[0])[:10] if not df_kpi_global.empty and "derniere_collecte" in df_kpi_global.columns else "inconnue"
+part_top_regions = 0.0
+if not df_offres.empty and {"id", "region"}.issubset(df_offres.columns):
+    nb_ids_global = df_offres["id"].nunique()
+    if nb_ids_global:
+        nb_ids_top_regions = df_offres.loc[
+            df_offres["region"].isin(["Ile-de-France", "Auvergne-Rhône-Alpes"]), "id"
+        ].nunique()
+        part_top_regions = 100.0 * nb_ids_top_regions / nb_ids_global
 
 col1.metric("Volume Total d'Offres", f"{nb_total_offres:,}")
 col2.metric("Couverture Certifications", f"{taux_couverture:.1f} %", delta="Cible > 80 %")
@@ -65,10 +75,12 @@ col3.metric("Métiers ROME Détectés", f"{nb_codes_rome} codes distincts")
 col4.metric("Régions avec Offres", f"{nb_regions}")
 
 with st.container():
-    st.info("""
+    st.info(f"""
     📌 **Constats majeurs :**
-    * **Concentration territoriale** : L'Île-de-France et Auvergne-Rhône-Alpes regroupent plus de 60 % du volume global des offres publiées.
-    * **Offres vs BMO** : L'enquête BMO déclare des volumes d'intentions bien supérieurs aux flux d'offres en ligne pour certains métiers, signalant un **marché caché** ou des recrutements directs de réseau.
+    * **Comparaison des extractions** : le snapshot du 2026-08-31 comptait **1,047 offres** et **36.9 %** de couverture RNCP. Au **{date_col}**, le mart courant compte **{nb_offres_global:,} offres** et **{taux_couverture:.1f} %** ({nb_offres_global - 1047:+,} offres ; {taux_couverture - 36.9:+.1f} points).
+    * **Lecture prudente** : les dates et périmètres d'extraction diffèrent ; cet écart ne mesure pas à lui seul une croissance du marché.
+    * **Concentration territoriale** : l'Île-de-France et Auvergne-Rhône-Alpes représentent **{part_top_regions:.1f} %** des offres du mart courant.
+    * **Offres vs BMO** : les intentions BMO dépassent les offres publiées pour certains métiers ; les populations et temporalités diffèrent, ce qui ne suffit pas à conclure à un marché caché.
     * **Alerte Qualité** : Plusieurs offres intègrent des intitulés "Data Analyst" mais sont classées sous des ROME inattendus (ex. *G1302 - Yield Manager*, *G1211 - Performance sportive*).
     """)
 

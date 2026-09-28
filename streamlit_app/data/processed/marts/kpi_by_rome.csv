@@ -1,30 +1,142 @@
 ﻿rome_code,rome_libelle,nombre_offres,offres_alternance,offres_mappees_certification,offres_sans_mapping,certifications_distinctes,niveau_confiance,couverture_certifications_pct
-H1206,Ingénieur / Ingénieure R&D en industrie,9,0,9,0,779,officiel,100.0
-D1410,Attaché commercial / Attachée commerciale,4,4,0,4,0,a_valider,0.0
-H1402,Ingénieur / Ingénieure méthodes et process,1,0,1,0,329,officiel,100.0
-M1853,Chef / Cheffe de projet étude et développement informatique,3,1,0,3,0,a_valider,0.0
-M1717,Responsable innovation,1,0,0,1,0,a_valider,0.0
-M1803,Directeur / Directrice des systèmes d'information (DSI),1,0,1,0,178,officiel,100.0
-H2903,Usineur / Usineuse,1,0,1,0,17,officiel,100.0
-C1105,Actuaire en assurances,1,0,1,0,8,officiel,100.0
-M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,136,3,136,0,273,officiel,100.0
-M1429,Consultant / Consultante en management,1,0,0,1,0,a_valider,0.0
+M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,315,3,251,0,273,officiel,79.7
+M1429,Consultant / Consultante en management,5,0,0,2,0,a_valider,0.0
 M1430,Chargé / Chargée d'études commerciales,3,0,0,3,0,a_valider,0.0
 M1831,Développeur / Développeuse - jeux vidéo,1,0,0,1,0,a_valider,0.0
-M1884,"Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",1,0,0,1,0,a_valider,0.0
-M1201,Analyste financier / Analyste financière,7,0,7,0,93,officiel,100.0
-M1867,Responsable des systèmes d'information (SI),2,0,0,2,0,a_valider,0.0
+M1884,"Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",8,0,0,6,0,a_valider,0.0
+M1201,Analyste financier / Analyste financière,15,0,12,0,93,officiel,80.0
+M1867,Responsable des systèmes d'information (SI),4,0,0,4,0,a_valider,0.0
 C1102,Conseiller commercial / Conseillère commerciale et relation client en assurances,1,0,1,0,29,officiel,100.0
-M1814,Scrum Master,1,0,0,1,0,a_valider,0.0
+M1814,Scrum Master,5,0,0,5,0,a_valider,0.0
 F1101,Architecte du bâtiment,1,0,1,0,24,officiel,100.0
 I1306,Frigoriste,1,0,1,0,35,officiel,100.0
 M1878,Responsable de la production informatique,1,0,0,1,0,a_valider,0.0
 J1304,Auxiliaire de puériculture,1,0,1,0,1,officiel,100.0
 K2202,Laveur / Laveuse de vitres,1,0,1,0,4,officiel,100.0
-M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),100,16,0,100,0,a_valider,0.0
-M1896,Analyste cycle de vie dans les télécoms,3,0,0,3,0,a_valider,0.0
-M1811,Data engineer,168,9,0,168,0,a_valider,0.0
-M1204,Contrôleur / Contrôleuse de gestion,2,0,2,0,85,officiel,100.0
+M1836,Ingénieur concepteur / Ingénieure conceptrice informatique,3,0,0,3,0,a_valider,0.0
+M1846,Ingénieur / Ingénieure Cybersécurité Datacenter,1,0,0,1,0,a_valider,0.0
+F1104,Dessinateur-projeteur / Dessinatrice-projeteuse de la construction,1,0,1,0,30,officiel,100.0
+E1410,Responsable programmatique,1,0,0,1,0,a_valider,0.0
+M1704,Responsable service clients,2,1,2,0,89,officiel,100.0
+D1506,Chargé / Chargée de merchandising,1,0,1,0,12,officiel,100.0
+M1203,Comptable,6,0,4,0,54,officiel,66.7
+C1214,Chargé / Chargée d'études crédits bancaires,3,0,0,1,0,a_valider,0.0
+G1219,Recruteur sportif / Recruteuse sportive,2,0,0,2,0,a_valider,0.0
+H1210,Technicien / Technicienne R&D,1,0,1,0,127,officiel,100.0
+F1125,BIM Manager,1,0,0,1,0,a_valider,0.0
+C1206,Conseiller / Conseillère de clientèle bancaire,1,0,1,0,34,officiel,100.0
+H1102,Ingénieur / Ingénieure d'affaires en industrie,1,0,0,0,0,,0.0
+A1325,Chargé / Chargée de projet Biodiversité,1,0,0,0,0,,0.0
+C1402,Agent / Agente technique des régimes de retraite complémentaire et de prévoyance,1,0,0,0,0,,0.0
+M1405,Data scientist,222,8,0,199,0,a_valider,0.0
+K2402,Ingénieur / Ingénieure de recherche scientifique,4,0,3,0,109,officiel,75.0
+I1620,Mécanicien-réparateur / Mécanicienne-réparatrice d'engins de levage et de manutention,1,0,0,1,0,a_valider,0.0
+K2108,Professeur / Professeure des universités,1,0,1,0,12,officiel,100.0
+M1863,Evaluateur / Evaluatrice sécurité des systèmes et produits informatiques,3,0,0,3,0,a_valider,0.0
+K1740,Expert / Experte en opérations spatiales militaires,2,0,0,2,0,a_valider,0.0
+M1605,Secrétaire technique,1,0,1,0,33,officiel,100.0
+M1718,Chargé / Chargée de marketing digital,7,0,0,7,0,a_valider,0.0
+H1520,Ingénieur qualité / Ingénieure qualité,2,0,0,2,0,a_valider,0.0
+M1802,Expert / Experte systèmes et réseaux informatiques,15,1,13,0,345,officiel,86.7
+M1822,Spécialiste Jumeau Numérique,1,1,0,1,0,a_valider,0.0
+M1707,Responsable du développement commercial,3,0,3,0,249,officiel,100.0
+D1403,Conseiller commercial / Conseillère commerciale auprès des particuliers,2,0,2,0,17,officiel,100.0
+C1208,Courtier / Courtière en banque,1,0,0,1,0,a_valider,0.0
+M1826,Ingénieur / Ingénieure supervision IT Datacenter,4,0,0,4,0,a_valider,0.0
+E1105,Editeur / Editrice,2,0,2,0,19,officiel,100.0
+K1914,Responsable de service juridique,1,0,0,1,0,a_valider,0.0
+I1311,Technicien / Technicienne installation réseaux câblés fibre optique,1,0,0,1,0,a_valider,0.0
+D1505,Hôte / Hôtesse de caisse,1,0,1,0,5,officiel,100.0
+I1105,Responsable de maintenance et d'exploitation,1,0,0,1,0,a_valider,0.0
+M1804,Ingénieur / Ingénieure télécoms et environnement,1,0,1,0,107,officiel,100.0
+I1307,Antenniste,1,0,1,0,19,officiel,100.0
+M1859,Chef / Cheffe de projet maîtrise d'œuvre informatique,1,0,0,0,0,,0.0
+K2127,Professeur / Professeure d'enseignement général pour déficients sensoriels,1,0,0,0,0,,0.0
+C1403,Cadre technique de la banque,1,0,0,0,0,,0.0
+H1206,Ingénieur / Ingénieure R&D en industrie,15,0,14,0,779,officiel,93.3
+D1410,Attaché commercial / Attachée commerciale,4,4,0,4,0,a_valider,0.0
+H1402,Ingénieur / Ingénieure méthodes et process,1,0,1,0,329,officiel,100.0
+M1853,Chef / Cheffe de projet étude et développement informatique,6,1,0,5,0,a_valider,0.0
+M1717,Responsable innovation,1,0,0,1,0,a_valider,0.0
+M1803,Directeur / Directrice des systèmes d'information (DSI),2,0,2,0,178,officiel,100.0
+H2903,Usineur / Usineuse,1,0,1,0,17,officiel,100.0
+C1105,Actuaire en assurances,1,0,1,0,8,officiel,100.0
+K1304,Employé familial / Employée familiale,4,0,4,0,3,officiel,100.0
+M1403,Chargé / Chargée d'études socio-économiques,2,0,1,0,156,officiel,50.0
+K2307,Agent / Agente de propreté urbaine,2,0,0,1,0,a_valider,0.0
+D1416,Commercial / Commerciale auprès d'une clientèle d'entreprises,1,0,0,1,0,a_valider,0.0
+F1135,Chargé / Chargée d'affaires BTP,2,0,0,1,0,a_valider,0.0
+M1839,Architecte systèmes et réseaux,5,0,0,5,0,a_valider,0.0
+M1620,Assistant / Assistante marketing,1,0,0,1,0,a_valider,0.0
+M1887,Product builder no code,2,0,0,1,0,a_valider,0.0
+M1407,Responsable de la veille scientifique et technique en industrie pharmaceutique,1,0,0,1,0,a_valider,0.0
+C1203,Chargé / Chargée d'affaires bancaires,1,0,0,0,0,,0.0
+M1101,Acheteur / Acheteuse,1,0,1,0,43,officiel,100.0
+M1855,Développeur / Développeuse web,62,3,0,54,0,a_valider,0.0
+M1868,Architecte base de données,29,1,0,26,0,a_valider,0.0
+H1218,Responsable de projet recherche et développement,30,0,0,25,0,a_valider,0.0
+H2502,Ingénieur / Ingénieure de production,3,0,2,0,445,officiel,66.7
+H1215,"Bioinformaticien / Bioinformaticienne en études, recherche et développement",4,0,0,4,0,a_valider,0.0
+M1423,Chief Data Officer,2,0,0,2,0,a_valider,0.0
+M1851,Analyste décisionnel - Business Intelligence,19,0,0,19,0,a_valider,0.0
+M1876,Technicien / Technicienne Cloud,5,0,0,4,0,a_valider,0.0
+F1117,Ingénieur / Ingénieure d'étude CVC,3,0,0,3,0,a_valider,0.0
+M1852,Analyste d'étude informatique,16,0,0,13,0,a_valider,0.0
+M1879,Ingénieur / Ingénieure Cloud computing,10,0,0,9,0,a_valider,0.0
+J1102,Médecin généraliste,1,0,1,0,1,officiel,100.0
+M1872,Consultant décisionnel / Consultante décisionnelle - Business Intelligence,5,0,0,4,0,a_valider,0.0
+M1502,Chargé / Chargée de recrutement,3,1,3,0,87,officiel,100.0
+M1895,Géomaticien / Géomaticienne,2,0,0,2,0,a_valider,0.0
+M1703,Chef / Cheffe de produit,8,0,7,0,152,officiel,87.5
+F1137,Chargé / Chargée de méthodes BTP,2,0,0,1,0,a_valider,0.0
+I1302,Technicien / Technicienne de maintenance d'installations automatisées,1,0,1,0,34,officiel,100.0
+H3302,Agent / Agente de conditionnement,2,0,2,0,10,officiel,100.0
+K1808,Chargé / Chargée de développement culturel,1,0,0,1,0,a_valider,0.0
+M1844,Responsable des études et applications informatiques,1,0,0,1,0,a_valider,0.0
+E1306,Opérateur / Opératrice de prépresse,1,0,1,0,11,officiel,100.0
+K1601,Documentaliste,1,0,1,0,70,officiel,100.0
+D1406,Directeur / Directrice des ventes,5,0,5,0,88,officiel,100.0
+M1503,Directeur / Directrice des Ressources Humaines (DRH),1,0,1,0,101,officiel,100.0
+F1130,Contrôleur / Contrôleuse technique de la construction (CTC),1,0,0,1,0,a_valider,0.0
+H1401,Responsable ordonnancement-lancement-planification en industrie,2,0,0,0,0,,0.0
+M1618,Agent / Agente de liaison courrier,1,0,0,0,0,,0.0
+C1204,Gestionnaire de produits bancaires,1,0,0,0,0,,0.0
+M1607,Assistant administratif / Assistante administrative,1,0,0,0,0,,0.0
+D1444,Responsable grands comptes,1,0,0,0,0,,0.0
+M1419,Data analyst,250,32,219,0,1,a_valider,87.6
+M1818,Ingénieur / Ingénieure d'étude informatique,13,0,0,8,0,a_valider,0.0
+C1120,Conseiller / Conseillère en études actuarielles,14,0,0,10,0,a_valider,0.0
+M1805,Développeur / Développeuse informatique,32,0,26,0,501,officiel,81.3
+M1841,Ingénieur informaticien / Ingénieure informaticienne,13,1,0,9,0,a_valider,0.0
+M1801,Administrateur / Administratrice de systèmes d'information (SI),15,0,9,0,184,officiel,60.0
+M1882,Architecte sécurité informatique,2,0,0,2,0,a_valider,0.0
+M1880,Spécialiste e-santé,2,0,0,2,0,a_valider,0.0
+M1211,Expert-comptable / Experte-comptable,1,0,0,1,0,a_valider,0.0
+I1401,Technicien / Technicienne de maintenance en informatique,1,0,1,0,28,officiel,100.0
+M1874,Spécialiste support,1,0,0,1,0,a_valider,0.0
+H1208,Automaticien / Automaticienne en bureau d'études,3,0,3,0,50,officiel,100.0
+I1616,Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,4,0,0,4,0,a_valider,0.0
+C1202,Analyste de crédits et risques bancaires,15,0,12,0,24,officiel,80.0
+I1122,Directeur / Directrice de travaux d'infrastructure,1,0,0,1,0,a_valider,0.0
+C1130,Gestionnaire en protection sociale,4,0,0,4,0,a_valider,0.0
+M1813,Intégrateur / Intégratrice logiciels métiers,6,0,0,6,0,a_valider,0.0
+M1815,Spécialiste test et validation logiciel ou application,3,0,0,3,0,a_valider,0.0
+M1894,Gestionnaire de base de données,1,0,0,1,0,a_valider,0.0
+M1401,Enquêteur / Enquêtrice sondage,1,0,1,0,20,officiel,100.0
+M1886,Chef / Cheffe de projet Web,6,0,0,4,0,a_valider,0.0
+M1807,"Spécialiste outils, systèmes d'exploitation, réseaux et télécoms",3,0,3,0,13,officiel,100.0
+M1843,Administrateur / Administratrice de serveurs,1,0,0,1,0,a_valider,0.0
+M1414,Ingénieur statisticien / Ingénieure statisticienne,1,0,0,1,0,a_valider,0.0
+I1101,Directeur / Directrice de la gestion technique des bâtiments,1,0,1,0,46,officiel,100.0
+H1109,Chargé / Chargée d'affaires nucléaire,1,0,0,1,0,a_valider,0.0
+M1716,Directeur / Directrice marketing digital,1,0,0,0,0,,0.0
+H1224,Technicien / Technicienne de laboratoire de recherche-développement,1,0,0,0,0,,0.0
+E1115,Chef / Cheffe de projet jeux vidéo,1,0,0,1,0,a_valider,0.0
+M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),274,18,0,227,0,a_valider,0.0
+M1896,Analyste cycle de vie dans les télécoms,4,0,0,4,0,a_valider,0.0
+M1811,Data engineer,414,16,0,340,0,a_valider,0.0
+M1864,Product Owner,88,1,0,63,0,a_valider,0.0
+M1204,Contrôleur / Contrôleuse de gestion,3,0,3,0,85,officiel,100.0
 M1501,Assistant / Assistante Ressources Humaines (RH),4,3,4,0,47,officiel,100.0
 K1703,Responsable de l'emploi des forces armées,1,0,1,0,12,officiel,100.0
 M1228,Gestionnaire de risques financiers,1,0,0,1,0,a_valider,0.0
@@ -32,89 +144,80 @@ K2413,Chercheur / Chercheuse des écosystèmes,1,0,0,1,0,a_valider,0.0
 M1435,Chargé de tracking vérificateur / Chargée de tracking vérificatrice,3,0,0,3,0,a_valider,0.0
 E1405,Référenceur / Référenceuse web,2,0,0,2,0,a_valider,0.0
 H1101,Ingénieur / Ingénieure support technique,1,0,1,0,59,officiel,100.0
-G1211,Analyste de la performance sportive,5,0,0,5,0,a_valider,0.0
-L1505,Opérateur / Opératrice de prise de vues,2,1,2,0,35,officiel,100.0
-M1810,Technicien / Technicienne d'exploitation informatique,6,0,6,0,115,officiel,100.0
-H1406,Ingénieur / Ingénieure supply chain en industrie,3,0,0,3,0,a_valider,0.0
-M1881,Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA),2,0,0,2,0,a_valider,0.0
-M1864,Product Owner,4,0,0,4,0,a_valider,0.0
-C1209,Spécialiste de la vérification client,1,0,0,1,0,a_valider,0.0
+G1211,Analyste de la performance sportive,12,0,0,11,0,a_valider,0.0
+L1505,Opérateur / Opératrice de prise de vues,3,1,3,0,35,officiel,100.0
+M1810,Technicien / Technicienne d'exploitation informatique,10,1,10,0,115,officiel,100.0
+H1406,Ingénieur / Ingénieure supply chain en industrie,6,0,0,6,0,a_valider,0.0
+M1881,Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA),3,0,0,3,0,a_valider,0.0
+C1209,Spécialiste de la vérification client,2,0,0,2,0,a_valider,0.0
 I1310,Mécanicien / Mécanicienne de maintenance industrielle,1,0,1,0,41,officiel,100.0
 K2111,Formateur / Formatrice,3,0,3,0,59,officiel,100.0
-M1702,Planneur / Planneuse stratégique,5,0,5,0,23,officiel,100.0
-M1827,Ingénieur / Ingénieure DevOps,71,3,0,71,0,a_valider,0.0
-M1873,Spécialiste IA embarquée,1,1,0,1,0,a_valider,0.0
-I1404,Conseiller / Conseillère support technique informatique,1,1,0,1,0,a_valider,0.0
-M1102,Directeur / Directrice des achats,1,0,1,0,37,officiel,100.0
-H2605,Monteur-câbleur / Monteuse-câbleuse,1,0,1,0,6,officiel,100.0
-K2205,Agent / Agente de propreté de locaux,1,0,0,1,0,a_valider,0.0
-D1438,Assistant / Assistante e-commerce,1,1,0,1,0,a_valider,0.0
-J1411,Orthoprothésiste,1,0,1,0,10,officiel,100.0
-M1842,Qualiticien / Qualiticienne logiciel en informatique,1,0,0,1,0,a_valider,0.0
-M1828,Chef de projet / Cheffe de projet (Project Management Officer),2,0,0,2,0,a_valider,0.0
-C1401,Agent administratif / Agente administrative banque ou assurance,1,0,1,0,10,officiel,100.0
-K1804,Conseiller / Conseillère en création d'entreprise,1,0,0,1,0,a_valider,0.0
-M1834,Administrateur / Administratrice de site internet,1,0,0,1,0,a_valider,0.0
-M1101,Acheteur / Acheteuse,1,0,1,0,43,officiel,100.0
-M1855,Développeur / Développeuse web,29,1,0,29,0,a_valider,0.0
-M1868,Architecte base de données,17,0,0,17,0,a_valider,0.0
-H1218,Responsable de projet recherche et développement,2,0,0,2,0,a_valider,0.0
-H2502,Ingénieur / Ingénieure de production,2,0,2,0,445,officiel,100.0
-H1215,"Bioinformaticien / Bioinformaticienne en études, recherche et développement",3,0,0,3,0,a_valider,0.0
-M1423,Chief Data Officer,1,0,0,1,0,a_valider,0.0
-M1851,Analyste décisionnel - Business Intelligence,5,0,0,5,0,a_valider,0.0
-M1876,Technicien / Technicienne Cloud,3,0,0,3,0,a_valider,0.0
-F1117,Ingénieur / Ingénieure d'étude CVC,1,0,0,1,0,a_valider,0.0
-M1852,Analyste d'étude informatique,8,0,0,8,0,a_valider,0.0
-M1879,Ingénieur / Ingénieure Cloud computing,2,0,0,2,0,a_valider,0.0
-J1102,Médecin généraliste,1,0,1,0,1,officiel,100.0
-M1872,Consultant décisionnel / Consultante décisionnelle - Business Intelligence,2,0,0,2,0,a_valider,0.0
-M1502,Chargé / Chargée de recrutement,1,1,1,0,87,officiel,100.0
-M1895,Géomaticien / Géomaticienne,1,0,0,1,0,a_valider,0.0
-F1137,Chargé / Chargée de méthodes BTP,1,0,0,1,0,a_valider,0.0
-I1302,Technicien / Technicienne de maintenance d'installations automatisées,1,0,1,0,34,officiel,100.0
-H3302,Agent / Agente de conditionnement,1,0,1,0,10,officiel,100.0
-M1419,Data analyst,141,23,141,0,1,a_valider,100.0
-M1818,Ingénieur / Ingénieure d'étude informatique,4,0,0,4,0,a_valider,0.0
-C1120,Conseiller / Conseillère en études actuarielles,2,0,0,2,0,a_valider,0.0
-M1805,Développeur / Développeuse informatique,14,0,14,0,501,officiel,100.0
-M1841,Ingénieur informaticien / Ingénieure informaticienne,7,1,0,7,0,a_valider,0.0
-M1801,Administrateur / Administratrice de systèmes d'information (SI),5,0,5,0,184,officiel,100.0
-M1882,Architecte sécurité informatique,1,0,0,1,0,a_valider,0.0
-M1880,Spécialiste e-santé,1,0,0,1,0,a_valider,0.0
-M1211,Expert-comptable / Experte-comptable,1,0,0,1,0,a_valider,0.0
-I1401,Technicien / Technicienne de maintenance en informatique,1,0,1,0,28,officiel,100.0
-M1874,Spécialiste support,1,0,0,1,0,a_valider,0.0
-H1208,Automaticien / Automaticienne en bureau d'études,1,0,1,0,50,officiel,100.0
-I1616,Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,3,0,0,3,0,a_valider,0.0
-C1202,Analyste de crédits et risques bancaires,3,0,3,0,24,officiel,100.0
-I1122,Directeur / Directrice de travaux d'infrastructure,1,0,0,1,0,a_valider,0.0
-C1130,Gestionnaire en protection sociale,1,0,0,1,0,a_valider,0.0
-M1813,Intégrateur / Intégratrice logiciels métiers,1,0,0,1,0,a_valider,0.0
-M1405,Data scientist,138,7,0,138,0,a_valider,0.0
-K2402,Ingénieur / Ingénieure de recherche scientifique,1,0,1,0,109,officiel,100.0
-I1620,Mécanicien-réparateur / Mécanicienne-réparatrice d'engins de levage et de manutention,1,0,0,1,0,a_valider,0.0
-K2108,Professeur / Professeure des universités,1,0,1,0,12,officiel,100.0
-M1863,Evaluateur / Evaluatrice sécurité des systèmes et produits informatiques,1,0,0,1,0,a_valider,0.0
-K1740,Expert / Experte en opérations spatiales militaires,1,0,0,1,0,a_valider,0.0
-M1605,Secrétaire technique,1,0,1,0,33,officiel,100.0
-M1718,Chargé / Chargée de marketing digital,3,0,0,3,0,a_valider,0.0
-H1520,Ingénieur qualité / Ingénieure qualité,2,0,0,2,0,a_valider,0.0
-M1802,Expert / Experte systèmes et réseaux informatiques,6,0,6,0,345,officiel,100.0
-M1822,Spécialiste Jumeau Numérique,1,1,0,1,0,a_valider,0.0
-M1707,Responsable du développement commercial,2,0,2,0,249,officiel,100.0
-D1403,Conseiller commercial / Conseillère commerciale auprès des particuliers,1,0,1,0,17,officiel,100.0
-C1208,Courtier / Courtière en banque,1,0,0,1,0,a_valider,0.0
-M1861,Développeur / Développeuse logiciel ou d'application,9,1,0,9,0,a_valider,0.0
-F1112,Ingénieur / Ingénieure calcul et structure,1,1,0,1,0,a_valider,0.0
+M1871,Gestionnaire d'applications système d'information,2,0,0,2,0,a_valider,0.0
+E1206,UX - UI Designer,13,0,0,13,0,a_valider,0.0
+M1207,Trésorier / Trésorière,4,0,3,0,21,officiel,75.0
+K2112,Conseiller / Conseillère d'orientation,1,0,1,0,10,officiel,100.0
+M1856,Expert / Experte en cybersécurité,1,0,0,1,0,a_valider,0.0
+M1854,Chef / Cheffe de projet réseau fixe et mobile,4,0,0,4,0,a_valider,0.0
+M1202,Auditeur comptable et financier / Auditrice comptable et financière,1,0,1,0,80,officiel,100.0
+F1105,Géologue,1,0,0,0,0,,0.0
+C1304,Gestionnaire d'organisme de placement collectif en valeurs mobilières -OPCVM-,1,0,0,0,0,,0.0
+N2201,Agent / Agente d'Escale Commerciale aéroportuaire (AEC),1,0,0,0,0,,0.0
+M1861,Développeur / Développeuse logiciel ou d'application,20,1,0,19,0,a_valider,0.0
+F1112,Ingénieur / Ingénieure calcul et structure,2,1,0,1,0,a_valider,0.0
 D1106,Vendeur / Vendeuse en épicerie,1,1,1,0,27,officiel,100.0
 K1501,Agent / Agente d'administration principal(e) des douanes,1,0,1,0,7,officiel,100.0
-M1508,Conseiller / Conseillère en gestion de carrière,2,0,0,2,0,a_valider,0.0
-M1860,Architecte cloud,6,0,0,6,0,a_valider,0.0
-G1302,Yield manager,8,0,8,0,9,officiel,100.0
+M1508,Conseiller / Conseillère en gestion de carrière,3,0,0,3,0,a_valider,0.0
+M1860,Architecte cloud,18,0,0,16,0,a_valider,0.0
+G1302,Yield manager,20,0,12,0,9,officiel,60.0
 M1892,Ingénieur / Ingénieure en informatique embarquée,1,1,0,1,0,a_valider,0.0
 C1106,Expert / Experte risques en assurances,1,0,1,0,8,officiel,100.0
 M1209,Conseiller / Conseillère en gestion,1,1,0,1,0,a_valider,0.0
 C1217,Conseiller commercial / Conseillère commerciale de banque,1,0,0,1,0,a_valider,0.0
 H2906,Opérateur / Opératrice en fabrication mécanique,1,0,1,0,14,officiel,100.0
-H2515,Chef / Cheffe d'atelier en industrie de transformation,3,0,0,3,0,a_valider,0.0
+H2515,Chef / Cheffe d'atelier en industrie de transformation,6,0,0,3,0,a_valider,0.0
+M1208,Directeur / Directrice du contrôle de gestion,1,0,0,1,0,a_valider,0.0
+N1210,Logisticien / Logisticienne,2,0,0,2,0,a_valider,0.0
+M1824,Développeur / Développeuse décisionnel - Business Intelligence,8,0,0,7,0,a_valider,0.0
+I1605,Mécanicien / Mécanicienne en mécanique marine ou navale,1,0,1,0,33,officiel,100.0
+M1821,Analyste d'application informatique,6,0,0,4,0,a_valider,0.0
+C1101,Chargé / Chargée de produit en assurances,3,0,3,0,2,officiel,100.0
+D1402,Commercial / Commerciale grands comptes et entreprises,1,0,1,0,68,officiel,100.0
+M1877,Développeur / Développeuse blockchain,1,0,0,1,0,a_valider,0.0
+H1219,Responsable opérationnel / Responsable opérationnelle des études cliniques en industrie pharmaceutique,1,0,0,1,0,a_valider,0.0
+L1401,Sportif professionnel / Sportive professionnelle,1,0,1,0,7,officiel,100.0
+K1732,Spécialiste des systèmes de communication opérationnels,9,0,0,9,0,a_valider,0.0
+K1903,Juriste,3,0,2,0,64,officiel,66.7
+I1123,Chef / Cheffe de service sécurité trafic routier,3,0,0,3,0,a_valider,0.0
+M1809,Météorologue,1,0,1,0,5,officiel,100.0
+C1127,Expert / Experte à distance sinistres et dommages en assurances,1,0,0,1,0,a_valider,0.0
+K1735,"Architecte système de force, d'arme ou équipement militaire",1,0,0,1,0,a_valider,0.0
+H1410,Ingénieur / Ingénieure de gestion de la production,1,0,0,0,0,,0.0
+M1702,Planneur / Planneuse stratégique,6,0,6,0,23,officiel,100.0
+M1827,Ingénieur / Ingénieure DevOps,125,4,0,113,0,a_valider,0.0
+M1873,Spécialiste IA embarquée,4,1,0,3,0,a_valider,0.0
+I1404,Conseiller / Conseillère support technique informatique,1,1,0,1,0,a_valider,0.0
+M1102,Directeur / Directrice des achats,5,0,3,0,37,officiel,60.0
+H2605,Monteur-câbleur / Monteuse-câbleuse,1,0,1,0,6,officiel,100.0
+K2205,Agent / Agente de propreté de locaux,2,0,0,2,0,a_valider,0.0
+D1438,Assistant / Assistante e-commerce,1,1,0,1,0,a_valider,0.0
+J1411,Orthoprothésiste,1,0,1,0,10,officiel,100.0
+M1842,Qualiticien / Qualiticienne logiciel en informatique,1,0,0,1,0,a_valider,0.0
+M1828,Chef de projet / Cheffe de projet (Project Management Officer),4,0,0,4,0,a_valider,0.0
+C1401,Agent administratif / Agente administrative banque ou assurance,2,0,2,0,10,officiel,100.0
+K1804,Conseiller / Conseillère en création d'entreprise,1,0,0,1,0,a_valider,0.0
+M1834,Administrateur / Administratrice de site internet,2,0,0,2,0,a_valider,0.0
+D1420,Cadre Technico-commercial / CadreTechnico-commerciale,2,0,0,2,0,a_valider,0.0
+A1303,Ingénieur / Ingénieure d'études et de recherche agricoles,1,0,1,0,86,officiel,100.0
+M1883,Analyste SOC (Security Operations Center),1,0,0,1,0,a_valider,0.0
+G1305,Assistant / Assistante chef de produit tourisme,1,0,0,1,0,a_valider,0.0
+M1858,Chef / Cheffe de projet TMA - Tierce Maintenance Applicative,6,0,0,5,0,a_valider,0.0
+E1403,Consultant / Consultante média,9,0,0,7,0,a_valider,0.0
+M1812,Responsable de la Sécurité des Systèmes d'Information (RSSI),2,0,0,2,0,a_valider,0.0
+M1434,Développeur / Développeuse d'audience,1,0,0,1,0,a_valider,0.0
+M1835,Architecte systèmes et réseaux des territoires connectés,4,0,0,2,0,a_valider,0.0
+D1102,Boulanger / Boulangère,1,0,1,0,16,officiel,100.0
+I1403,Technicien / Technicienne Datacenter,1,0,0,1,0,a_valider,0.0
+M1823,Consultant / Consultante avant-vente,3,0,0,1,0,a_valider,0.0
+C1213,Directeur / Directrice d'organisme de crédit,1,0,0,0,0,,0.0
+K1712,Pilote d'aéronef militaire,1,0,0,0,0,,0.0
+I1303,Technicien / Technicienne de maintenance de distributeurs automatiques,1,0,0,0,0,,0.0

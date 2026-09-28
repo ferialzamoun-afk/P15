@@ -26,12 +26,12 @@ def get_marts_dir() -> Path:
     """Trouve dynamiquement le dossier des marts contenant les fichiers parquet."""
     current_file = Path(__file__).resolve()
     candidates = [
-        current_file.parent.parent / "data" / "processed" / "marts",  # streamlit_app/data/processed/marts
         current_file.parent.parent.parent / "data" / "processed" / "marts",  # repo_root/data/processed/marts
-        Path.cwd() / "streamlit_app" / "data" / "processed" / "marts",
+        current_file.parent.parent / "data" / "processed" / "marts",  # streamlit_app/data/processed/marts
         Path.cwd() / "data" / "processed" / "marts",
-        Path("C:/Users/feria/Documents/P15/streamlit_app/data/processed/marts"),
+        Path.cwd() / "streamlit_app" / "data" / "processed" / "marts",
         Path("C:/Users/feria/Documents/P15/data/processed/marts"),
+        Path("C:/Users/feria/Documents/P15/streamlit_app/data/processed/marts"),
     ]
     for c in candidates:
         if c.exists() and any(c.glob("*.parquet")):
@@ -70,10 +70,10 @@ def load_parquet(file_name: str) -> pd.DataFrame:
     # 3. Parcours complet des candidats de secours
     current_file = Path(__file__).resolve()
     candidates = [
-        current_file.parent.parent / "data" / "processed" / "marts",
         current_file.parent.parent.parent / "data" / "processed" / "marts",
-        Path.cwd() / "streamlit_app" / "data" / "processed" / "marts",
+        current_file.parent.parent / "data" / "processed" / "marts",
         Path.cwd() / "data" / "processed" / "marts",
+        Path.cwd() / "streamlit_app" / "data" / "processed" / "marts",
     ]
     for d in candidates:
         pf = d / f"{stem}.parquet"

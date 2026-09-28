@@ -1,58 +1,205 @@
 ﻿rome_code,rome_libelle,observations,periodes,sortants_total,taux_moyen,derniere_mise_a_jour
-H1206,Ingénieur / Ingénieure R&D en industrie,12,12,530.0,0.0,2026-06-12 10:19:07+02
-M1803,Directeur / Directrice des systèmes d'information -DSI-,12,12,30.0,0.0,2026-06-12 10:19:07+02
-M1853,Chef / Cheffe de projet étude et développement informatique,12,12,140.0,0.0,2026-06-12 10:19:07+02
-M1201,Analyste financier / Analyste financière,12,12,90.0,0.0,2026-06-12 10:19:07+02
-M1430,Chargé / Chargée d'études commerciales,12,12,10.0,0.0,2026-06-12 10:19:07+02
-M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,12,12,90.0,0.0,2026-06-12 10:19:07+02
-M1867,Responsable des systèmes d'information (SI),12,12,70.0,0.0,2026-06-12 10:19:07+02
-M1884,"Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",7,7,0.0,0.0,2026-06-12 10:19:07+02
-H1520,Ingénieur / Ingénieure assurance qualité en industrie,6,6,0.0,0.0,2026-06-12 10:19:07+02
-I1620,Mécanicien-réparateur / Mécanicienne-réparatrice d'engins de levage et de manutention,6,6,0.0,0.0,2026-06-12 10:19:07+02
-K2108,Professeur / Professeure des universités,12,12,160.0,0.0,2026-06-12 10:19:07+02
-K2402,Ingénieur / Ingénieure de recherche scientifique,12,12,180.0,0.0,2026-06-12 10:19:07+02
-M1405,Data scientist,12,12,120.0,0.0,2026-06-12 10:19:07+02
-M1718,Chargé / Chargée de marketing digital,12,12,40.0,0.0,2026-06-12 10:19:07+02
-M1802,Expert / Experte systèmes et réseaux informatiques,12,12,30.0,0.0,2026-06-12 10:19:07+02
-M1863,Evaluateur / Evaluatrice sécurité des systèmes et produits informatiques,12,12,70.0,0.0,2026-06-12 10:19:07+02
-D1438,Assistant / Assistante e-commerce,3,3,0.0,0.0,2026-06-12 10:19:07+02
-H2605,Monteur-câbleur / Monteuse-câbleuse en électronique,12,12,110.0,0.0,2026-06-12 10:19:07+02
-I1404,Conseiller / Conseillère support technique informatique,12,12,270.0,0.0,2026-06-12 10:19:07+02
-K2205,Agent / Agente de propreté de locaux,12,12,3620.0,1.25,2026-06-12 10:19:07+02
-M1102,Responsable des achats,12,12,180.0,0.0,2026-06-12 10:19:07+02
-M1702,Planneur / Planneuse stratégique,9,9,0.0,0.0,2026-06-12 10:19:07+02
-M1827,Ingénieur / Ingénieure DevOps,11,11,90.0,0.0,2026-06-12 10:19:07+02
-H1208,Automaticien / Automaticienne en bureau d'études,11,11,10.0,0.0,2026-06-12 10:19:07+02
-I1401,Technicien / Technicienne de maintenance en informatique,12,12,720.0,0.0,2026-06-12 10:19:07+02
-I1616,Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,11,11,40.0,0.0,2026-06-12 10:19:07+02
-M1211,Expert-comptable / Experte-comptable,12,12,60.0,0.0,2026-06-12 10:19:07+02
-M1419,Data analyst,12,12,280.0,0.0,2026-06-12 10:19:07+02
-M1801,Administrateur / Administratrice de systèmes d'information (SI),12,12,150.0,0.0,2026-06-12 10:19:07+02
-M1805,Développeur / Développeuse informatique,12,12,490.0,0.0,2026-06-12 10:19:07+02
-M1818,Ingénieur / Ingénieure d'étude informatique,12,12,70.0,0.0,2026-06-12 10:19:07+02
-M1841,Ingénieur informaticien / Ingénieure informaticienne,12,12,40.0,0.0,2026-06-12 10:19:07+02
-M1880,Spécialiste e-santé,1,1,0.0,0.0,2026-06-12 10:19:07+02
-E1405,Référenceur / Référenceuse web,9,9,10.0,0.0,2026-06-12 10:19:07+02
-G1211,Analyste de la performance sportive,4,4,0.0,0.0,2026-06-12 10:19:07+02
-H1101,Ingénieur / Ingénieure support technique,8,8,0.0,0.0,2026-06-12 10:19:07+02
-H1406,Ingénieur / Ingénieure supply chain en industrie,7,7,0.0,0.0,2026-06-12 10:19:07+02
-L1505,Opérateur / Opératrice de prise de vues,12,12,70.0,0.0,2026-06-12 10:19:07+02
-M1810,Technicien / Technicienne d'exploitation informatique,12,12,410.0,0.0,2026-06-12 10:19:07+02
-M1811,Data engineer,10,10,40.0,0.0,2026-06-12 10:19:07+02
-M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),2,2,0.0,0.0,2026-06-12 10:19:07+02
-C1106,Expert / Experte risques en assurances,10,10,10.0,0.0,2026-06-12 10:19:07+02
-D1106,Vendeur / Vendeuse en épicerie,12,12,2350.0,1.0,2026-06-12 10:19:07+02
-F1112,Ingénieur / Ingénieure calcul et structure,7,7,10.0,0.0,2026-06-12 10:19:07+02
-G1302,Yield manager,12,12,0.0,0.0,2026-06-12 10:19:07+02
-K1501,Agent / Agente d'administration principal(e) des douanes,6,6,0.0,0.0,2026-06-12 10:19:07+02
-M1508,Conseiller / Conseillère en gestion de carrière,12,12,340.0,0.0,2026-06-12 10:19:07+02
-M1860,Architecte cloud,3,3,0.0,0.0,2026-06-12 10:19:07+02
-M1861,Développeur / Développeuse logiciel ou d'application,12,12,240.0,0.0,2026-06-12 10:19:07+02
-F1117,Ingénieur / Ingénieure d'étude CVC,10,10,10.0,0.0,2026-06-12 10:19:07+02
-H1215,"Bioinformaticien / Bioinformaticienne en études, recherche et développement",3,3,0.0,0.0,2026-06-12 10:19:07+02
-H2502,Responsable d'unité de production industrielle,12,12,300.0,0.0,2026-06-12 10:19:07+02
-J1102,Médecin généraliste,11,11,40.0,0.0,2026-06-12 10:19:07+02
-M1101,Acheteur / Acheteuse,12,12,280.0,0.0,2026-06-12 10:19:07+02
-M1851,Analyste décisionnel - Business Intelligence,5,5,0.0,0.0,2026-06-12 10:19:07+02
-M1855,Développeur / Développeuse web,12,12,1680.0,0.9166666666666666,2026-06-12 10:19:07+02
-M1868,Architecte base de données,1,1,0.0,0.0,2026-06-12 10:19:07+02
+A1303,Ingénieur / Ingénieure d'études et de recherche agricoles,13,13,670.0,0.0,2026-09-23 11:04:21+02
+C1213,Directeur / Directrice d'organisme de crédit,9,9,0.0,0.0,2026-09-23 11:04:21+02
+C1401,Agent administratif / Agente administrative banque ou assurance,13,13,350.0,0.0,2026-09-23 11:04:21+02
+D1102,Boulanger / Boulangère,13,13,2600.0,0.0,2026-09-23 11:04:21+02
+D1420,Cadre Technico-commercial / CadreTechnico-commerciale,13,13,1060.0,0.0,2026-09-23 11:04:21+02
+D1438,Assistant / Assistante e-commerce,7,7,0.0,0.0,2026-09-23 11:04:21+02
+E1403,Consultant / Consultante média,12,12,0.0,0.0,2026-09-23 11:04:21+02
+G1305,Assistant / Assistante chef de produit tourisme,13,13,20.0,0.0,2026-09-23 11:04:21+02
+H2605,Monteur-câbleur / Monteuse-câbleuse,13,13,540.0,0.0,2026-09-23 11:04:21+02
+I1303,Technicien / Technicienne de maintenance de distributeurs automatiques,13,13,80.0,0.0,2026-09-23 11:04:21+02
+I1404,Conseiller / Conseillère support technique informatique,13,13,1260.0,0.0,2026-09-23 11:04:21+02
+J1411,Orthoprothésiste,13,13,130.0,0.0,2026-09-23 11:04:21+02
+K1712,Pilote d'aéronef militaire,11,11,0.0,0.0,2026-09-23 11:04:21+02
+K1804,Conseiller / Conseillère en création d'entreprise,13,13,170.0,0.0,2026-09-23 11:04:21+02
+K2205,Agent / Agente de propreté de locaux,13,13,15990.0,1.0,2026-09-23 11:04:21+02
+M1102,Directeur / Directrice des achats,13,13,840.0,0.0,2026-09-23 11:04:21+02
+M1702,Planneur / Planneuse stratégique,13,13,80.0,0.0,2026-09-23 11:04:21+02
+M1812,Responsable de la Sécurité des Systèmes d'Information (RSSI),13,13,10.0,0.0,2026-09-23 11:04:21+02
+M1823,Consultant / Consultante avant-vente,4,4,10.0,0.0,2026-09-23 11:04:21+02
+M1827,Ingénieur / Ingénieure DevOps,13,13,240.0,0.0,2026-09-23 11:04:21+02
+M1828,Chef de projet / Cheffe de projet (Project Management Officer),13,13,200.0,0.0,2026-09-23 11:04:21+02
+M1834,Administrateur / Administratrice de site internet,13,13,600.0,0.0,2026-09-23 11:04:21+02
+M1842,Qualiticien / Qualiticienne logiciel en informatique,4,4,0.0,0.0,2026-09-23 11:04:21+02
+M1858,Chef / Cheffe de projet TMA - Tierce Maintenance Applicative,2,2,0.0,0.0,2026-09-23 11:04:21+02
+C1102,Conseiller commercial / Conseillère commerciale et relation client en assurances,13,13,1480.0,0.0,2026-09-23 11:04:21+02
+C1206,Conseiller / Conseillère de clientèle bancaire,13,13,1640.0,0.0,2026-09-23 11:04:21+02
+C1214,Chargé / Chargée d'études crédits bancaires,13,13,40.0,0.0,2026-09-23 11:04:21+02
+C1402,Agent / Agente technique des régimes de retraite complémentaire et de prévoyance,9,9,20.0,0.0,2026-09-23 11:04:21+02
+D1506,Chargé / Chargée de merchandising,13,13,380.0,0.0,2026-09-23 11:04:21+02
+E1410,Responsable programmatique,1,1,0.0,0.0,2026-09-23 11:04:21+02
+F1101,Architecte du bâtiment,13,13,1330.0,0.0,2026-09-23 11:04:21+02
+F1104,Dessinateur-projeteur / Dessinatrice-projeteuse de la construction,13,13,2220.0,0.0,2026-09-23 11:04:21+02
+F1125,BIM Manager,13,13,120.0,0.0,2026-09-23 11:04:21+02
+G1219,Recruteur sportif / Recruteuse sportive,4,4,0.0,0.0,2026-09-23 11:04:21+02
+H1102,Ingénieur / Ingénieure d'affaires en industrie,13,13,610.0,0.0,2026-09-23 11:04:21+02
+H1210,Technicien / Technicienne R&D,13,13,310.0,0.0,2026-09-23 11:04:21+02
+H1530,Technicien / Technicienne de la qualité de l'eau,13,13,90.0,0.0,2026-09-23 11:04:21+02
+I1306,Frigoriste,13,13,820.0,0.0,2026-09-23 11:04:21+02
+J1304,Auxiliaire de puériculture,13,13,3370.0,0.0,2026-09-23 11:04:21+02
+K2202,Laveur / Laveuse de vitres,13,13,160.0,0.0,2026-09-23 11:04:21+02
+L1508,Ingénieur / Ingénieure du son,13,13,1140.0,0.0,2026-09-23 11:04:21+02
+M1201,Analyste financier / Analyste financière,13,13,280.0,0.0,2026-09-23 11:04:21+02
+M1203,Comptable,13,13,4230.0,0.0,2026-09-23 11:04:21+02
+M1429,Consultant / Consultante en management,13,13,450.0,0.0,2026-09-23 11:04:21+02
+M1430,Chargé / Chargée d'études commerciales,13,13,150.0,0.0,2026-09-23 11:04:21+02
+M1704,Responsable service clients,13,13,1420.0,0.0,2026-09-23 11:04:21+02
+M1806,Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information,13,13,450.0,0.0,2026-09-23 11:04:21+02
+M1814,Scrum Master,13,13,130.0,0.0,2026-09-23 11:04:21+02
+M1831,Développeur / Développeuse - jeux vidéo,13,13,170.0,0.0,2026-09-23 11:04:21+02
+M1836,Ingénieur concepteur / Ingénieure conceptrice informatique,13,13,110.0,0.0,2026-09-23 11:04:21+02
+M1862,Responsable d'exploitation fibre optique,11,11,30.0,0.0,2026-09-23 11:04:21+02
+M1867,Responsable des systèmes d'information (SI),13,13,310.0,0.0,2026-09-23 11:04:21+02
+M1878,Responsable de la production informatique,10,10,0.0,0.0,2026-09-23 11:04:21+02
+M1884,"Ingénieur / Ingénieure systèmes, réseaux et sécurité informatique",13,13,0.0,0.0,2026-09-23 11:04:21+02
+C1105,Actuaire en assurances,13,13,0.0,0.0,2026-09-23 11:04:21+02
+C1203,Chargé / Chargée d'affaires bancaires,13,13,170.0,0.0,2026-09-23 11:04:21+02
+D1410,Attaché commercial / Attachée commerciale,13,13,2920.0,0.0,2026-09-23 11:04:21+02
+D1416,Commercial / Commerciale auprès d'une clientèle d'entreprises,13,13,2980.0,0.0,2026-09-23 11:04:21+02
+F1135,Chargé / Chargée d'affaires BTP,13,13,1430.0,0.0,2026-09-23 11:04:21+02
+H1206,Ingénieur / Ingénieure R&D en industrie,13,13,2290.0,0.0,2026-09-23 11:04:21+02
+H1402,Ingénieur / Ingénieure méthodes et process,13,13,280.0,0.0,2026-09-23 11:04:21+02
+H2903,Usineur / Usineuse,13,13,1830.0,0.0,2026-09-23 11:04:21+02
+K1304,Employé familial / Employée familiale,13,13,17880.0,1.5384615384615383,2026-09-23 11:04:21+02
+K2307,Agent / Agente de propreté urbaine,13,13,620.0,0.0,2026-09-23 11:04:21+02
+M1403,Chargé / Chargée d'études socio-économiques,13,13,140.0,0.0,2026-09-23 11:04:21+02
+M1620,Assistant / Assistante marketing,13,13,950.0,0.0,2026-09-23 11:04:21+02
+M1717,Responsable innovation,3,3,0.0,0.0,2026-09-23 11:04:21+02
+M1803,Directeur / Directrice des systèmes d'information (DSI),13,13,210.0,0.0,2026-09-23 11:04:21+02
+M1839,Architecte systèmes et réseaux,13,13,130.0,0.0,2026-09-23 11:04:21+02
+M1853,Chef / Cheffe de projet étude et développement informatique,13,13,680.0,0.0,2026-09-23 11:04:21+02
+M1887,Product builder no code,2,2,0.0,0.0,2026-09-23 11:04:21+02
+C1110,Souscripteur / Souscriptrice en assurances,13,13,80.0,0.0,2026-09-23 11:04:21+02
+C1304,Gestionnaire d'organisme de placement collectif en valeurs mobilières -OPCVM-,9,9,0.0,0.0,2026-09-23 11:04:21+02
+E1115,Chef / Cheffe de projet jeux vidéo,10,10,50.0,0.0,2026-09-23 11:04:21+02
+E1206,UX - UI Designer,13,13,700.0,0.0,2026-09-23 11:04:21+02
+E1405,Référenceur / Référenceuse web,13,13,90.0,0.0,2026-09-23 11:04:21+02
+F1105,Géologue,13,13,130.0,0.0,2026-09-23 11:04:21+02
+G1211,Analyste de la performance sportive,11,11,20.0,0.0,2026-09-23 11:04:21+02
+H1101,Ingénieur / Ingénieure support technique,11,11,80.0,0.0,2026-09-23 11:04:21+02
+H1406,Ingénieur / Ingénieure supply chain en industrie,13,13,70.0,0.0,2026-09-23 11:04:21+02
+I1310,Mécanicien / Mécanicienne de maintenance industrielle,13,13,380.0,0.0,2026-09-23 11:04:21+02
+K1703,Responsable de l'emploi des forces armées,1,1,0.0,0.0,2026-09-23 11:04:21+02
+K2111,Formateur / Formatrice,13,13,10080.0,1.0,2026-09-23 11:04:21+02
+K2112,Conseiller / Conseillère d'orientation,13,13,130.0,0.0,2026-09-23 11:04:21+02
+K2413,Chercheur / Chercheuse des écosystèmes,13,13,30.0,0.0,2026-09-23 11:04:21+02
+L1505,Opérateur / Opératrice de prise de vues,13,13,360.0,0.0,2026-09-23 11:04:21+02
+M1202,Auditeur comptable et financier / Auditrice comptable et financière,13,13,290.0,0.0,2026-09-23 11:04:21+02
+M1204,Contrôleur / Contrôleuse de gestion,13,13,830.0,0.0,2026-09-23 11:04:21+02
+M1207,Trésorier / Trésorière,12,12,60.0,0.0,2026-09-23 11:04:21+02
+M1228,Gestionnaire de risques financiers,13,13,40.0,0.0,2026-09-23 11:04:21+02
+M1501,Assistant / Assistante Ressources Humaines (RH),13,13,5440.0,0.1538461538461538,2026-09-23 11:04:21+02
+M1810,Technicien / Technicienne d'exploitation informatique,13,13,1970.0,0.0,2026-09-23 11:04:21+02
+M1811,Data engineer,13,13,190.0,0.0,2026-09-23 11:04:21+02
+M1856,Expert / Experte en cybersécurité,13,13,190.0,0.0,2026-09-23 11:04:21+02
+M1864,Product Owner,13,13,290.0,0.0,2026-09-23 11:04:21+02
+M1881,Chef / Cheffe de projet Maîtrise d'Ouvrage des Systèmes d'Information (MOA),13,13,140.0,0.0,2026-09-23 11:04:21+02
+M1889,Ingénieur / Ingénieure en Intelligence Artificielle (IA),3,3,20.0,0.0,2026-09-23 11:04:21+02
+N2201,Agent / Agente d'Escale Commerciale aéroportuaire (AEC),13,13,1030.0,0.0,2026-09-23 11:04:21+02
+C1208,Courtier / Courtière en banque,13,13,380.0,0.0,2026-09-23 11:04:21+02
+C1403,Cadre technique de la banque,13,13,10.0,0.0,2026-09-23 11:04:21+02
+D1403,Conseiller commercial / Conseillère commerciale auprès des particuliers,13,13,3930.0,0.0,2026-09-23 11:04:21+02
+D1505,Hôte / Hôtesse de caisse,13,13,11760.0,1.0,2026-09-23 11:04:21+02
+E1105,Editeur / Editrice,13,13,230.0,0.0,2026-09-23 11:04:21+02
+H1301,Inspecteur / Inspectrice de conformité,13,13,140.0,0.0,2026-09-23 11:04:21+02
+H1520,Ingénieur qualité / Ingénieure qualité,13,13,10.0,0.0,2026-09-23 11:04:21+02
+I1105,Responsable de maintenance et d'exploitation,13,13,20.0,0.0,2026-09-23 11:04:21+02
+I1304,Technicien / Technicienne de maintenance industrielle,13,13,2840.0,0.0,2026-09-23 11:04:21+02
+I1307,Antenniste,13,13,140.0,0.0,2026-09-23 11:04:21+02
+I1311,Technicien / Technicienne installation réseaux câblés fibre optique,13,13,1490.0,0.0,2026-09-23 11:04:21+02
+I1620,Mécanicien-réparateur / Mécanicienne-réparatrice d'engins de levage et de manutention,13,13,40.0,0.0,2026-09-23 11:04:21+02
+K1914,Responsable de service juridique,13,13,150.0,0.0,2026-09-23 11:04:21+02
+K2108,Professeur / Professeure des universités,13,13,740.0,0.0,2026-09-23 11:04:21+02
+K2127,Professeur / Professeure d'enseignement général pour déficients sensoriels,12,12,0.0,0.0,2026-09-23 11:04:21+02
+K2402,Ingénieur / Ingénieure de recherche scientifique,13,13,710.0,0.0,2026-09-23 11:04:21+02
+M1405,Data scientist,13,13,600.0,0.0,2026-09-23 11:04:21+02
+M1605,Secrétaire technique,13,13,440.0,0.0,2026-09-23 11:04:21+02
+M1707,Responsable du développement commercial,13,13,4000.0,0.0,2026-09-23 11:04:21+02
+M1718,Chargé / Chargée de marketing digital,13,13,250.0,0.0,2026-09-23 11:04:21+02
+M1802,Expert / Experte systèmes et réseaux informatiques,13,13,410.0,0.0,2026-09-23 11:04:21+02
+M1804,Ingénieur / Ingénieure télécoms et environnement,13,13,120.0,0.0,2026-09-23 11:04:21+02
+M1822,Spécialiste Jumeau Numérique,13,13,10.0,0.0,2026-09-23 11:04:21+02
+M1826,Ingénieur / Ingénieure supervision IT Datacenter,9,9,0.0,0.0,2026-09-23 11:04:21+02
+M1859,Chef / Cheffe de projet maîtrise d'uvre informatique,9,9,0.0,0.0,2026-09-23 11:04:21+02
+M1863,Evaluateur / Evaluatrice sécurité des systèmes et produits informatiques,13,13,390.0,0.0,2026-09-23 11:04:21+02
+C1101,Chargé / Chargée de produit en assurances,4,4,0.0,0.0,2026-09-23 11:04:21+02
+C1106,Expert / Experte risques en assurances,12,12,20.0,0.0,2026-09-23 11:04:21+02
+C1127,Expert / Experte à distance sinistres et dommages en assurances,13,13,110.0,0.0,2026-09-23 11:04:21+02
+C1217,Conseiller commercial / Conseillère commerciale de banque,13,13,320.0,0.0,2026-09-23 11:04:21+02
+D1106,Vendeur / Vendeuse en épicerie,13,13,10440.0,1.0,2026-09-23 11:04:21+02
+D1402,Commercial / Commerciale grands comptes et entreprises,13,13,1910.0,0.0,2026-09-23 11:04:21+02
+F1112,Ingénieur / Ingénieure calcul et structure,13,13,90.0,0.0,2026-09-23 11:04:21+02
+G1302,Yield manager,13,13,20.0,0.0,2026-09-23 11:04:21+02
+H1219,Responsable opérationnel / Responsable opérationnelle des études cliniques en industrie pharmaceutique,11,11,0.0,0.0,2026-09-23 11:04:21+02
+H1410,Ingénieur / Ingénieure de gestion de la production,13,13,140.0,0.0,2026-09-23 11:04:21+02
+H2515,Chef / Cheffe d'atelier en industrie de transformation,13,13,230.0,0.0,2026-09-23 11:04:21+02
+H2906,Opérateur / Opératrice en fabrication mécanique,13,13,590.0,0.0,2026-09-23 11:04:21+02
+I1123,Chef / Cheffe de service sécurité trafic routier,1,1,0.0,0.0,2026-09-23 11:04:21+02
+I1605,Mécanicien / Mécanicienne en mécanique marine ou navale,13,13,400.0,0.0,2026-09-23 11:04:21+02
+K1501,Agent / Agente d'administration principal(e) des douanes,13,13,40.0,0.0,2026-09-23 11:04:21+02
+K1903,Juriste,13,13,2510.0,0.0,2026-09-23 11:04:21+02
+L1401,Sportif professionnel / Sportive professionnelle,13,13,440.0,0.0,2026-09-23 11:04:21+02
+M1208,Directeur / Directrice du contrôle de gestion,13,13,60.0,0.0,2026-09-23 11:04:21+02
+M1209,Conseiller / Conseillère en gestion,13,13,130.0,0.0,2026-09-23 11:04:21+02
+M1508,Conseiller / Conseillère en gestion de carrière,13,13,1590.0,0.0,2026-09-23 11:04:21+02
+M1821,Analyste d'application informatique,8,8,0.0,0.0,2026-09-23 11:04:21+02
+M1824,Développeur / Développeuse décisionnel - Business Intelligence,12,12,0.0,0.0,2026-09-23 11:04:21+02
+M1860,Architecte cloud,10,10,0.0,0.0,2026-09-23 11:04:21+02
+M1861,Développeur / Développeuse logiciel ou d'application,13,13,1180.0,0.0,2026-09-23 11:04:21+02
+N1210,Logisticien / Logisticienne,13,13,680.0,0.0,2026-09-23 11:04:21+02
+C1120,Conseiller / Conseillère en études actuarielles,10,10,0.0,0.0,2026-09-23 11:04:21+02
+C1130,Gestionnaire en protection sociale,13,13,380.0,0.0,2026-09-23 11:04:21+02
+C1202,Analyste de crédits et risques bancaires,13,13,130.0,0.0,2026-09-23 11:04:21+02
+H1208,Automaticien / Automaticienne en bureau d'études,13,13,120.0,0.0,2026-09-23 11:04:21+02
+H1224,Technicien / Technicienne de laboratoire de recherche-développement,13,13,430.0,0.0,2026-09-23 11:04:21+02
+I1101,Directeur / Directrice de la gestion technique des bâtiments,13,13,280.0,0.0,2026-09-23 11:04:21+02
+I1122,Directeur / Directrice de travaux d'infrastructure,13,13,0.0,0.0,2026-09-23 11:04:21+02
+I1401,Technicien / Technicienne de maintenance en informatique,13,13,3540.0,0.0,2026-09-23 11:04:21+02
+I1616,Mécanicien / Mécanicienne d'engins de chantier et de travaux publics,13,13,210.0,0.0,2026-09-23 11:04:21+02
+M1211,Expert-comptable / Experte-comptable,13,13,290.0,0.0,2026-09-23 11:04:21+02
+M1401,Enquêteur / Enquêtrice sondage,13,13,330.0,0.0,2026-09-23 11:04:21+02
+M1414,Ingénieur statisticien / Ingénieure statisticienne,12,12,40.0,0.0,2026-09-23 11:04:21+02
+M1419,Data analyst,13,13,1470.0,0.0,2026-09-23 11:04:21+02
+M1716,Directeur / Directrice marketing digital,13,13,990.0,0.0,2026-09-23 11:04:21+02
+M1801,Administrateur / Administratrice de systèmes d'information (SI),13,13,1150.0,0.0,2026-09-23 11:04:21+02
+M1805,Développeur / Développeuse informatique,13,13,2060.0,0.0,2026-09-23 11:04:21+02
+M1807,"Spécialiste outils, systèmes d'exploitation, réseaux et télécoms",13,13,110.0,0.0,2026-09-23 11:04:21+02
+M1813,Intégrateur / Intégratrice logiciels métiers,13,13,70.0,0.0,2026-09-23 11:04:21+02
+M1815,Spécialiste test et validation logiciel ou application,3,3,0.0,0.0,2026-09-23 11:04:21+02
+M1818,Ingénieur / Ingénieure d'étude informatique,13,13,260.0,0.0,2026-09-23 11:04:21+02
+M1841,Ingénieur informaticien / Ingénieure informaticienne,13,13,240.0,0.0,2026-09-23 11:04:21+02
+M1843,Administrateur / Administratrice de serveurs,13,13,0.0,0.0,2026-09-23 11:04:21+02
+M1880,Spécialiste e-santé,3,3,0.0,0.0,2026-09-23 11:04:21+02
+M1882,Architecte sécurité informatique,1,1,0.0,0.0,2026-09-23 11:04:21+02
+M1886,Chef / Cheffe de projet Web,13,13,750.0,0.0,2026-09-23 11:04:21+02
+M1894,Gestionnaire de base de données,13,13,60.0,0.0,2026-09-23 11:04:21+02
+C1204,Gestionnaire de produits bancaires,8,8,0.0,0.0,2026-09-23 11:04:21+02
+D1406,Directeur / Directrice des ventes,13,13,2110.0,0.0,2026-09-23 11:04:21+02
+D1444,Responsable grands comptes,9,9,60.0,0.0,2026-09-23 11:04:21+02
+E1306,Opérateur / Opératrice de prépresse,13,13,970.0,0.0,2026-09-23 11:04:21+02
+F1117,Ingénieur / Ingénieure d'étude CVC,13,13,90.0,0.0,2026-09-23 11:04:21+02
+F1130,Contrôleur / Contrôleuse technique de la construction (CTC),13,13,130.0,0.0,2026-09-23 11:04:21+02
+F1137,Chargé / Chargée de méthodes BTP,8,8,10.0,0.0,2026-09-23 11:04:21+02
+H1215,"Bioinformaticien / Bioinformaticienne en études, recherche et développement",11,11,0.0,0.0,2026-09-23 11:04:21+02
+H1218,Responsable de projet recherche et développement,13,13,130.0,0.0,2026-09-23 11:04:21+02
+H1401,Responsable ordonnancement-lancement-planification en industrie,13,13,120.0,0.0,2026-09-23 11:04:21+02
+H2502,Ingénieur / Ingénieure de production,13,13,1010.0,0.0,2026-09-23 11:04:21+02
+H3302,Agent / Agente de conditionnement,13,13,8180.0,1.0,2026-09-23 11:04:21+02
+I1302,Technicien / Technicienne de maintenance d'installations automatisées,13,13,470.0,0.0,2026-09-23 11:04:21+02
+J1102,Médecin généraliste,13,13,150.0,0.0,2026-09-23 11:04:21+02
+K1601,Documentaliste,13,13,730.0,0.0,2026-09-23 11:04:21+02
+K1808,Chargé / Chargée de développement culturel,13,13,550.0,0.0,2026-09-23 11:04:21+02
+M1101,Acheteur / Acheteuse,13,13,1210.0,0.0,2026-09-23 11:04:21+02
+M1502,Chargé / Chargée de recrutement,13,13,1780.0,0.0,2026-09-23 11:04:21+02
+M1503,Directeur / Directrice des Ressources Humaines (DRH),13,13,2320.0,0.0,2026-09-23 11:04:21+02
+M1607,Assistant administratif / Assistante administrative,13,13,53090.0,4.538461538461538,2026-09-23 11:04:21+02
+M1618,Agent / Agente de liaison courrier,13,13,410.0,0.0,2026-09-23 11:04:21+02
+M1703,Chef / Cheffe de produit,13,13,1190.0,0.0,2026-09-23 11:04:21+02
+M1844,Responsable des études et applications informatiques,13,13,110.0,0.0,2026-09-23 11:04:21+02
+M1851,Analyste décisionnel - Business Intelligence,13,13,0.0,0.0,2026-09-23 11:04:21+02
+M1852,Analyste d'étude informatique,13,13,140.0,0.0,2026-09-23 11:04:21+02
+M1855,Développeur / Développeuse web,13,13,9080.0,1.0,2026-09-23 11:04:21+02
+M1868,Architecte base de données,4,4,0.0,0.0,2026-09-23 11:04:21+02
+M1872,Consultant décisionnel / Consultante décisionnelle - Business Intelligence,13,13,40.0,0.0,2026-09-23 11:04:21+02
+M1895,Géomaticien / Géomaticienne,13,13,140.0,0.0,2026-09-23 11:04:21+02

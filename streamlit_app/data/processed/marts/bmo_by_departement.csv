@@ -1,54 +1,116 @@
 ﻿annee,code_departement,departement,region,projets_recrutement
-2024,60,Oise,Hauts-de-France,21067
-2024,88,Vosges,Grand Est,10814
-2024,67,Bas-Rhin,Grand Est,43599
-2024,16,Charente,Nouvelle-Aquitaine,14960
-2024,31,Haute-Garonne,Occitanie,58066
-2024,66,Pyrénées-Orientales,Occitanie,24052
-2024,74,Haute-Savoie,Auvergne-Rhône-Alpes,37272
-2024,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,52429
-2024,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,88407
-2024,83,Var,Provence-Alpes-Côte d'Azur,51045
-2025,94,Val-de-Marne,Ile-de-France,40433
-2025,28,Eure-et-Loir,Centre-Val de Loire,12159
-2025,37,Indre-et-Loire,Centre-Val de Loire,24598
-2025,41,Loir-et-Cher,Centre-Val de Loire,11648
-2025,70,Haute-Saône,Bourgogne-Franche-Comté,4907
-2025,90,Territoire de Belfort,Bourgogne-Franche-Comté,3413
-2025,22,Côtes-d'Armor,Bretagne,20947
-2025,24,Dordogne,Nouvelle-Aquitaine,17985
-2025,23,Creuse,Nouvelle-Aquitaine,3046
-2025,09,Ariège,Occitanie,5364
-2025,15,Cantal,Auvergne-Rhône-Alpes,3899
-2025,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,8016
-2025,971,Guadeloupe,Guadeloupe,14002
-2025,77,Seine-et-Marne,Ile-de-France,36177
-2026,77,Seine-et-Marne,Ile-de-France,33004
-2026,95,Val-d'Oise,Ile-de-France,29103
-2026,78,Yvelines,Ile-de-France,32015
-2026,94,Val-de-Marne,Ile-de-France,31528
-2026,41,Loir-et-Cher,Centre-Val de Loire,11230
-2026,25,Doubs,Bourgogne-Franche-Comté,15035
-2026,39,Jura,Bourgogne-Franche-Comté,7779
-2026,08,Ardennes,Grand Est,5157
-2026,52,Haute-Marne,Grand Est,3745
-2026,17,Charente-Maritime,Nouvelle-Aquitaine,33338
-2026,46,Lot,Occitanie,6206
-2026,73,Savoie,Auvergne-Rhône-Alpes,24325
-2026,43,Haute-Loire,Auvergne-Rhône-Alpes,5780
-2026,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,19857
-2023,972,Martinique,Martinique,16107
-2023,976,Mayotte,Mayotte,7123
-2023,77,Seine-et-Marne,Ile-de-France,43119
-2023,93,Seine-Saint-Denis,Ile-de-France,55817
-2023,41,Loir-et-Cher,Centre-Val de Loire,13604
-2023,76,Seine-Maritime,Normandie,49214
-2023,67,Bas-Rhin,Grand Est,46554
-2023,17,Charente-Maritime,Nouvelle-Aquitaine,42086
-2023,40,Landes,Nouvelle-Aquitaine,26199
-2023,43,Haute-Loire,Auvergne-Rhône-Alpes,8435
-2023,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,11665
-2023,2B,Haute-Corse,Corse,14862
+2024,02,Aisne,Hauts-de-France,16072
+2024,68,Haut-Rhin,Grand Est,24757
+2024,17,Charente-Maritime,Nouvelle-Aquitaine,40610
+2024,79,Deux-Sèvres,Nouvelle-Aquitaine,16546
+2024,64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,33354
+2024,81,Tarn,Occitanie,12006
+2024,82,Tarn-et-Garonne,Occitanie,13730
+2024,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,10770
+2024,91,Essonne,Ile-de-France,38431
+2024,978,Saint-Martin,Collectivités d'outre-mer,1022
+2025,02,Aisne,Hauts-de-France,12550
+2025,52,Haute-Marne,Grand Est,3787
+2025,55,Meuse,Grand Est,4210
+2025,68,Haut-Rhin,Grand Est,20369
+2025,35,Ille-et-Vilaine,Bretagne,41890
+2025,87,Haute-Vienne,Nouvelle-Aquitaine,11094
+2025,46,Lot,Occitanie,7008
+2025,31,Haute-Garonne,Occitanie,50531
+2025,30,Gard,Occitanie,25889
+2025,34,Hérault,Occitanie,42187
+2025,38,Isère,Auvergne-Rhône-Alpes,36002
+2025,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,20502
+2025,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,51698
+2025,84,Vaucluse,Provence-Alpes-Côte d'Azur,29016
+2025,974,La Réunion,La Réunion,34671
+2025,93,Seine-Saint-Denis,Ile-de-France,53188
+2026,976,Mayotte,Mayotte,7908
+2026,71,Saône-et-Loire,Bourgogne-Franche-Comté,17194
+2026,70,Haute-Saône,Bourgogne-Franche-Comté,5006
+2026,50,Manche,Normandie,17645
+2026,29,Finistère,Bretagne,35752
+2026,22,Côtes-d'Armor,Bretagne,21694
+2026,24,Dordogne,Nouvelle-Aquitaine,16485
+2026,47,Lot-et-Garonne,Nouvelle-Aquitaine,14687
+2026,87,Haute-Vienne,Nouvelle-Aquitaine,10332
+2026,12,Aveyron,Occitanie,7986
+2026,32,Gers,Occitanie,6645
+2026,34,Hérault,Occitanie,37352
+2026,07,Ardèche,Auvergne-Rhône-Alpes,10104
+2026,26,Drôme,Auvergne-Rhône-Alpes,18443
+2026,15,Cantal,Auvergne-Rhône-Alpes,4541
+2023,973,Guyane,Guyane,9206
+2023,95,Val-d'Oise,Ile-de-France,38100
+2023,58,Nièvre,Bourgogne-Franche-Comté,5901
+2023,21,Côte-d'Or,Bourgogne-Franche-Comté,24258
+2023,61,Orne,Normandie,10696
+2023,55,Meuse,Grand Est,5122
+2023,68,Haut-Rhin,Grand Est,25985
+2023,16,Charente,Nouvelle-Aquitaine,17614
+2023,19,Corrèze,Nouvelle-Aquitaine,12306
+2023,81,Tarn,Occitanie,12922
+2023,12,Aveyron,Occitanie,11386
+2023,32,Gers,Occitanie,10136
+2023,82,Tarn-et-Garonne,Occitanie,15162
+2023,69,Rhône,Auvergne-Rhône-Alpes,100465
+2023,15,Cantal,Auvergne-Rhône-Alpes,5966
+2024,62,Pas-de-Calais,Hauts-de-France,37876
+2024,52,Haute-Marne,Grand Est,4611
+2024,87,Haute-Vienne,Nouvelle-Aquitaine,13469
+2024,07,Ardèche,Auvergne-Rhône-Alpes,13596
+2024,69,Rhône,Auvergne-Rhône-Alpes,85227
+2024,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,22512
+2024,84,Vaucluse,Provence-Alpes-Côte d'Azur,33804
+2024,974,La Réunion,La Réunion,37593
+2024,77,Seine-et-Marne,Ile-de-France,38078
+2024,94,Val-de-Marne,Ile-de-France,41673
+2024,28,Eure-et-Loir,Centre-Val de Loire,14009
+2024,37,Indre-et-Loire,Centre-Val de Loire,27116
+2024,41,Loir-et-Cher,Centre-Val de Loire,14288
+2024,45,Loiret,Centre-Val de Loire,26790
+2024,71,Saône-et-Loire,Bourgogne-Franche-Comté,19835
+2024,89,Yonne,Bourgogne-Franche-Comté,11429
+2024,21,Côte-d'Or,Bourgogne-Franche-Comté,23567
+2024,14,Calvados,Normandie,33362
+2024,19,Corrèze,Nouvelle-Aquitaine,12163
+2024,18,Cher,Centre-Val de Loire,9909
+2025,45,Loiret,Centre-Val de Loire,23024
+2025,80,Somme,Hauts-de-France,15896
+2025,67,Bas-Rhin,Grand Est,36995
+2025,44,Loire-Atlantique,Pays de la Loire,62287
+2025,29,Finistère,Bretagne,34484
+2025,40,Landes,Nouvelle-Aquitaine,25323
+2025,64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,31100
+2025,26,Drôme,Auvergne-Rhône-Alpes,21280
+2025,03,Allier,Auvergne-Rhône-Alpes,8498
+2025,91,Essonne,Ile-de-France,33288
+2025,78,Yvelines,Ile-de-France,37754
+2026,36,Indre,Centre-Val de Loire,5835
+2026,37,Indre-et-Loire,Centre-Val de Loire,23153
+2026,21,Côte-d'Or,Bourgogne-Franche-Comté,19601
+2026,76,Seine-Maritime,Normandie,34218
+2026,80,Somme,Hauts-de-France,15986
+2026,10,Aube,Grand Est,13401
+2026,57,Moselle,Grand Est,23118
+2026,49,Maine-et-Loire,Pays de la Loire,34218
+2026,82,Tarn-et-Garonne,Occitanie,10494
+2026,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,8426
+2026,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,73383
+2026,92,Hauts-de-Seine,Ile-de-France,66129
+2023,78,Yvelines,Ile-de-France,43848
+2023,60,Oise,Hauts-de-France,25953
+2023,59,Nord,Hauts-de-France,94757
+2023,57,Moselle,Grand Est,30199
+2023,88,Vosges,Grand Est,11426
+2023,85,Vendée,Pays de la Loire,44134
+2023,35,Ille-et-Vilaine,Bretagne,54212
+2023,24,Dordogne,Nouvelle-Aquitaine,20333
+2023,66,Pyrénées-Orientales,Occitanie,25544
+2023,01,Ain,Auvergne-Rhône-Alpes,19154
+2023,26,Drôme,Auvergne-Rhône-Alpes,29590
+2023,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,27199
+2023,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,101582
 2024,51,Marne,Grand Est,31897
 2024,55,Meuse,Grand Est,5548
 2024,57,Moselle,Grand Est,27811
@@ -106,106 +168,54 @@
 2023,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,57572
 2023,2A,Corse-du-Sud,Corse,14107
 2023,94,Val-de-Marne,Ile-de-France,43864
-2024,08,Ardennes,Grand Est,6511
-2024,54,Meurthe-et-Moselle,Grand Est,20629
-2024,44,Loire-Atlantique,Pays de la Loire,70633
-2024,29,Finistère,Bretagne,38672
-2024,35,Ille-et-Vilaine,Bretagne,52119
-2024,30,Gard,Occitanie,29975
-2024,2B,Haute-Corse,Corse,13712
-2024,58,Nièvre,Bourgogne-Franche-Comté,5517
-2024,39,Jura,Bourgogne-Franche-Comté,8927
-2024,10,Aube,Grand Est,13639
-2024,15,Cantal,Auvergne-Rhône-Alpes,5589
-2024,2A,Corse-du-Sud,Corse,13165
-2025,36,Indre,Centre-Val de Loire,5969
-2025,58,Nièvre,Bourgogne-Franche-Comté,5442
-2025,89,Yonne,Bourgogne-Franche-Comté,10319
-2025,39,Jura,Bourgogne-Franche-Comté,8186
-2025,14,Calvados,Normandie,31658
-2025,61,Orne,Normandie,7854
-2025,54,Meurthe-et-Moselle,Grand Est,18511
-2025,49,Maine-et-Loire,Pays de la Loire,38686
-2025,11,Aude,Occitanie,14228
-2025,01,Ain,Auvergne-Rhône-Alpes,14463
-2025,43,Haute-Loire,Auvergne-Rhône-Alpes,6561
-2025,976,Mayotte,Mayotte,5732
-2025,972,Martinique,Martinique,13013
-2026,75,Paris,Ile-de-France,118850
-2026,28,Eure-et-Loir,Centre-Val de Loire,10506
-2026,89,Yonne,Bourgogne-Franche-Comté,10426
-2026,27,Eure,Normandie,12700
-2026,02,Aisne,Hauts-de-France,13088
-2026,59,Nord,Hauts-de-France,67444
-2026,54,Meurthe-et-Moselle,Grand Est,16761
-2026,53,Mayenne,Pays de la Loire,9669
-2026,23,Creuse,Nouvelle-Aquitaine,2683
-2026,84,Vaucluse,Provence-Alpes-Côte d'Azur,28527
-2026,973,Guyane,Guyane,6290
-2023,75,Paris,Ile-de-France,175522
-2023,37,Indre-et-Loire,Centre-Val de Loire,26797
-2023,89,Yonne,Bourgogne-Franche-Comté,12689
-2023,90,Territoire de Belfort,Bourgogne-Franche-Comté,4281
-2023,80,Somme,Hauts-de-France,20744
-2023,10,Aube,Grand Est,14652
-2023,33,Gironde,Nouvelle-Aquitaine,101436
-2023,46,Lot,Occitanie,8593
-2024,02,Aisne,Hauts-de-France,16072
-2024,68,Haut-Rhin,Grand Est,24757
-2024,17,Charente-Maritime,Nouvelle-Aquitaine,40610
-2024,79,Deux-Sèvres,Nouvelle-Aquitaine,16546
-2024,64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,33354
-2024,81,Tarn,Occitanie,12006
-2024,82,Tarn-et-Garonne,Occitanie,13730
-2024,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,10770
-2024,91,Essonne,Ile-de-France,38431
-2024,978,Saint-Martin,Collectivités d'outre-mer,1022
-2025,02,Aisne,Hauts-de-France,12550
-2025,52,Haute-Marne,Grand Est,3787
-2025,55,Meuse,Grand Est,4210
-2025,68,Haut-Rhin,Grand Est,20369
-2025,35,Ille-et-Vilaine,Bretagne,41890
-2025,87,Haute-Vienne,Nouvelle-Aquitaine,11094
-2025,46,Lot,Occitanie,7008
-2025,31,Haute-Garonne,Occitanie,50531
-2025,30,Gard,Occitanie,25889
-2025,34,Hérault,Occitanie,42187
-2025,38,Isère,Auvergne-Rhône-Alpes,36002
-2025,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,20502
-2025,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,51698
-2025,84,Vaucluse,Provence-Alpes-Côte d'Azur,29016
-2025,974,La Réunion,La Réunion,34671
-2025,93,Seine-Saint-Denis,Ile-de-France,53188
-2026,976,Mayotte,Mayotte,7908
-2026,71,Saône-et-Loire,Bourgogne-Franche-Comté,17194
-2026,70,Haute-Saône,Bourgogne-Franche-Comté,5006
-2026,50,Manche,Normandie,17645
-2026,29,Finistère,Bretagne,35752
-2026,22,Côtes-d'Armor,Bretagne,21694
-2026,24,Dordogne,Nouvelle-Aquitaine,16485
-2026,47,Lot-et-Garonne,Nouvelle-Aquitaine,14687
-2026,87,Haute-Vienne,Nouvelle-Aquitaine,10332
-2026,12,Aveyron,Occitanie,7986
-2026,32,Gers,Occitanie,6645
-2026,34,Hérault,Occitanie,37352
-2026,07,Ardèche,Auvergne-Rhône-Alpes,10104
-2026,26,Drôme,Auvergne-Rhône-Alpes,18443
-2026,15,Cantal,Auvergne-Rhône-Alpes,4541
-2023,973,Guyane,Guyane,9206
-2023,95,Val-d'Oise,Ile-de-France,38100
-2023,58,Nièvre,Bourgogne-Franche-Comté,5901
-2023,21,Côte-d'Or,Bourgogne-Franche-Comté,24258
-2023,61,Orne,Normandie,10696
-2023,55,Meuse,Grand Est,5122
-2023,68,Haut-Rhin,Grand Est,25985
-2023,16,Charente,Nouvelle-Aquitaine,17614
-2023,19,Corrèze,Nouvelle-Aquitaine,12306
-2023,81,Tarn,Occitanie,12922
-2023,12,Aveyron,Occitanie,11386
-2023,32,Gers,Occitanie,10136
-2023,82,Tarn-et-Garonne,Occitanie,15162
-2023,69,Rhône,Auvergne-Rhône-Alpes,100465
-2023,15,Cantal,Auvergne-Rhône-Alpes,5966
+2024,22,Côtes-d'Armor,Bretagne,26257
+2024,24,Dordogne,Nouvelle-Aquitaine,19614
+2024,38,Isère,Auvergne-Rhône-Alpes,43928
+2024,75,Paris,Ile-de-France,152202
+2024,93,Seine-Saint-Denis,Ile-de-France,66553
+2024,25,Doubs,Bourgogne-Franche-Comté,18061
+2024,23,Creuse,Nouvelle-Aquitaine,3472
+2024,48,Lozère,Occitanie,3606
+2024,90,Territoire de Belfort,Bourgogne-Franche-Comté,3990
+2025,92,Hauts-de-Seine,Ile-de-France,75475
+2025,21,Côte-d'Or,Bourgogne-Franche-Comté,21072
+2025,62,Pas-de-Calais,Hauts-de-France,34857
+2025,10,Aube,Grand Est,12432
+2025,72,Sarthe,Pays de la Loire,18437
+2025,19,Corrèze,Nouvelle-Aquitaine,9068
+2025,81,Tarn,Occitanie,10257
+2025,12,Aveyron,Occitanie,8457
+2025,32,Gers,Occitanie,7323
+2025,74,Haute-Savoie,Auvergne-Rhône-Alpes,31244
+2025,69,Rhône,Auvergne-Rhône-Alpes,72446
+2025,83,Var,Provence-Alpes-Côte d'Azur,44891
+2025,2A,Corse-du-Sud,Corse,11729
+2025,75,Paris,Ile-de-France,131328
+2026,45,Loiret,Centre-Val de Loire,20018
+2026,90,Territoire de Belfort,Bourgogne-Franche-Comté,2839
+2026,61,Orne,Normandie,7002
+2026,55,Meuse,Grand Est,4697
+2026,88,Vosges,Grand Est,8380
+2026,67,Bas-Rhin,Grand Est,35977
+2026,33,Gironde,Nouvelle-Aquitaine,67045
+2026,79,Deux-Sèvres,Nouvelle-Aquitaine,12486
+2026,81,Tarn,Occitanie,10628
+2026,09,Ariège,Occitanie,5493
+2026,69,Rhône,Auvergne-Rhône-Alpes,62841
+2026,03,Allier,Auvergne-Rhône-Alpes,7369
+2023,71,Saône-et-Loire,Bourgogne-Franche-Comté,21550
+2023,70,Haute-Saône,Bourgogne-Franche-Comté,7067
+2023,25,Doubs,Bourgogne-Franche-Comté,20932
+2023,39,Jura,Bourgogne-Franche-Comté,8965
+2023,54,Meurthe-et-Moselle,Grand Est,21859
+2023,49,Maine-et-Loire,Pays de la Loire,46609
+2023,64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,36264
+2023,09,Ariège,Occitanie,5937
+2023,31,Haute-Garonne,Occitanie,63031
+2023,74,Haute-Savoie,Auvergne-Rhône-Alpes,42734
+2023,42,Loire,Auvergne-Rhône-Alpes,24981
+2023,83,Var,Provence-Alpes-Côte d'Azur,56782
+2023,84,Vaucluse,Provence-Alpes-Côte d'Azur,39394
 2024,59,Nord,Hauts-de-France,82228
 2024,49,Maine-et-Loire,Pays de la Loire,43391
 2024,85,Vendée,Pays de la Loire,40384
@@ -300,107 +310,97 @@
 2023,30,Gard,Occitanie,32735
 2023,48,Lozère,Occitanie,3530
 2023,73,Savoie,Auvergne-Rhône-Alpes,31609
-2024,62,Pas-de-Calais,Hauts-de-France,37876
-2024,52,Haute-Marne,Grand Est,4611
-2024,87,Haute-Vienne,Nouvelle-Aquitaine,13469
-2024,07,Ardèche,Auvergne-Rhône-Alpes,13596
-2024,69,Rhône,Auvergne-Rhône-Alpes,85227
-2024,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,22512
-2024,84,Vaucluse,Provence-Alpes-Côte d'Azur,33804
-2024,974,La Réunion,La Réunion,37593
-2024,77,Seine-et-Marne,Ile-de-France,38078
-2024,94,Val-de-Marne,Ile-de-France,41673
-2024,28,Eure-et-Loir,Centre-Val de Loire,14009
-2024,37,Indre-et-Loire,Centre-Val de Loire,27116
-2024,41,Loir-et-Cher,Centre-Val de Loire,14288
-2024,45,Loiret,Centre-Val de Loire,26790
-2024,71,Saône-et-Loire,Bourgogne-Franche-Comté,19835
-2024,89,Yonne,Bourgogne-Franche-Comté,11429
-2024,21,Côte-d'Or,Bourgogne-Franche-Comté,23567
-2024,14,Calvados,Normandie,33362
-2024,19,Corrèze,Nouvelle-Aquitaine,12163
-2024,18,Cher,Centre-Val de Loire,9909
-2025,45,Loiret,Centre-Val de Loire,23024
-2025,80,Somme,Hauts-de-France,15896
-2025,67,Bas-Rhin,Grand Est,36995
-2025,44,Loire-Atlantique,Pays de la Loire,62287
-2025,29,Finistère,Bretagne,34484
-2025,40,Landes,Nouvelle-Aquitaine,25323
-2025,64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,31100
-2025,26,Drôme,Auvergne-Rhône-Alpes,21280
-2025,03,Allier,Auvergne-Rhône-Alpes,8498
-2025,91,Essonne,Ile-de-France,33288
-2025,78,Yvelines,Ile-de-France,37754
-2026,36,Indre,Centre-Val de Loire,5835
-2026,37,Indre-et-Loire,Centre-Val de Loire,23153
-2026,21,Côte-d'Or,Bourgogne-Franche-Comté,19601
-2026,76,Seine-Maritime,Normandie,34218
-2026,80,Somme,Hauts-de-France,15986
-2026,10,Aube,Grand Est,13401
-2026,57,Moselle,Grand Est,23118
-2026,49,Maine-et-Loire,Pays de la Loire,34218
-2026,82,Tarn-et-Garonne,Occitanie,10494
-2026,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,8426
-2026,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,73383
-2026,92,Hauts-de-Seine,Ile-de-France,66129
-2023,78,Yvelines,Ile-de-France,43848
-2023,60,Oise,Hauts-de-France,25953
-2023,59,Nord,Hauts-de-France,94757
-2023,57,Moselle,Grand Est,30199
-2023,88,Vosges,Grand Est,11426
-2023,85,Vendée,Pays de la Loire,44134
-2023,35,Ille-et-Vilaine,Bretagne,54212
-2023,24,Dordogne,Nouvelle-Aquitaine,20333
-2023,66,Pyrénées-Orientales,Occitanie,25544
-2023,01,Ain,Auvergne-Rhône-Alpes,19154
-2023,26,Drôme,Auvergne-Rhône-Alpes,29590
-2023,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,27199
-2023,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,101582
-2024,22,Côtes-d'Armor,Bretagne,26257
-2024,24,Dordogne,Nouvelle-Aquitaine,19614
-2024,38,Isère,Auvergne-Rhône-Alpes,43928
-2024,75,Paris,Ile-de-France,152202
-2024,93,Seine-Saint-Denis,Ile-de-France,66553
-2024,25,Doubs,Bourgogne-Franche-Comté,18061
-2024,23,Creuse,Nouvelle-Aquitaine,3472
-2024,48,Lozère,Occitanie,3606
-2024,90,Territoire de Belfort,Bourgogne-Franche-Comté,3990
-2025,92,Hauts-de-Seine,Ile-de-France,75475
-2025,21,Côte-d'Or,Bourgogne-Franche-Comté,21072
-2025,62,Pas-de-Calais,Hauts-de-France,34857
-2025,10,Aube,Grand Est,12432
-2025,72,Sarthe,Pays de la Loire,18437
-2025,19,Corrèze,Nouvelle-Aquitaine,9068
-2025,81,Tarn,Occitanie,10257
-2025,12,Aveyron,Occitanie,8457
-2025,32,Gers,Occitanie,7323
-2025,74,Haute-Savoie,Auvergne-Rhône-Alpes,31244
-2025,69,Rhône,Auvergne-Rhône-Alpes,72446
-2025,83,Var,Provence-Alpes-Côte d'Azur,44891
-2025,2A,Corse-du-Sud,Corse,11729
-2025,75,Paris,Ile-de-France,131328
-2026,45,Loiret,Centre-Val de Loire,20018
-2026,90,Territoire de Belfort,Bourgogne-Franche-Comté,2839
-2026,61,Orne,Normandie,7002
-2026,55,Meuse,Grand Est,4697
-2026,88,Vosges,Grand Est,8380
-2026,67,Bas-Rhin,Grand Est,35977
-2026,33,Gironde,Nouvelle-Aquitaine,67045
-2026,79,Deux-Sèvres,Nouvelle-Aquitaine,12486
-2026,81,Tarn,Occitanie,10628
-2026,09,Ariège,Occitanie,5493
-2026,69,Rhône,Auvergne-Rhône-Alpes,62841
-2026,03,Allier,Auvergne-Rhône-Alpes,7369
-2023,71,Saône-et-Loire,Bourgogne-Franche-Comté,21550
-2023,70,Haute-Saône,Bourgogne-Franche-Comté,7067
-2023,25,Doubs,Bourgogne-Franche-Comté,20932
-2023,39,Jura,Bourgogne-Franche-Comté,8965
-2023,54,Meurthe-et-Moselle,Grand Est,21859
-2023,49,Maine-et-Loire,Pays de la Loire,46609
-2023,64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,36264
-2023,09,Ariège,Occitanie,5937
-2023,31,Haute-Garonne,Occitanie,63031
-2023,74,Haute-Savoie,Auvergne-Rhône-Alpes,42734
-2023,42,Loire,Auvergne-Rhône-Alpes,24981
-2023,83,Var,Provence-Alpes-Côte d'Azur,56782
-2023,84,Vaucluse,Provence-Alpes-Côte d'Azur,39394
+2024,60,Oise,Hauts-de-France,21067
+2024,88,Vosges,Grand Est,10814
+2024,67,Bas-Rhin,Grand Est,43599
+2024,16,Charente,Nouvelle-Aquitaine,14960
+2024,31,Haute-Garonne,Occitanie,58066
+2024,66,Pyrénées-Orientales,Occitanie,24052
+2024,74,Haute-Savoie,Auvergne-Rhône-Alpes,37272
+2024,06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,52429
+2024,13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,88407
+2024,83,Var,Provence-Alpes-Côte d'Azur,51045
+2025,94,Val-de-Marne,Ile-de-France,40433
+2025,28,Eure-et-Loir,Centre-Val de Loire,12159
+2025,37,Indre-et-Loire,Centre-Val de Loire,24598
+2025,41,Loir-et-Cher,Centre-Val de Loire,11648
+2025,70,Haute-Saône,Bourgogne-Franche-Comté,4907
+2025,90,Territoire de Belfort,Bourgogne-Franche-Comté,3413
+2025,22,Côtes-d'Armor,Bretagne,20947
+2025,24,Dordogne,Nouvelle-Aquitaine,17985
+2025,23,Creuse,Nouvelle-Aquitaine,3046
+2025,09,Ariège,Occitanie,5364
+2025,15,Cantal,Auvergne-Rhône-Alpes,3899
+2025,04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,8016
+2025,971,Guadeloupe,Guadeloupe,14002
+2025,77,Seine-et-Marne,Ile-de-France,36177
+2026,77,Seine-et-Marne,Ile-de-France,33004
+2026,95,Val-d'Oise,Ile-de-France,29103
+2026,78,Yvelines,Ile-de-France,32015
+2026,94,Val-de-Marne,Ile-de-France,31528
+2026,41,Loir-et-Cher,Centre-Val de Loire,11230
+2026,25,Doubs,Bourgogne-Franche-Comté,15035
+2026,39,Jura,Bourgogne-Franche-Comté,7779
+2026,08,Ardennes,Grand Est,5157
+2026,52,Haute-Marne,Grand Est,3745
+2026,17,Charente-Maritime,Nouvelle-Aquitaine,33338
+2026,46,Lot,Occitanie,6206
+2026,73,Savoie,Auvergne-Rhône-Alpes,24325
+2026,43,Haute-Loire,Auvergne-Rhône-Alpes,5780
+2026,63,Puy-de-Dôme,Auvergne-Rhône-Alpes,19857
+2023,972,Martinique,Martinique,16107
+2023,976,Mayotte,Mayotte,7123
+2023,77,Seine-et-Marne,Ile-de-France,43119
+2023,93,Seine-Saint-Denis,Ile-de-France,55817
+2023,41,Loir-et-Cher,Centre-Val de Loire,13604
+2023,76,Seine-Maritime,Normandie,49214
+2023,67,Bas-Rhin,Grand Est,46554
+2023,17,Charente-Maritime,Nouvelle-Aquitaine,42086
+2023,40,Landes,Nouvelle-Aquitaine,26199
+2023,43,Haute-Loire,Auvergne-Rhône-Alpes,8435
+2023,05,Hautes-Alpes,Provence-Alpes-Côte d'Azur,11665
+2023,2B,Haute-Corse,Corse,14862
+2024,08,Ardennes,Grand Est,6511
+2024,54,Meurthe-et-Moselle,Grand Est,20629
+2024,44,Loire-Atlantique,Pays de la Loire,70633
+2024,29,Finistère,Bretagne,38672
+2024,35,Ille-et-Vilaine,Bretagne,52119
+2024,30,Gard,Occitanie,29975
+2024,2B,Haute-Corse,Corse,13712
+2024,58,Nièvre,Bourgogne-Franche-Comté,5517
+2024,39,Jura,Bourgogne-Franche-Comté,8927
+2024,10,Aube,Grand Est,13639
+2024,15,Cantal,Auvergne-Rhône-Alpes,5589
+2024,2A,Corse-du-Sud,Corse,13165
+2025,36,Indre,Centre-Val de Loire,5969
+2025,58,Nièvre,Bourgogne-Franche-Comté,5442
+2025,89,Yonne,Bourgogne-Franche-Comté,10319
+2025,39,Jura,Bourgogne-Franche-Comté,8186
+2025,14,Calvados,Normandie,31658
+2025,61,Orne,Normandie,7854
+2025,54,Meurthe-et-Moselle,Grand Est,18511
+2025,49,Maine-et-Loire,Pays de la Loire,38686
+2025,11,Aude,Occitanie,14228
+2025,01,Ain,Auvergne-Rhône-Alpes,14463
+2025,43,Haute-Loire,Auvergne-Rhône-Alpes,6561
+2025,976,Mayotte,Mayotte,5732
+2025,972,Martinique,Martinique,13013
+2026,75,Paris,Ile-de-France,118850
+2026,28,Eure-et-Loir,Centre-Val de Loire,10506
+2026,89,Yonne,Bourgogne-Franche-Comté,10426
+2026,27,Eure,Normandie,12700
+2026,02,Aisne,Hauts-de-France,13088
+2026,59,Nord,Hauts-de-France,67444
+2026,54,Meurthe-et-Moselle,Grand Est,16761
+2026,53,Mayenne,Pays de la Loire,9669
+2026,23,Creuse,Nouvelle-Aquitaine,2683
+2026,84,Vaucluse,Provence-Alpes-Côte d'Azur,28527
+2026,973,Guyane,Guyane,6290
+2023,75,Paris,Ile-de-France,175522
+2023,37,Indre-et-Loire,Centre-Val de Loire,26797
+2023,89,Yonne,Bourgogne-Franche-Comté,12689
+2023,90,Territoire de Belfort,Bourgogne-Franche-Comté,4281
+2023,80,Somme,Hauts-de-France,20744
+2023,10,Aube,Grand Est,14652
+2023,33,Gironde,Nouvelle-Aquitaine,101436
+2023,46,Lot,Occitanie,8593
