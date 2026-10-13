@@ -41,18 +41,27 @@ st.subheader("💡 Insights clés & Analyse des Exigences")
 c1, c2, c3, c4 = st.columns(4)
 nb_skills_dist = df_skills_rome["competence_code"].nunique() if not df_skills_rome.empty and "competence_code" in df_skills_rome.columns else 0
 nb_rncp_dist = df_certifs_rome["numero_fiche"].nunique() if not df_certifs_rome.empty and "numero_fiche" in df_certifs_rome.columns else 0
+nb_offres_bridge = df_bridge_certifs["offre_id"].nunique() if not df_bridge_certifs.empty and "offre_id" in df_bridge_certifs.columns else 0
+nb_offres_officielles = df_bridge_certifs.loc[df_bridge_certifs["methode_correspondance"] == "correspondance_officielle_france_competences", "offre_id"].nunique() if nb_offres_bridge and "methode_correspondance" in df_bridge_certifs.columns else 0
+nb_offres_complementaires = df_bridge_certifs.loc[df_bridge_certifs["methode_correspondance"] == "mapping_metier_complementaire", "offre_id"].nunique() if nb_offres_bridge and "methode_correspondance" in df_bridge_certifs.columns else 0
+nb_offres_sans_mapping = df_bridge_certifs.loc[df_bridge_certifs["methode_correspondance"] == "absence_mapping_officiel", "offre_id"].nunique() if nb_offres_bridge and "methode_correspondance" in df_bridge_certifs.columns else 0
+part_offres_officielles = nb_offres_officielles / nb_offres_bridge * 100 if nb_offres_bridge else 0
+part_offres_complementaires = nb_offres_complementaires / nb_offres_bridge * 100 if nb_offres_bridge else 0
+part_offres_sans_mapping = nb_offres_sans_mapping / nb_offres_bridge * 100 if nb_offres_bridge else 0
+top_skill = df_kpi_skills.nlargest(1, "nombre_offres").iloc[0] if not df_kpi_skills.empty and "nombre_offres" in df_kpi_skills.columns else None
 
 c1.metric("Compétences distinctes", f"{nb_skills_dist}")
 c2.metric("Certifications RNCP reliées", f"{nb_rncp_dist}")
-c3.metric("Niveau de confiance moyen", "Élevé (68%)", "32% à valider")
-c4.metric("Taux d'offres sans RNCP", "4.2 %", delta="-1.5%", delta_color="inverse")
+c3.metric("Mapping officiel", f"{nb_offres_officielles:,}", f"{part_offres_officielles:.1f} % des offres")
+c4.metric("Sans correspondance", f"{nb_offres_sans_mapping:,}", f"{part_offres_sans_mapping:.1f} % des offres", delta_color="off")
 
 with st.container():
-    st.info("""
+    st.info(f"""
     📌 **Faits marquants :**
-    * **Socle technique Data** : *SQL*, *Python*, *Power BI / Tableau* et la *Modélisation décisionnelle* constituent le quatuor de compétences présent dans plus de 75 % des offres.
-    * **Couverture France Compétences** : Le code ROME **M1419** bénéficie d'un mapping officiel solide avec les fiches RNCP (ex. *RNCP37837*).
-    * **Points de vigilance** : Les métiers hybrides ou spécialisés (G1302, M1423) nécessitent un mapping complémentaire car aucune fiche RNCP officielle n'est rattachée directement par France Travail.
+    * **Compétence la plus reliée** : {f"{top_skill.competence_libelle_rome} ({int(top_skill.nombre_offres)} offres, {int(top_skill.codes_rome_distincts)} codes ROME)" if top_skill is not None else "donnée indisponible"}. Il s'agit des liens présents dans le bridge, pas d'une fréquence estimée sur toutes les offres.
+    * **Correspondances RNCP** : **{nb_offres_officielles:,} offres ({part_offres_officielles:.1f} %)** ont un mapping officiel ; **{nb_offres_complementaires:,} ({part_offres_complementaires:.1f} %)** reposent sur un mapping complémentaire à valider.
+    * **Couverture totale** : **{nb_offres_officielles + nb_offres_complementaires:,} offres ({part_offres_officielles + part_offres_complementaires:.1f} %)** ont une fiche liée ; **{nb_offres_sans_mapping:,} ({part_offres_sans_mapping:.1f} %)** n'en ont pas dans le bridge courant.
+    * Les volumes se rapportent à l'échantillon d'offres collectées et la couverture ne mesure pas la qualité individuelle de chaque correspondance.
     """)
 
 # ==============================================================================

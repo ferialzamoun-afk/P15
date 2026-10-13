@@ -100,18 +100,25 @@ kpi1, kpi2, kpi3, kpi4 = st.columns(4)
 nb_cdi = (df_filtered["typeContrat"] == "CDI").sum() if "typeContrat" in df_filtered.columns else 0
 part_cdi = (nb_cdi / len(df_filtered) * 100) if len(df_filtered) > 0 else 0
 nb_alt = (df_filtered["alternance"] == True).sum() if "alternance" in df_filtered.columns else 0
+part_alt = nb_alt / len(df_filtered) * 100 if len(df_filtered) else 0
+entreprises_absentes = df_filtered["entreprise_nom"].fillna("").str.strip().str.lower().isin(["", "non renseignee", "non renseignée"]) if "entreprise_nom" in df_filtered.columns else pd.Series(False, index=df_filtered.index)
+titres_alternance = df_filtered["intitule"].fillna("").str.contains(r"^\s*(?:alternance|apprentissage)\b", case=False, regex=True) if "intitule" in df_filtered.columns else pd.Series(False, index=df_filtered.index)
+alternance_a_verifier = int((titres_alternance & ~df_filtered["alternance"].fillna(False).astype(bool)).sum()) if "alternance" in df_filtered.columns else 0
+rome_audit = df_filtered[df_filtered["romeCode"].isin(["G1302", "G1211"])] if "romeCode" in df_filtered.columns else pd.DataFrame()
+rome_audit_text = ", ".join(f"{code}: {count} offres" for code, count in rome_audit["romeCode"].value_counts().items()) or "aucun de ces codes dans la sélection"
 
 kpi1.metric("Offres sélectionnées", f"{len(df_filtered):,}")
 kpi2.metric("Part de CDI", f"{part_cdi:.1f} %", f"{nb_cdi} postes")
-kpi3.metric("Postes en Alternance", f"{nb_alt}", f"{nb_alt/len(df_filtered)*100:.1f} %")
+kpi3.metric("Postes en Alternance", f"{nb_alt}", f"{part_alt:.1f} %")
 kpi4.metric("Entreprises distinctes", f"{df_filtered['entreprise_nom'].nunique() if 'entreprise_nom' in df_filtered.columns else 0}")
 
 with st.container():
-    st.warning("""
-    ⚠️ **Audit des Faux Positifs & Incohérences de Classification :**
-    * **Faux positifs ROME** : Plusieurs offres avec intitulé *"Ingénieur Data Analyst"* sont classées en **G1302 (Yield Manager)** ou **M1423 (Chief Data Officer)** par l'algorithme de France Travail.
-    * **Incohérence Alternance / Contrat** : Des offres mentionnent *"alternance"* ou *"apprentissage"* dans l'intitulé tout en étant libellées en CDI ou avec l'attribut `alternance=False`.
-    * **Entreprises masquées** : 35 % des offres ont un employeur `Non renseignée` dans le champ structuré, bien que le nom apparaisse dans le corps du texte (ex. Safran, Thales).
+    st.warning(f"""
+    ⚠️ **Points de contrôle dans la sélection courante :**
+    * **Contrats** : les CDI représentent **{part_cdi:.1f} %** ({int(nb_cdi):,} offres) ; l'attribut alternance est vrai pour **{part_alt:.1f} %** ({int(nb_alt):,}).
+    * **Employeur non renseigné** : **{int(entreprises_absentes.sum()):,} offres ({100 * entreprises_absentes.mean():.1f} %)** n'ont pas de nom d'entreprise structuré. La présence d'un nom dans la description n'est pas vérifiée ici.
+    * **Libellé à contrôler** : **{alternance_a_verifier}** titres commencent par « alternance » ou « apprentissage » alors que l'attribut `alternance` est faux ; ce test lexical signale des cas à vérifier, pas des erreurs confirmées.
+    * **Classement ROME à auditer** : {rome_audit_text}. Ces codes sont des pistes de contrôle, pas une preuve que toutes les offres concernées sont mal classées.
     """)
 
 # ==============================================================================

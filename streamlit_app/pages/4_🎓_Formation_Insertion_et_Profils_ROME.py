@@ -39,21 +39,26 @@ st.subheader("💡 Insights clés & Profils de Demandeurs")
 
 c1, c2, c3, c4 = st.columns(4)
 total_sortants = df_sortants_rome["sortants_total"].sum() if not df_sortants_rome.empty and "sortants_total" in df_sortants_rome.columns else 0
-taux_moyen_acces = df_acces_emploi["taux_moyen"].mean() if not df_acces_emploi.empty and "taux_moyen" in df_acces_emploi.columns else 64.5
+date_sortants = pd.to_datetime(df_sortants_rome["derniere_mise_a_jour"], errors="coerce").max() if not df_sortants_rome.empty and "derniere_mise_a_jour" in df_sortants_rome.columns else pd.NaT
+acces_unique = df_acces_emploi.iloc[0] if len(df_acces_emploi) == 1 and "taux_moyen" in df_acces_emploi.columns else None
+df_acp_clean = df_acp[~df_acp["rome_code"].astype(str).str.startswith(("K", "D", "J"))] if not df_acp.empty and "rome_code" in df_acp.columns else pd.DataFrame()
+nb_clusters_acp = df_acp_clean["cluster_label"].nunique() if not df_acp_clean.empty and "cluster_label" in df_acp_clean.columns else 0
+cluster_counts = df_acp_clean["cluster_label"].value_counts().to_dict() if nb_clusters_acp else {}
+cluster_summary = "; ".join(f"{str(label).replace('_', ' ')} : {count}" for label, count in cluster_counts.items()) or "non disponible"
+variance_pc1 = float(df_acp_clean["var_expliquee_pc1_pct"].iloc[0]) if not df_acp_clean.empty and "var_expliquee_pc1_pct" in df_acp_clean.columns else None
+variance_pc2 = float(df_acp_clean["var_expliquee_pc2_pct"].iloc[0]) if not df_acp_clean.empty and "var_expliquee_pc2_pct" in df_acp_clean.columns else None
 
-c1.metric("Total Demandeurs Sortants", f"{int(total_sortants):,}" if total_sortants else "557")
-c2.metric("Taux d'Accès à l'Emploi Moyen", f"{taux_moyen_acces:.1f} %", "+3.2% vs national")
-c3.metric("Clusters Identifiés (ACP)", f"{df_acp['cluster_label'].nunique() if not df_acp.empty and 'cluster_label' in df_acp.columns else '3'}")
-c4.metric("Délai Moyen d'Insertion", "5.4 mois", "-1.1 mois")
+c1.metric("Somme des volumes sortants", f"{int(total_sortants):,}" if total_sortants else "N/D", f"{len(df_sortants_rome)} codes ROME")
+c2.metric("Accès à l'emploi (périmètre affiché)", f"{float(acces_unique.taux_moyen):.1f} %" if acces_unique is not None else "N/D")
+c3.metric("Groupes ACP affichés", f"{nb_clusters_acp}" if nb_clusters_acp else "N/D")
+c4.metric("Métiers dans l'ACP", f"{len(df_acp_clean)}" if not df_acp_clean.empty else "N/D")
 
 with st.container():
-    st.info("""
+        st.info(f"""
     📌 **Synthèse Socio-Démographique & Insertion :**
-    * **Taux d'insertion élevé** : Les formations spécialisées Data (RNCP Niveau 6 et 7) affichent un taux de retour à l'emploi à 6 mois supérieur à **65 %**.
-    * **Typologie des profils (ACP)** : L'analyse factorielle distingue 3 groupes marqués :
-      1. *Jeunes diplômés en reconversion* (forte composante < 26 ans, forte mobilité).
-      2. *Profils confirmés expérimentés* (40-55 ans, recherche de stabilité CDI régionale).
-      3. *Profils de transition courte* (forte demande de formations modulaires en alternance).
+        * **Volumes sortants** : la somme des agrégats atteint **{int(total_sortants):,}** sur **{len(df_sortants_rome)} codes ROME** ; dernière mise à jour **{date_sortants.strftime('%d/%m/%Y') if pd.notna(date_sortants) else 'inconnue'}**. Ce cumul n'est pas un décompte de personnes distinctes.
+        * **Accès à l'emploi** : {f"{float(acces_unique.taux_moyen):.1f} % pour {acces_unique.territoire} / {acces_unique.formation}, sur {int(acces_unique.periodes)} périodes ({int(acces_unique.observations)} observations)" if acces_unique is not None else f"{len(df_acces_emploi)} combinaisons territoire/formation disponibles ; aucun taux national moyen n'est calculé"}. Le périmètre affiché ne permet pas une comparaison nationale.
+        * **ACP** : **{len(df_acp_clean)} métiers** dans le périmètre affiché, répartis en **{nb_clusters_acp} groupes** ({cluster_summary}). PC1 explique {f'{variance_pc1:.1f} %' if variance_pc1 is not None else 'N/D'} et PC2 {f'{variance_pc2:.1f} %' if variance_pc2 is not None else 'N/D'} de la variance ; les axes ne suffisent pas à déduire des profils d'âge ou de mobilité.
     """)
 
 # ==============================================================================
@@ -69,8 +74,6 @@ tab1, tab2, tab3, tab4 = st.tabs([
 with tab1:
     st.markdown("#### Projection ACP des Métiers ROME Data & Tech (Âge & Genre)")
     if not df_acp.empty and "PC1" in df_acp.columns and "PC2" in df_acp.columns:
-        # Exclusion des codes ROME hors périmètre Data/Tech : K (Services), D (Commerce), J (Santé)
-        df_acp_clean = df_acp[~df_acp["rome_code"].astype(str).str.startswith(('K', 'D', 'J'))]
         st.caption(f"Filtre actif : focalisation sur les métiers Data & Ingénierie ({len(df_acp_clean)} métiers affichés)")
         
         fig_acp = px.scatter(

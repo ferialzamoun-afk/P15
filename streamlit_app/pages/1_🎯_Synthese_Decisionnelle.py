@@ -54,12 +54,15 @@ st.subheader("💡 Insights clés & Indicateurs Stratégiques")
 
 col1, col2, col3, col4 = st.columns(4)
 
-nb_total_offres = len(df_offres_plot) if not df_offres_plot.empty else (int(df_kpi_global["nombre_offres"].iloc[0]) if not df_kpi_global.empty else 0)
-taux_couverture = float(df_kpi_global["couverture_certifications_pct"].iloc[0]) if not df_kpi_global.empty and "couverture_certifications_pct" in df_kpi_global.columns else 36.9
+nb_total_offres = len(df_offres_plot) if not df_offres_plot.empty else 0
+taux_couverture = float(df_kpi_global["couverture_certifications_pct"].iloc[0]) if not df_kpi_global.empty and "couverture_certifications_pct" in df_kpi_global.columns else None
 nb_codes_rome = int(df_kpi_global["nombre_codes_rome"].iloc[0]) if not df_kpi_global.empty and "nombre_codes_rome" in df_kpi_global.columns else (df_offres["romeCode"].nunique() if not df_offres.empty else 0)
 nb_regions = int(df_kpi_global["nombre_regions"].iloc[0]) if not df_kpi_global.empty and "nombre_regions" in df_kpi_global.columns else (df_offres["region"].nunique() if not df_offres.empty else 0)
 nb_offres_global = int(df_kpi_global["nombre_offres"].iloc[0]) if not df_kpi_global.empty and "nombre_offres" in df_kpi_global.columns else 0
-date_col = str(df_kpi_global["derniere_collecte"].iloc[0])[:10] if not df_kpi_global.empty and "derniere_collecte" in df_kpi_global.columns else "inconnue"
+date_collecte = pd.to_datetime(df_kpi_global["derniere_collecte"].iloc[0], errors="coerce") if not df_kpi_global.empty and "derniere_collecte" in df_kpi_global.columns else pd.NaT
+date_col = date_collecte.strftime("%d/%m/%Y") if pd.notna(date_collecte) else "inconnue"
+nb_mappees = int(df_kpi_global["offres_mappees_certification"].iloc[0]) if not df_kpi_global.empty and "offres_mappees_certification" in df_kpi_global.columns else 0
+nb_sans_mapping = int(df_kpi_global["offres_sans_mapping"].iloc[0]) if not df_kpi_global.empty and "offres_sans_mapping" in df_kpi_global.columns else 0
 part_top_regions = 0.0
 if not df_offres.empty and {"id", "region"}.issubset(df_offres.columns):
     nb_ids_global = df_offres["id"].nunique()
@@ -68,20 +71,28 @@ if not df_offres.empty and {"id", "region"}.issubset(df_offres.columns):
             df_offres["region"].isin(["Ile-de-France", "Auvergne-Rhône-Alpes"]), "id"
         ].nunique()
         part_top_regions = 100.0 * nb_ids_top_regions / nb_ids_global
+top_rome = df_kpi_rome.nlargest(1, "nombre_offres").iloc[0] if not df_kpi_rome.empty and "nombre_offres" in df_kpi_rome.columns else None
+top_bmo = df_tension.nlargest(1, "projets_recrutement").iloc[0] if not df_tension.empty and "projets_recrutement" in df_tension.columns else None
+rome_audit = df_kpi_rome[df_kpi_rome["rome_code"].isin(["G1302", "G1211"])] if not df_kpi_rome.empty and "rome_code" in df_kpi_rome.columns else pd.DataFrame()
+rome_audit_text = "; ".join(
+    f"{row.rome_code} ({int(row.nombre_offres)} offres)"
+    for row in rome_audit.itertuples()
+) or "aucun des deux codes ciblés dans le mart"
 
 col1.metric("Volume Total d'Offres", f"{nb_total_offres:,}")
-col2.metric("Couverture Certifications", f"{taux_couverture:.1f} %", delta="Cible > 80 %")
+col2.metric("Couverture RNCP", f"{taux_couverture:.1f} %" if taux_couverture is not None else "N/D")
 col3.metric("Métiers ROME Détectés", f"{nb_codes_rome} codes distincts")
 col4.metric("Régions avec Offres", f"{nb_regions}")
 
 with st.container():
     st.info(f"""
     📌 **Constats majeurs :**
-    * **Comparaison des extractions** : le snapshot du 2026-08-31 comptait **1,047 offres** et **36.9 %** de couverture RNCP. Au **{date_col}**, le mart courant compte **{nb_offres_global:,} offres** et **{taux_couverture:.1f} %** ({nb_offres_global - 1047:+,} offres ; {taux_couverture - 36.9:+.1f} points).
-    * **Lecture prudente** : les dates et périmètres d'extraction diffèrent ; cet écart ne mesure pas à lui seul une croissance du marché.
-    * **Concentration territoriale** : l'Île-de-France et Auvergne-Rhône-Alpes représentent **{part_top_regions:.1f} %** des offres du mart courant.
-    * **Offres vs BMO** : les intentions BMO dépassent les offres publiées pour certains métiers ; les populations et temporalités diffèrent, ce qui ne suffit pas à conclure à un marché caché.
-    * **Alerte Qualité** : Plusieurs offres intègrent des intitulés "Data Analyst" mais sont classées sous des ROME inattendus (ex. *G1302 - Yield Manager*, *G1211 - Performance sportive*).
+    * **Périmètre courant** : **{nb_offres_global:,} offres**, **{nb_codes_rome} codes ROME** et **{nb_regions} régions** ; dernière collecte le **{date_col}**.
+    * **Concentration territoriale** : l'Île-de-France et Auvergne-Rhône-Alpes regroupent **{part_top_regions:.1f} %** des offres.
+    * **Couverture RNCP** : **{nb_mappees:,} offres ({taux_couverture:.1f} %)** ont au moins une fiche associée, mappings complémentaires inclus ; **{nb_sans_mapping:,}** restent sans correspondance.
+    * **Métier le plus représenté** : {f"{top_rome.rome_libelle} ({int(top_rome.nombre_offres):,} offres)" if top_rome is not None else "donnée indisponible"}.
+    * **Lecture BMO** : {f"{top_bmo.nom_metier_bmo} : {int(top_bmo.projets_recrutement):,} projets déclarés, {int(top_bmo.offres_collectees):,} offres collectées et {top_bmo.taux_difficulte_pct:.1f} % de projets difficiles" if top_bmo is not None else "donnée indisponible"}. Les populations et périodes diffèrent, cette comparaison n'est pas un taux de tension.
+    * **Codes à auditer** : {rome_audit_text}. Ces volumes signalent un contrôle de classement à mener, pas une erreur confirmée pour chaque annonce.
     """)
 
 # ==============================================================================

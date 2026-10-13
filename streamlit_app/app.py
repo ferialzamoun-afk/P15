@@ -27,6 +27,7 @@ df_tension = load_parquet("tension_data.parquet")
 df_offres_bmo = load_parquet("offres_vs_bmo_region.parquet")
 df_top_ent = load_parquet("top_entreprises.parquet")
 df_skills_rome = load_parquet("skills_by_rome.parquet")
+df_kpi_skills = load_parquet("kpi_by_competence.parquet")
 df_certifs_rome = load_parquet("certifications_by_rome.parquet")
 df_bridge_certifs = load_parquet("bridge_offres_certifications_all.parquet")
 df_sortants_rome = load_parquet("sortants_demandeurs_by_rome.parquet")
@@ -35,6 +36,7 @@ df_profil_skills = load_parquet("profil_demandeurs_skills.parquet")
 df_acp = load_parquet("acp_rome_profils_age_genre.csv")
 df_cycle = load_parquet("offres_historique_cycle.parquet")
 df_nouvelles_j = load_parquet("nouvelles_offres_par_jour.parquet")
+df_fraicheur = load_parquet("fraicheur_offres.parquet")
 df_evolution_dim = load_parquet("offres_evolution_dimension.parquet")
 
 # ==============================================================================
@@ -125,8 +127,11 @@ nb_offres = len(df_offres_f) if not df_offres_f.empty else 0
 nb_rome = df_offres_f["romeCode"].nunique() if not df_offres_f.empty and "romeCode" in df_offres_f.columns else (int(df_kpi_global["nombre_codes_rome"].iloc[0]) if not df_kpi_global.empty else 0)
 nb_reg = df_offres_f["region"].nunique() if not df_offres_f.empty and "region" in df_offres_f.columns else (int(df_kpi_global["nombre_regions"].iloc[0]) if not df_kpi_global.empty else 0)
 nb_offres_global = int(df_kpi_global["nombre_offres"].iloc[0]) if not df_kpi_global.empty and "nombre_offres" in df_kpi_global.columns else 0
-couv_certif = float(df_kpi_global["couverture_certifications_pct"].iloc[0]) if not df_kpi_global.empty and "couverture_certifications_pct" in df_kpi_global.columns else 36.9
-date_col = str(df_kpi_global["derniere_collecte"].iloc[0])[:10] if not df_kpi_global.empty and "derniere_collecte" in df_kpi_global.columns else "2026-08-31"
+couv_certif = float(df_kpi_global["couverture_certifications_pct"].iloc[0]) if not df_kpi_global.empty and "couverture_certifications_pct" in df_kpi_global.columns else None
+date_collecte = pd.to_datetime(df_kpi_global["derniere_collecte"].iloc[0], errors="coerce") if not df_kpi_global.empty and "derniere_collecte" in df_kpi_global.columns else pd.NaT
+date_col = date_collecte.strftime("%d/%m/%Y") if pd.notna(date_collecte) else "inconnue"
+nb_mappees = int(df_kpi_global["offres_mappees_certification"].iloc[0]) if not df_kpi_global.empty and "offres_mappees_certification" in df_kpi_global.columns else 0
+nb_sans_mapping = int(df_kpi_global["offres_sans_mapping"].iloc[0]) if not df_kpi_global.empty and "offres_sans_mapping" in df_kpi_global.columns else 0
 part_top_regions = 0.0
 if not df_offres.empty and {"id", "region"}.issubset(df_offres.columns):
     nb_ids_global = df_offres["id"].nunique()
@@ -135,11 +140,15 @@ if not df_offres.empty and {"id", "region"}.issubset(df_offres.columns):
             df_offres["region"].isin(["Ile-de-France", "Auvergne-Rhône-Alpes"]), "id"
         ].nunique()
         part_top_regions = 100.0 * nb_ids_top_regions / nb_ids_global
+top_rome = df_kpi_rome.nlargest(1, "nombre_offres").iloc[0] if not df_kpi_rome.empty and "nombre_offres" in df_kpi_rome.columns else None
+top_bmo = df_tension.nlargest(1, "projets_recrutement").iloc[0] if not df_tension.empty and "projets_recrutement" in df_tension.columns else None
+rome_audit = df_kpi_rome[df_kpi_rome["rome_code"].isin(["G1302", "G1211"])] if not df_kpi_rome.empty and "rome_code" in df_kpi_rome.columns else pd.DataFrame()
+rome_audit_text = "; ".join(f"{row.rome_code} ({int(row.nombre_offres)} offres)" for row in rome_audit.itertuples()) or "aucun de ces codes ciblés dans le mart"
 
 col1.metric("Offres (filtrées)", f"{nb_offres:,}")
 col2.metric("Métiers ROME", f"{nb_rome}")
 col3.metric("Régions actives", f"{nb_reg}")
-col4.metric("Couverture Certifications", f"{couv_certif:.1f} %")
+col4.metric("Couverture RNCP", f"{couv_certif:.1f} %" if couv_certif is not None else "N/D")
 col5.metric("Dernière collecte", date_col)
 
 st.divider()
@@ -167,11 +176,12 @@ with tab_page1:
     
     st.info(f"""
     💡 **Insights clés & Alertes qualité :**
-    * **Comparaison des extractions** : le snapshot du 2026-08-31 comptait **1,047 offres** et **36.9 %** de couverture RNCP. Au 2026-09-25, le mart courant compte **{nb_offres_global:,} offres** et **{couv_certif:.1f} %** ({nb_offres_global - 1047:+,} offres ; {couv_certif - 36.9:+.1f} points).
-    * **Lecture prudente** : les dates et périmètres d'extraction diffèrent ; cet écart ne mesure pas à lui seul une croissance du marché.
-    * **Concentration territoriale** : Île-de-France et Auvergne-Rhône-Alpes représentent **{part_top_regions:.1f} %** des offres du mart courant.
-    * **Offres vs BMO** : les intentions BMO dépassent les offres publiées pour certains métiers ; les populations et temporalités diffèrent, ce qui ne suffit pas à conclure à un marché caché.
-    * **Qualité du mapping** : la couverture RNCP du mart courant est de **{couv_certif:.1f} %** ; les métiers hybrides restent à examiner.
+    * **Périmètre source** : **{nb_offres_global:,} offres**, **{int(df_kpi_global['nombre_codes_rome'].iloc[0]) if not df_kpi_global.empty else 0} codes ROME** et **{int(df_kpi_global['nombre_regions'].iloc[0]) if not df_kpi_global.empty else 0} régions** ; dernière collecte le **{date_col}**.
+    * **Concentration territoriale** : l'Île-de-France et Auvergne-Rhône-Alpes regroupent **{part_top_regions:.1f} %** des offres affichées.
+    * **Couverture RNCP** : **{nb_mappees:,} offres ({couv_certif:.1f} %)** ont une fiche associée, mappings complémentaires inclus ; **{nb_sans_mapping:,}** restent sans correspondance.
+    * **Métier le plus représenté** : {f"{top_rome.rome_libelle} ({int(top_rome.nombre_offres):,} offres)" if top_rome is not None else "donnée indisponible"}.
+    * **Comparaison BMO** : {f"{top_bmo.nom_metier_bmo} compte {int(top_bmo.projets_recrutement):,} projets déclarés contre {int(top_bmo.offres_collectees):,} offres collectées ({top_bmo.taux_difficulte_pct:.1f} % de projets difficiles)" if top_bmo is not None else "donnée indisponible"}. Les périmètres et temporalités ne sont pas équivalents.
+    * **Codes à auditer** : {rome_audit_text}. Il s'agit de pistes de contrôle, pas d'erreurs confirmées pour chaque annonce.
     """)
     
     sub1, sub2, sub3, sub4 = st.tabs([
@@ -250,13 +260,23 @@ with tab_page1:
 with tab_page2:
     st.markdown("### 💼 Page 2 — Marché des offres")
     st.markdown("**Question métier :** *Quels postes sont observés, dans quels territoires, avec quels contrats et quelles anomalies de classification ?*")
-    st.markdown("Exploration granulaire des contrats, des employeurs et détection des faux positifs ROME.")
-    
-    st.warning("""
+    st.markdown("Exploration granulaire des contrats, des employeurs et des signaux de classement ROME à contrôler.")
+
+    nb_cdi_global = int(df_offres_f["typeContrat"].eq("CDI").sum()) if not df_offres_f.empty and "typeContrat" in df_offres_f.columns else 0
+    part_cdi_global = 100 * nb_cdi_global / len(df_offres_f) if len(df_offres_f) else 0
+    nb_alt_global = int(df_offres_f["alternance"].fillna(False).sum()) if not df_offres_f.empty and "alternance" in df_offres_f.columns else 0
+    part_alt_global = 100 * nb_alt_global / len(df_offres_f) if len(df_offres_f) else 0
+    employeur_absent_global = df_offres_f["entreprise_nom"].fillna("").str.strip().str.lower().isin(["", "non renseignee", "non renseignée"]) if "entreprise_nom" in df_offres_f.columns else pd.Series(False, index=df_offres_f.index)
+    titre_alt_global = df_offres_f["intitule"].fillna("").str.contains(r"^\s*(?:alternance|apprentissage)\b", case=False, regex=True) if "intitule" in df_offres_f.columns else pd.Series(False, index=df_offres_f.index)
+    alt_a_verifier_global = int((titre_alt_global & ~df_offres_f["alternance"].fillna(False).astype(bool)).sum()) if "alternance" in df_offres_f.columns else 0
+    rome_audit_global = df_offres_f[df_offres_f["romeCode"].isin(["G1302", "G1211"])] if "romeCode" in df_offres_f.columns else pd.DataFrame()
+    rome_audit_global_text = ", ".join(f"{code}: {count}" for code, count in rome_audit_global["romeCode"].value_counts().items()) or "aucun de ces codes"
+    st.warning(f"""
     💡 **Insights clés & Faux Positifs :**
-    * **Faux positifs ROME identifiés** : Présence d'offres libellées *"Ingénieur Data Analyst"* classées sous **G1302 (Yield Manager)** ou **M1423 (Chief Data Officer)**.
-    * **Alternance** : 18 % des offres d'entrée de carrière sont en alternance, mais certaines annonces mentionnent l'alternance dans le texte tout en étant typées CDI.
-    * **Entreprises masquées** : 35 % des offres affichent `Non renseignee`, bien que l'employeur apparaisse dans la description (ex. Safran, Thales).
+    * **Contrats** : **{part_cdi_global:.1f} %** des offres filtrées sont des CDI ; **{part_alt_global:.1f} %** ont l'attribut alternance à vrai.
+    * **Employeur non renseigné** : **{int(employeur_absent_global.sum()):,} ({100 * employeur_absent_global.mean():.1f} %)** des offres filtrées.
+    * **Contrôle lexical alternance** : **{alt_a_verifier_global}** titres commencent par « alternance » ou « apprentissage » sans attribut alternance vrai ; signal à contrôler, pas une anomalie confirmée.
+    * **ROME à auditer** : {rome_audit_global_text}. Les codes et volumes ne suffisent pas à établir une erreur de classement.
     """)
     
     sub_off1, sub_off2, sub_off3, sub_off4 = st.tabs([
@@ -360,11 +380,16 @@ with tab_page3:
     st.markdown("**Question métier :** *Quelles compétences sont demandées, quelles certifications RNCP y sont associées, et quels mappings valider ?*")
     st.markdown("Analyse des exigences techniques et audit du rapprochement avec les fiches RNCP France Compétences.")
     
-    st.info("""
+    nb_bridge_total = df_bridge_certifs["offre_id"].nunique() if not df_bridge_certifs.empty else 0
+    nb_bridge_officiel = df_bridge_certifs.loc[df_bridge_certifs["methode_correspondance"] == "correspondance_officielle_france_competences", "offre_id"].nunique() if nb_bridge_total else 0
+    nb_bridge_complementaire = df_bridge_certifs.loc[df_bridge_certifs["methode_correspondance"] == "mapping_metier_complementaire", "offre_id"].nunique() if nb_bridge_total else 0
+    nb_bridge_absent = df_bridge_certifs.loc[df_bridge_certifs["methode_correspondance"] == "absence_mapping_officiel", "offre_id"].nunique() if nb_bridge_total else 0
+    top_skill_global = df_kpi_skills.nlargest(1, "nombre_offres").iloc[0] if not df_kpi_skills.empty else None
+    st.info(f"""
     💡 **Insights clés :**
-    * **Socle technique incontournable** : *SQL*, *Python*, *Power BI / Tableau* et la *Modélisation décisionnelle* apparaissent dans plus de 75 % des fiches de poste Data.
-    * **Couverture France Compétences** : Le ROME **M1419** bénéficie d'un mapping officiel solide avec les titres RNCP (ex. *RNCP37837*).
-    * **Audit des méthodes** : Traçabilité complète entre correspondances officielles et mappings complémentaires.
+    * **Compétence la plus reliée** : {f"{top_skill_global.competence_libelle_rome} ({int(top_skill_global.nombre_offres)} offres, {int(top_skill_global.codes_rome_distincts)} codes ROME)" if top_skill_global is not None else "donnée indisponible"}. Ces liens viennent du bridge courant.
+    * **Mappings officiels** : **{nb_bridge_officiel:,} offres** ; **{nb_bridge_complementaire:,}** ont un mapping complémentaire à valider.
+    * **Sans correspondance** : **{nb_bridge_absent:,} offres** sur **{nb_bridge_total:,}** dans le périmètre chargé. Ne pas assimiler les mappings complémentaires aux correspondances officielles.
     """)
     
     sub_sk1, sub_sk2, sub_sk3, sub_sk4 = st.tabs([
@@ -409,10 +434,18 @@ with tab_page4:
     st.markdown("**Question métier :** *Quel est le volume de demandeurs sortants par ROME, quel est le taux de retour à l'emploi et quelle est la typologie sociodémographique ?*")
     st.markdown("Croisement des flux de demandeurs d'emploi en fin de formation, de l'insertion professionnelle et de l'Analyse en Composantes Principales (ACP).")
     
-    st.info("""
+    date_sortants_global = pd.to_datetime(df_sortants_rome["derniere_mise_a_jour"], errors="coerce").max() if not df_sortants_rome.empty and "derniere_mise_a_jour" in df_sortants_rome.columns else pd.NaT
+    acces_unique_global = df_acces_emploi.iloc[0] if len(df_acces_emploi) == 1 and "taux_moyen" in df_acces_emploi.columns else None
+    df_acp_global_clean = df_acp[~df_acp["rome_code"].astype(str).str.startswith(("K", "D", "J"))] if not df_acp.empty and "rome_code" in df_acp.columns else pd.DataFrame()
+    acp_clusters_global = df_acp_global_clean["cluster_label"].value_counts().to_dict() if not df_acp_global_clean.empty and "cluster_label" in df_acp_global_clean.columns else {}
+    acp_cluster_text_global = "; ".join(f"{str(label).replace('_', ' ')} : {count}" for label, count in acp_clusters_global.items()) or "non disponible"
+    pc1_global = float(df_acp_global_clean["var_expliquee_pc1_pct"].iloc[0]) if not df_acp_global_clean.empty and "var_expliquee_pc1_pct" in df_acp_global_clean.columns else None
+    pc2_global = float(df_acp_global_clean["var_expliquee_pc2_pct"].iloc[0]) if not df_acp_global_clean.empty and "var_expliquee_pc2_pct" in df_acp_global_clean.columns else None
+    st.info(f"""
     💡 **Insights clés & Typologie ACP :**
-    * **Taux d'insertion élevé** : Les formations spécialisées Data (Niveau 6/7) atteignent un taux d'accès à l'emploi moyen de **64.5 %**.
-    * **Projection factorielle ACP** : Identification de 3 profils types selon l'âge et le genre (Jeunes diplômés mobiles, Profils expérimentés régionaux, Reconversion courte).
+    * **Volumes sortants** : somme des agrégats de **{int(df_sortants_rome['sortants_total'].sum()) if not df_sortants_rome.empty else 0:,}** sur **{len(df_sortants_rome)} codes ROME** ; mise à jour le {date_sortants_global.strftime('%d/%m/%Y') if pd.notna(date_sortants_global) else 'date inconnue'}. Ce n'est pas un nombre de personnes distinctes.
+    * **Accès à l'emploi** : {f"{float(acces_unique_global.taux_moyen):.1f} % pour {acces_unique_global.territoire} / {acces_unique_global.formation} ({int(acces_unique_global.periodes)} périodes)" if acces_unique_global is not None else f"{len(df_acces_emploi)} combinaisons disponibles ; aucun taux national moyen calculé"}. Pas de comparaison nationale dans les marts chargés.
+    * **ACP** : **{len(df_acp_global_clean)} métiers**, {len(acp_clusters_global)} groupes ({acp_cluster_text_global}) ; PC1 explique {f'{pc1_global:.1f} %' if pc1_global is not None else 'N/D'} et PC2 {f'{pc2_global:.1f} %' if pc2_global is not None else 'N/D'} de la variance. Ces axes ne suffisent pas à inventer des profils sociodémographiques.
     """)
     
     sub_f1, sub_f2, sub_f3, sub_f4 = st.tabs([
@@ -472,18 +505,35 @@ with tab_page4:
 # ------------------------------------------------------------------------------
 with tab_page5:
     st.markdown("### ⏱️ Page 5 — Suivi historique et fraîcheur des offres")
-    st.markdown("**Question métier :** *Comment le marché évolue-t-il entre les collectes et quelle est la durée moyenne de pourvoi d'un poste ?*")
-    st.markdown("Analyse du cycle de vie des offres (actives vs disparues) et de la dynamique temporelle.")
-    
-    st.info("""
+    st.markdown("**Question métier :** *Comment les offres réapparaissent-elles au fil des collectes et quelle est la durée de leur suivi dans l'historique ?*")
+    st.markdown("Analyse des observations entre lots ; la présence dans une collecte ne prouve pas qu'une annonce est toujours en ligne.")
+
+    date_cycle_global = pd.to_datetime(df_cycle["date_derniere_observation"], errors="coerce") if not df_cycle.empty and "date_derniere_observation" in df_cycle.columns else pd.Series(dtype="datetime64[ns]")
+    date_cycle_ref = date_cycle_global.max() if not date_cycle_global.empty else pd.NaT
+    jour_cycle_ref = date_cycle_ref.date() if pd.notna(date_cycle_ref) else None
+    nb_cycle_jour = int(date_cycle_global.dt.date.eq(jour_cycle_ref).sum()) if jour_cycle_ref is not None else 0
+    nb_cycle_lot = int(df_cycle["statut_observation"].eq("Active").sum()) if not df_cycle.empty and "statut_observation" in df_cycle.columns else 0
+    nb_nouvelles_cycle_jour = 0
+    if jour_cycle_ref is not None and not df_nouvelles_j.empty and "date_collecte" in df_nouvelles_j.columns:
+        dates_nouvelles_global = pd.to_datetime(df_nouvelles_j["date_collecte"], errors="coerce").dt.date
+        nb_nouvelles_cycle_jour = int(df_nouvelles_j.loc[dates_nouvelles_global.eq(jour_cycle_ref), "nouvelles_offres"].sum())
+    mediane_suivi_global = df_cycle["duree_observation_jours"].median() if not df_cycle.empty and "duree_observation_jours" in df_cycle.columns else None
+    date_debut_global = pd.to_datetime(df_fraicheur["premiere_collecte"].iloc[0], errors="coerce") if not df_fraicheur.empty and "premiere_collecte" in df_fraicheur.columns else pd.NaT
+    nb_collectes_global = int(df_fraicheur["nombre_collectes"].iloc[0]) if not df_fraicheur.empty and "nombre_collectes" in df_fraicheur.columns else 0
+    nb_snapshots_global = int(df_fraicheur["snapshots_collectes"].iloc[0]) if not df_fraicheur.empty and "snapshots_collectes" in df_fraicheur.columns else 0
+    if not df_cycle.empty and "statut_observation" in df_cycle.columns:
+        df_cycle["statut_observation"] = df_cycle["statut_observation"].replace({"Active": "Présente au dernier lot", "Disparue": "Non revue au dernier lot"})
+
+    st.info(f"""
     💡 **Insights clés & Fraîcheur :**
-    * **Cycle de publication** : La durée médiane de visibilité d'une offre est de **34 jours**.
-    * **Tension accrue sur les Lead / Seniors** : Les postes d'Ingénieur et Lead restent actifs jusqu'à **48 jours**, signalant une pénurie relative de candidats qualifiés.
+    * **Dernier jour documenté** : **{nb_cycle_jour:,} offres distinctes** ont été observées le {jour_cycle_ref.strftime('%d/%m/%Y') if jour_cycle_ref else 'dernier jour disponible'}, dont **{nb_nouvelles_cycle_jour:,} premières observations**.
+    * **Durée de suivi** : médiane de **{int(mediane_suivi_global)} jours** entre la première et la dernière observation ; ce n'est ni la durée de publication ni le délai de pourvoi.
+    * **Fraîcheur de l'historique** : {nb_collectes_global:,} horodatages et {nb_snapshots_global:,} snapshots du {date_debut_global.strftime('%d/%m/%Y') if pd.notna(date_debut_global) else 'date inconnue'} au {date_cycle_ref.strftime('%d/%m/%Y') if pd.notna(date_cycle_ref) else 'date inconnue'}. Le dernier lot exact contient {nb_cycle_lot} offres et ne décrit pas à lui seul toutes les annonces en ligne.
     """)
     
     sub_h1, sub_h2, sub_h3 = st.tabs([
         "📈 Nouvelles Offres Observées",
-        "⏳ Histogramme de la Durée de Vie",
+        "⏳ Fenêtre d'observation",
         "🔍 Table du Cycle d'Observation",
     ])
     
@@ -494,8 +544,8 @@ with tab_page5:
             st.plotly_chart(fig_j, use_container_width=True)
             
     with sub_h2:
-        if not df_cycle.empty and "duree_publication_observee_jours" in df_cycle.columns:
-            fig_hist = px.histogram(df_cycle, x="duree_publication_observee_jours", nbins=30, color="statut_observation", title="Distribution de la durée de publication des offres (Jours)")
+        if not df_cycle.empty and "duree_observation_jours" in df_cycle.columns:
+            fig_hist = px.histogram(df_cycle, x="duree_observation_jours", nbins=30, color="statut_observation", title="Durée entre première et dernière observation (jours)")
             fig_hist.update_layout(height=450)
             st.plotly_chart(fig_hist, use_container_width=True)
             
