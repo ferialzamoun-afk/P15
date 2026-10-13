@@ -1,116 +1,138 @@
 ﻿territoire_offre,nombre_offres
-35 - Rennes,16
-18 - Bourges,1
-93 - ST DENIS,5
-92 - COURBEVOIE,3
-37 - Tours,8
-06 - Valbonne,6
-13 - Aix-en-Provence,16
-49 - MONTREUIL BELLAY,1
-93 - Aubervilliers,2
-38 - GRENOBLE,4
-92 - BOULOGNE BILLANCOURT,3
-93 - Seine-Saint-Denis,7
-06 - Gaude,1
-59 - LILLE,7
-91 - Longjumeau,3
-21 - Aiserey,5
-57 - Metz,3
-75 - Paris (Dept.),5
-78 - MANTES LA JOLIE,1
-94 - Rungis,1
-72 - Sablé-sur-Sarthe,2
-26 - Valence,1
-75 - Paris 4e Arrondissement,1
-67 - Bietlenheim,1
-40 - LIPOSTHEY,1
-86 - Poitiers,1
-11 - Carcassonne,1
-75 - Paris 11e Arrondissement,3
-91 - Corbeil-Essonnes,1
-974 - Saint-Paul,1
-69 - Givors,1
-22 - Saint-Brieuc,1
-48 - MENDE,1
-14 - Caen,1
-26 - DONZERE,1
-54 - Fléville-devant-Nancy,1
-35 - Bruz,2
-86 - Chasseneuil-du-Poitou,2
-34 - Sète,1
-76 - ROUEN,1
-38 - ST EGREVE,1
-51 - Sézanne,1
-19 - Brive-la-Gaillarde,3
-95 - BEZONS,1
-77 - SAVIGNY LE TEMPLE,1
-77 - Lieusaint,1
-44 - Saint-Nazaire,1
-31 - Labège,1
-42 - ST ETIENNE,1
-85 - Roche-sur-Yon,1
-25 - Montbéliard,1
-76 - Le Havre,1
-34 - Frontignan,1
-63 - Puy-de-Dôme,1
-76 - MONT ST AIGNAN,1
-972 - Le Lamentin,1
-09 - Pamiers,1
-32 - Auch,1
-67 - Sélestat,2
-23 - Saint-Priest,1
-67 - BENFELD,1
-57 - METZ,1
-78 - Mantes-la-Jolie,1
-34 - Béziers,1
-45 - Montargis,1
-988 - NOUMEA,1
-41 - Blois,1
-92 - Levallois-Perret,18
-92 - ISSY-LES-MOULINEAUX,1
-69 - VILLEURBANNE,20
-69 - Lyon 5e Arrondissement,13
-31 - Toulouse,51
+75 - Paris,687
+92 - Bois-Colombes,12
+75 - Paris 14e Arrondissement,3
+75 - Paris 7e Arrondissement,3
+95 - Val-d'Oise,18
+67 - Nordheim,6
+75 - Paris 9e Arrondissement,75
+84 - Avignon,2
+92 - Colombes,4
+91 - Villebon-sur-Yvette,1
+75 - PARIS 08,2
+94 - Ivry-sur-Seine,2
+78 - Versailles,12
+40 - Tarnos,6
+13 - AIX EN PROVENCE,4
+69 - Lyon 2e Arrondissement,8
+35 - FOUGERES,1
+34 - Montagnac,1
+35 - Domagné,3
+38 - Grenoble,19
+35 - ST MALO,1
+59 - Lesquin,3
+06 - Nice,8
+31 - Blagnac,8
+92 - Issy-les-Moulineaux,24
+38 - Montbonnot-Saint-Martin,2
+38 - ST MARTIN D HERES,1
+45 - ORLEANS,4
+75 - Paris 15e Arrondissement,10
+93 - Bobigny,3
+973 - Saint-Élie,2
+67 - INGWILLER,1
+35 - Châteaubourg,1
+91 - Vert-le-Grand,2
+69 - Lyon 8e Arrondissement,1
+77 - REAU,1
+67 - STRASBOURG,9
+75 - Paris 8e Arrondissement,7
+Ile-de-France,2
+78 - ELANCOURT,1
+64 - Bordes,5
+973 - KOUROU,1
+91 - Bondoufle,1
+92 - MONTROUGE,3
+37 - PARCAY MESLAY,1
+86 - CHASSENEUIL DU POITOU,1
+69 - Rillieux-la-Pape,3
+33 - BASSENS,2
+69 - Lyon 9e Arrondissement,7
+01 - Izernore,1
+03 - Châtillon,1
+06 - Cannes,1
+53 - Laval,1
+22 - Pleudihen-sur-Rance,2
+31 - ISSUS,1
+13 - Marignane,3
+94 - Val-de-Marne,1
+44 - Vertou,1
+91 - EVRY COURCOURONNES,1
+93 - LE BOURGET,1
+84 - LE THOR,1
+09 - PAMIERS,1
+31 - MARTRES TOLOSANE,1
+67 - BISCHHEIM,1
+973 - Saint-Laurent-du-Maroni,1
+85 - CHANVERRIE,2
+53 - Renazé,1
+974 - Saint-Philippe,1
+93 - AULNAY SOUS BOIS,1
+39 - Lons-le-Saunier,1
+62 - Essars,1
+76 - EU,1
+67 - Benfeld,1
+94 - ORLY,2
+35 - Dinard,1
+83 - LA CRAU,1
+69 - VILLEURBANNE,23
+31 - Ramonville-Saint-Agne,3
 87 - Limoges,3
-75 - Paris 2e Arrondissement,7
-29 - Guipavas,2
-78 - Châteaufort,6
-78 - Vélizy-Villacoublay,19
+10 - NOGENT SUR SEINE,4
+69 - Lyon 5e Arrondissement,15
+972 - Schœlcher,1
+78 - Vélizy-Villacoublay,23
+973 - Camopi,1
+13 - MARSEILLE 07,1
+92 - Levallois-Perret,32
+59 - TEMPLEMARS,3
+38 - Échirolles,1
+62 - Billy-Berclau,5
 92 - LEVALLOIS PERRET,8
-13 - Marseille,11
-78 - CONFLANS STE HONORINE,2
+51 - Reims,7
+59 - VILLENEUVE-D'ASCQ,1
+31 - Toulouse,71
+44 - Saint-Herblain,6
+22 - LAMBALLE ARMOR,1
+62 - LENS,1
+81 - Lavaur,1
+13 - Marseille,23
+33 - Gironde,5
+59 - VILLENEUVE D ASCQ,5
+64 - Pau,2
+93 - Courneuve,2
+75 - Paris 2e Arrondissement,7
+31 - Balma,2
 06 - BIOT,10
+06 - Alpes-Maritimes,1
+78 - Châteaufort,6
+94 - Bry-sur-Marne,1
+79 - NIORT,2
+92 - ISSY-LES-MOULINEAUX,1
+29 - Guipavas,2
+78 - CONFLANS STE HONORINE,2
 54 - LUDRES,1
 35 - Lillemer,1
-92 - Plessis-Robinson,3
+92 - Plessis-Robinson,4
+59 - MAING,1
+92 - Sèvres,1
+973 - Matoury,2
+59 - LOOS,1
+78 - Guyancourt,4
+91 - Ulis,2
+13 - Marseille 7e Arrondissement,4
+76 - Havre,2
+63 - Lempdes,1
 59 - Mons-en-Barœul,1
 72 - COULAINES,1
 91 - MASSY,1
 78 - VERSAILLES,1
 38 - Saint-Martin-d'Hères,1
 76 - ISNEAUVILLE,1
-51 - Reims,6
 38 - FONTAINE,1
-91 - Ulis,2
-13 - MARSEILLE 09,1
-92 - Rueil-Malmaison,1
-94 - Saint-Mandé,1
-31 - LABEGE,1
-69 - Saint-Priest,1
-44 - Saint-Herblain,3
-31 - Ramonville-Saint-Agne,3
-10 - NOGENT SUR SEINE,4
-972 - Schœlcher,1
-973 - Camopi,1
-13 - MARSEILLE 07,1
-59 - TEMPLEMARS,2
-38 - Échirolles,1
-62 - Billy-Berclau,2
-59 - VILLENEUVE-D'ASCQ,1
+06 - CAGNES SUR MER,2
 12 - Toulonjac,1
-78 - Guyancourt,2
-59 - VILLENEUVE D ASCQ,3
-55 - MARVILLE,1
+55 - MARVILLE,2
 69 - LYON 06,1
 78 - Mureaux,2
 78 - Aubergenville,1
@@ -119,15 +141,9 @@
 92 - La Garenne-Colombes,1
 94 - LE PERREUX SUR MARNE,1
 10 - Laines-aux-Bois,1
-93 - Courneuve,2
 63 - PERIGNAT SUR ALLIER,1
 22 - Plénée-Jugon,1
-64 - Pau,2
-31 - Balma,1
-33 - Gironde,1
-06 - Alpes-Maritimes,1
-94 - Bry-sur-Marne,1
-06 - CAGNES SUR MER,1
+44 - SAINT-HERBLAIN,1
 45 - Beaune-la-Rolande,2
 10 - Nogent-sur-Seine,1
 06 - MOUANS SARTOUX,1
@@ -135,112 +151,147 @@
 33 - Mios,1
 971 - Baie-Mahault,1
 45 - Saint-Jean-de-Braye,1
-59 - LOOS,1
-79 - NIORT,1
-13 - Marseille 7e Arrondissement,1
-76 - Havre,1
-93 - Drancy,1
-33 - Bordeaux,29
-75 - Paris 12e Arrondissement,11
-34 - Montpellier,22
-92 - Hauts-de-Seine,26
-69 - Chaponnay,4
-92 - ISSY LES MOULINEAUX,6
-69 - Lyon 1er Arrondissement,46
-92 - Nanterre,78
-67 - Strasbourg,10
-75 - Paris 17e Arrondissement,1
-31 - Colomiers,4
-974 - Saint-Denis,4
-29 - Finistère,8
-93 - Saint-Ouen-sur-Seine,6
-78 - Prunay-en-Yvelines,5
-47 - Agen,4
-95 - Frépillon,3
-94 - Villejuif,3
-26 - Beaumont-Monteux,2
-21 - Dijon,5
-France,19
-92 - NEUILLY SUR SEINE,10
-53 - LAVAL,2
-68 - BARTENHEIM,3
-59 - Dunkerque,1
-69 - LYON 02,1
-17 - LA ROCHELLE,1
-91 - Massy,17
-59 - Croix,3
-34 - Pérols,1
-69 - Lyon 4e Arrondissement,4
-49 - Cholet,2
-13 - Gémenos,3
-92 - Bagneux,6
-31 - TOULOUSE,14
-01 - Saint-Martin-du-Frêne,1
-69 - VAULX EN VELIN,1
-94 - Orly,2
-69 - Rhône,5
-59 - Roubaix,3
-50 - Cherbourg-en-Cotentin,1
-77 - Montévrain,1
-95 - Argenteuil,1
-51 - MONTMIRAIL,1
-972 - Fort-de-France,1
-69 - Caluire-et-Cuire,1
-06 - Menton,1
-94 - Maisons-Alfort,1
-74 - Chavanod,2
-78 - Plaisir,1
-77 - CHAMPS-SUR-MARNE,1
-93 - SAINT-OUEN-SUR-SEINE,2
-77 - Moissy-Cramayel,1
-92 - ASNIERES SUR SEINE,1
-13 - Ciotat,1
-94 - Arcueil,2
-35 - CESSON SEVIGNE,1
-94 - IVRY SUR SEINE,1
-91 - Verrières-le-Buisson,1
-80 - Longueau,1
-19 - LARCHE,1
-79 - Crèche,1
+13 - MARSEILLE 09,1
+92 - Rueil-Malmaison,1
+94 - Saint-Mandé,1
+31 - LABEGE,1
+69 - Saint-Priest,1
+44 - Saint-Sébastien-sur-Loire,1
+25 - Besançon,4
+44 - Nantes,78
+75 - Paris 19e Arrondissement,2
+92 - Puteaux,42
+59 - Villeneuve-d'Ascq,15
+25 - BESANCON,1
+78 - GUYANCOURT,3
+67 - BERNOLSHEIM,4
+10 - Saint-André-les-Vergers,3
+78 - Flins-sur-Seine,1
+92 - Boulogne-Billancourt,31
+69 - Lyon 3e Arrondissement,13
+38 - Crolles,1
+93 - Pantin,3
+38 - Isère,3
+93 - Montreuil,3
+49 - Angers,12
+78 - POISSY,2
+76 - Rouen,8
+91 - Palaiseau,3
+77 - Montereau-sur-le-Jard,3
+06 - Antibes,3
+13 - Marseille 2e Arrondissement,11
+44 - Chapelle-sur-Erdre,1
+69 - Lyon 7e Arrondissement,10
+33 - Mérignac,6
+57 - LA MAXE,2
+28 - TOURY,1
+Provence-Alpes-Côte d'Azur,1
+973 - Ouanary,1
+69 - LYON 03,2
+64 - Saint-Pée-sur-Nivelle,1
+28 - Chartres,8
+13 - Marseille 1er Arrondissement,6
+73 - Chambéry,2
+81 - Parisot,5
+44 - LA CHAPELLE-SUR-ERDRE,2
+31 - Villemur-sur-Tarn,1
+67 - SCHILTIGHEIM,2
+69 - Thizy-les-Bourgs,2
+93 - Noisy-le-Grand,2
+76 - ST ETIENNE DU ROUVRAY,1
+75 - Paris 10e Arrondissement,4
+75 - Paris 20e Arrondissement,3
+42 - MACLAS,1
+49 - SAUMUR,1
+92 - Montrouge,8
+44 - Ancenis-Saint-Géréon,3
+78 - Poissy,2
+06 - Cagnes-sur-Mer,1
+69 - Villeurbanne,6
+13 - Marseille 13e Arrondissement,1
+10 - Villacerf,1
+92 - Clichy,4
+95 - Bezons,2
+61 - ALENCON,1
+92 - Saint-Cloud,3
+13 - LA CIOTAT,1
+34 - Mauguio,1
+78 - Sartrouville,1
+69 - Grigny-sur-Rhône,1
+37 - TOURS,1
+91 - Chilly-Mazarin,1
+94 - SUCY-EN-BRIE,1
+92 - GENNEVILLIERS,1
+94 - ALFORTVILLE,1
+73 - Challes-les-Eaux,1
+72 - Coulans-sur-Gée,1
+75 - PARIS 03,1
+06 - Carros,1
+13 - La Ciotat,1
+77 - Châtres,1
+77 - Vert-Saint-Denis,1
+67 - Obernai,1
+974 - Cilaos,1
+69 - MIONS,1
+35 - Saint-Malo,1
+35 - Cesson-Sévigné,4
+39 - Châtillon,4
+56 - Vannes,4
+75 - PARIS,73
+59 - Nord,3
+94 - ARCUEIL,2
+44 - PORNIC,1
+59 - Lille,107
+974 - LA POSSESSION,2
+65 - AZEREIX,1
+95 - ARGENTEUIL,2
+35 - Ille-et-Vilaine,2
+79 - Niort,44
+69 - Lyon,80
+69 - Lyon 6e Arrondissement,6
+92 - ST CLOUD,1
+973 - Sinnamary,2
+973 - Roura,2
+44 - Carquefou,5
+64 - BAYONNE,1
+92 - Gennevilliers,2
+59 - Douai,1
+92 - Neuilly-sur-Seine,8
+16 - Aussac-Vadalle,2
+77 - Champs-sur-Marne,5
+75 - PARIS 11,1
+64 - BORDES,1
+31 - Poucharramet,1
 66 - PERPIGNAN,1
-92 - Neuilly-sur-Seine,5
-75 - PARIS,58
 80 - Oust-Marest,1
 27 - Val-de-Reuil,2
 50 - Sottevast,1
-69 - Lyon 6e Arrondissement,4
-79 - Niort,36
-44 - Carquefou,4
 38 - DOMENE,1
 71 - LE CREUSOT,1
 02 - Saint-Quentin,1
-44 - NANTES,2
-69 - Lyon,50
-59 - Lille,66
-51 - REIMS,1
-56 - Vannes,4
-13 - Marseille 8e Arrondissement,4
-77 - Champs-sur-Marne,4
+44 - NANTES,3
+91 - Essonne,1
+13 - Marseille 8e Arrondissement,6
+47 - AGEN,1
+92 - NANTERRE,4
 44 - Loire-Atlantique,7
+974 - Saint-Joseph,1
+29 - BREST,1
+59 - WASQUEHAL,1
+57 - Marly,1
+94 - Vitry-sur-Seine,3
+77 - Réau,2
+94 - Fontenay-sous-Bois,2
+91 - Paray-Vieille-Poste,1
+51 - REIMS,1
 67 - Alteckendorf,1
-35 - Cesson-Sévigné,4
 57 - Thionville,2
-988 - Nouméa,2
-83 - LA SEYNE SUR MER,1
-59 - Nord,3
-94 - Fontenay-sous-Bois,1
-94 - Vitry-sur-Seine,2
-95 - NEUVILLE SUR OISE,1
-35 - Châteauneuf-d'Ille-et-Vilaine,1
-34 - CASTELNAU LE LEZ,1
-16 - Aussac-Vadalle,2
-39 - Châtillon,2
-94 - ARCUEIL,2
-44 - PORNIC,1
-974 - LA POSSESSION,2
-65 - AZEREIX,1
-95 - ARGENTEUIL,1
-35 - Ille-et-Vilaine,2
+988 - Nouméa,4
+11 - Marseillette,1
+63 - CLERMONT FERRAND,1
+95 - ST OUEN L AUMONE,1
+95 - NEUVILLE SUR OISE,2
+62 - Beuvry,1
 04 - CHATEAU ARNOUX ST AUBAN,1
 92 - SEVRES,1
 45 - Olivet,1
@@ -249,282 +300,322 @@ France,19
 38 - Fontanil-Cornillon,1
 22 - Pommeret,1
 75 - Paris 18e Arrondissement,1
-77 - Réau,2
-64 - BAYONNE,1
-92 - Gennevilliers,1
-59 - Douai,1
-75 - PARIS 11,1
+44 - Montagne,1
+67 - Bischheim,2
+10 - Chapelle-Saint-Luc,1
 26 - VALENCE,1
 91 - Gometz-la-Ville,1
-67 - Bischheim,1
 22 - Plestan,1
-47 - AGEN,1
-92 - NANTERRE,1
-974 - Saint-Joseph,1
-29 - BREST,1
-59 - WASQUEHAL,1
-57 - Marly,1
-Île-de-France,18
-75 - Paris 1er Arrondissement,35
-67 - ILLKIRCH-GRAFFENSTADEN,1
-06 - VALBONNE,12
-01 - Valserhône,7
-38 - Meylan,5
+78 - LE PECQ,1
+83 - LA SEYNE SUR MER,1
+35 - Châteauneuf-d'Ille-et-Vilaine,1
+34 - CASTELNAU LE LEZ,1
+87 - AIXE SUR VIENNE,1
+72 - ROUILLON,1
+13 - Aix-en-Provence,20
+38 - GRENOBLE,4
+75 - Paris 11e Arrondissement,4
+91 - Corbeil-Essonnes,2
+974 - Saint-Paul,1
+21 - Aiserey,6
+35 - Rennes,21
+69 - Givors,1
+37 - Tours,13
+59 - LILLE,7
+22 - Saint-Brieuc,1
+93 - Seine-Saint-Denis,8
+48 - MENDE,1
+06 - Valbonne,8
+14 - Caen,3
+26 - DONZERE,1
+54 - Fléville-devant-Nancy,1
+86 - Poitiers,2
+13 - MARIGNANE,1
+42 - ST ETIENNE,2
+85 - Roche-sur-Yon,1
+25 - Montbéliard,1
+75 - Paris (Dept.),5
+76 - Le Havre,1
+19 - Brive-la-Gaillarde,3
+34 - Frontignan,1
+63 - Puy-de-Dôme,1
+76 - MONT ST AIGNAN,1
+91 - Longjumeau,3
+972 - Le Lamentin,2
+24 - Bergerac,2
+34 - Sète,1
+57 - Metz,4
+93 - Tremblay-en-France,1
+35 - VERN-SUR-SEICHE,1
+34 - Béziers,2
+18 - Bourges,1
+93 - ST DENIS,5
+92 - COURBEVOIE,3
+49 - MONTREUIL BELLAY,1
+93 - Aubervilliers,2
+31 - MURET,1
+69 - Chassieu,1
+973 - Apatou,2
+67 - BENFELD,3
+57 - METZ,1
+67 - Sélestat,2
+78 - Mantes-la-Jolie,1
+45 - Montargis,1
+988 - NOUMEA,1
+41 - Blois,1
+72 - Sablé-sur-Sarthe,2
+44 - CARQUEFOU,2
+94 - Rungis,3
+13 - MARSEILLE,1
+92 - Malakoff,1
+92 - BOULOGNE BILLANCOURT,3
+06 - Gaude,1
+35 - Bruz,2
+86 - Chasseneuil-du-Poitou,2
+76 - ROUEN,1
+38 - ST EGREVE,1
+51 - Sézanne,2
+95 - BEZONS,1
+77 - SAVIGNY LE TEMPLE,1
+77 - Lieusaint,1
+44 - Saint-Nazaire,1
+31 - Labège,1
+31 - Beaufort,1
+09 - Pamiers,1
+32 - Auch,1
+23 - Saint-Priest,1
+27 - Vaudreuil,1
+78 - MANTES LA JOLIE,1
+26 - Valence,1
+75 - Paris 4e Arrondissement,1
+67 - Bietlenheim,1
+40 - LIPOSTHEY,1
+11 - Carcassonne,1
+91 - Viry-Châtillon,1
+85 - LA ROCHE SUR YON,1
+75 - Paris 16e Arrondissement,4
+92 - PUTEAUX,6
+08 - Girondelle,10
+45 - Orléans,7
+69 - LYON 09,2
+92 - Courbevoie,46
+35 - RENNES,2
+93 - Saint-Denis,14
+59 - SECLIN,2
+42 - Roanne,2
+54 - Nancy,2
+78 - MONTIGNY LE BRETONNEUX,4
+45 - Loiret,1
+17 - Rochelle,4
+59 - Lezennes,13
+95 - Roissy-en-France,5
+60 - Tillé,1
+13 - Marseille 16e Arrondissement,1
+87 - LE DORAT,1
+63 - Clermont-Ferrand,16
+72 - Mans,1
+64 - PAU,5
+66 - Perpignan,3
+33 - Pessac,4
+75 - Paris 6e Arrondissement,2
+74 - Annecy,6
+93 - Villepinte,3
+57 - Vantoux,2
+13 - Châteauneuf-les-Martigues,2
+69 - VENISSIEUX,1
+85 - La Roche-sur-Yon,1
+69 - Limonest,3
+67 - Schiltigheim,5
+51 - BEZANNES,1
+92 - Meudon,4
+31 - FROUZINS,1
+18 - ST DOULCHARD,1
+85 - Herbiers,1
+78 - HOUILLES,1
+56 - Lorient,3
+54 - VANDOEUVRE LES NANCY,1
+10 - Troyes,2
+29 - Relecq-Kerhuon,1
+25 - MISEREY-SALINES,1
+36 - Issoudun,1
+91 - EVRY,3
+92 - LA GARENNE COLOMBES,1
+38 - MEYLAN,1
+14 - COLOMBELLES,1
+60 - CHANTILLY,1
+Nouvelle-Aquitaine,1
+34 - MONTPELLIER,5
+42 - Saint-Étienne,3
+32 - L ISLE JOURDAIN,1
+29 - Plouédern,1
+92 - COLOMBES,1
+94 - MAISONS-ALFORT,1
+57 - Ay-sur-Moselle,2
+90 - Belfort,3
+31 - Haute-Garonne,1
+94 - VILLEJUIF,1
+78 - Voisins-le-Bretonneux,2
+63 - Chappes,1
+973 - Cayenne,1
+12 - Aveyron,1
+69 - Limas,1
+Belgique,1
+64 - Pyrénées-Atlantiques,3
+75 - Paris 5e Arrondissement,2
+73 - Albertville,1
+2B - Bastia,1
+77 - Savigny-le-Temple,1
+54 - Meurthe-et-Moselle,2
+95 - Cergy,1
+23 - Boussac-Bourg,1
+22 - Guingamp,1
+69 - DARDILLY,1
+67 - Herrlisheim,1
+79 - GRANZAY-GRIPT,1
+33 - PESSAC,1
 64 - Anglet,4
-Luxembourg,21
+79 - Deux-Sèvres,1
+Luxembourg,27
 69 - LYON,10
+67 - Bitschhoffen,1
+59 - Marcq-en-Barœul,5
+38 - Meylan,5
+59 - MARCQ EN BAROEUL,5
+78 - Magny-les-Hameaux,5
+63 - Ambert,1
+29 - Brest,10
+94 - Charenton-le-Pont,13
+06 - VALBONNE,12
+75 - Paris 13e Arrondissement,9
+33 - MERIGNAC,11
+75 - Paris 1er Arrondissement,51
+29 - Quimper,5
+62 - Montreuil-sur-Mer,2
+13 - Vitrolles,3
+92 - Suresnes,5
+Île-de-France,26
+54 - NANCY,2
+92 - Châtillon,4
+94 - FONTENAY-SOUS-BOIS,8
+37 - ST PIERRE DES CORPS,1
+69 - Civrieux-d'Azergues,1
+01 - Valserhône,9
+78 - JOUY EN JOSAS,3
+972 - FORT DE FRANCE,2
+64 - Boucau,1
+11 - Montolieu,1
+03 - VICHY,1
+33 - BORDEAUX,15
+59 - Avelin,1
+83 - Toulon,4
+67 - ILLKIRCH-GRAFFENSTADEN,1
 68 - COLMAR,1
 92 - MALAKOFF,2
 33 - CESTAS,1
 92 - LEVALLOIS-PERRET,1
 85 - LES HERBIERS,1
 75 - PARIS 09,1
-94 - Créteil,2
-33 - BORDEAUX,15
-29 - Brest,7
-13 - Vitrolles,3
+94 - Créteil,3
 34 - Usclas-d'Hérault,2
-33 - MERIGNAC,10
-94 - Charenton-le-Pont,9
-59 - Marcq-en-Barœul,5
-29 - Quimper,5
 69 - LIMONEST,2
-94 - FONTENAY-SOUS-BOIS,5
-83 - Toulon,3
+49 - Écouflant,1
+35 - Crevin,1
+49 - Candé,1
+76 - Harfleur,1
+974 - Saint-Benoît,1
+40 - Mont-de-Marsan,2
+74 - Cluses,1
+67 - Erstein,1
 06 - NICE,2
 91 - Gif-sur-Yvette,2
 75 - PARIS 01,1
 66 - Boulou,1
 69 - Échalas,1
 53 - Château-Gontier-sur-Mayenne,1
-78 - Magny-les-Hameaux,5
 92 - Garenne-Colombes,1
-92 - Suresnes,4
-75 - Paris 13e Arrondissement,6
 87 - LIMOGES,1
-93 - MONTREUIL,1
-88 - Vosges,1
-72 - LE MANS,2
-67 - Haguenau,1
-93 - NOISY-LE-GRAND,1
-79 - Deux-Sèvres,1
-67 - Bitschhoffen,1
-59 - MARCQ EN BAROEUL,4
-63 - Ambert,1
-62 - Montreuil-sur-Mer,2
-40 - Mont-de-Marsan,2
+91 - VILLEBON SUR YVETTE,1
+57 - Bertrange,2
 76 - Eu,1
-972 - FORT DE FRANCE,2
-78 - JOUY EN JOSAS,3
-37 - ST PIERRE DES CORPS,1
-69 - Civrieux-d'Azergues,1
-64 - Boucau,1
-11 - Montolieu,1
-03 - VICHY,1
-92 - Châtillon,3
-59 - Avelin,1
+72 - LE MANS,2
 69 - LA TOUR DE SALVAGNY,1
 92 - BOULOGNE-BILLANCOURT,1
 56 - PLESCOP,1
-49 - Candé,1
-76 - Harfleur,1
-974 - Saint-Benoît,1
-75 - Paris,466
-93 - Bobigny,2
-75 - Paris 9e Arrondissement,51
-45 - ORLEANS,4
-69 - Lyon 2e Arrondissement,6
-86 - CHASSENEUIL DU POITOU,1
-67 - Nordheim,6
-75 - Paris 8e Arrondissement,5
-67 - STRASBOURG,6
-69 - Rillieux-la-Pape,3
-33 - BASSENS,2
-06 - Nice,6
-69 - Lyon 9e Arrondissement,4
-01 - Izernore,1
-59 - Lesquin,3
-92 - Bois-Colombes,12
-92 - Issy-les-Moulineaux,13
-92 - Colombes,4
-38 - Grenoble,15
-91 - EVRY COURCOURONNES,1
-93 - LE BOURGET,1
-75 - Paris 7e Arrondissement,3
-75 - PARIS 08,2
-13 - Marignane,3
-Ile-de-France,2
-95 - Val-d'Oise,13
-76 - EU,1
-38 - Montbonnot-Saint-Martin,2
-67 - Benfeld,1
-75 - Paris 15e Arrondissement,5
-64 - Bordes,3
-40 - Tarnos,4
-94 - ORLY,1
-22 - Pleudihen-sur-Rance,2
-35 - Dinard,1
-78 - Versailles,3
-75 - Paris 14e Arrondissement,2
-84 - Avignon,2
-91 - Villebon-sur-Yvette,1
-94 - Ivry-sur-Seine,1
-13 - AIX EN PROVENCE,4
-35 - FOUGERES,1
-34 - Montagnac,1
-35 - Domagné,2
-35 - ST MALO,1
-31 - Blagnac,4
-38 - ST MARTIN D HERES,1
-09 - PAMIERS,1
-31 - MARTRES TOLOSANE,1
-67 - BISCHHEIM,1
-92 - MONTROUGE,1
-973 - Saint-Laurent-du-Maroni,1
-85 - CHANVERRIE,2
-91 - Vert-le-Grand,1
-69 - Lyon 8e Arrondissement,1
-77 - REAU,1
-78 - ELANCOURT,1
-973 - KOUROU,1
-53 - Renazé,1
-974 - Saint-Philippe,1
-93 - AULNAY SOUS BOIS,1
-06 - Cannes,1
-53 - Laval,1
-31 - ISSUS,1
-92 - Courbevoie,35
-78 - HOUILLES,1
-92 - PUTEAUX,5
-64 - PAU,5
-56 - Lorient,3
-54 - VANDOEUVRE LES NANCY,1
-10 - Troyes,1
-29 - Relecq-Kerhuon,1
-59 - Lezennes,12
-67 - Schiltigheim,4
-25 - MISEREY-SALINES,1
-75 - Paris 16e Arrondissement,3
-36 - Issoudun,1
-45 - Orléans,7
-91 - EVRY,2
-93 - Saint-Denis,8
-17 - Rochelle,3
-92 - COLOMBES,1
-94 - MAISONS-ALFORT,1
-57 - Ay-sur-Moselle,2
-90 - Belfort,3
-42 - Saint-Étienne,2
-75 - Paris 6e Arrondissement,2
-31 - Haute-Garonne,1
-94 - VILLEJUIF,1
-69 - Limonest,3
-23 - Boussac-Bourg,1
-22 - Guingamp,1
-69 - DARDILLY,1
-34 - MONTPELLIER,5
-67 - Herrlisheim,1
-92 - Meudon,2
-75 - Paris 5e Arrondissement,2
-08 - Girondelle,8
-79 - GRANZAY-GRIPT,1
-66 - Perpignan,3
-33 - PESSAC,1
-63 - Clermont-Ferrand,7
-78 - MONTIGNY LE BRETONNEUX,4
-69 - LYON 09,1
-35 - RENNES,1
-59 - SECLIN,2
-42 - Roanne,2
-54 - Nancy,2
-45 - Loiret,1
-95 - Roissy-en-France,1
-63 - Chappes,1
-973 - Cayenne,1
-93 - Villepinte,3
-12 - Aveyron,1
-74 - Annecy,3
-69 - Limas,1
-Belgique,1
-64 - Pyrénées-Atlantiques,1
-87 - LE DORAT,1
-72 - Mans,1
-33 - Pessac,2
-57 - Vantoux,2
-13 - Châteauneuf-les-Martigues,1
-69 - VENISSIEUX,1
-85 - La Roche-sur-Yon,1
-73 - Albertville,1
-78 - Voisins-le-Bretonneux,1
-2B - Bastia,1
-77 - Savigny-le-Temple,1
-54 - Meurthe-et-Moselle,1
-38 - MEYLAN,1
-14 - COLOMBELLES,1
-60 - CHANTILLY,1
-Nouvelle-Aquitaine,1
-32 - L ISLE JOURDAIN,1
-25 - Besançon,4
-76 - ST ETIENNE DU ROUVRAY,1
-91 - Palaiseau,2
-92 - Boulogne-Billancourt,22
-93 - Noisy-le-Grand,1
-69 - Lyon 7e Arrondissement,9
-75 - Paris 10e Arrondissement,3
-75 - Paris 20e Arrondissement,2
-42 - MACLAS,1
-76 - Rouen,8
-49 - SAUMUR,1
-92 - Puteaux,20
-69 - Lyon 3e Arrondissement,9
-44 - Nantes,65
-92 - Montrouge,7
-49 - Angers,11
-44 - Ancenis-Saint-Géréon,1
-10 - Saint-André-les-Vergers,3
-28 - Chartres,7
-78 - Poissy,2
-78 - GUYANCOURT,3
-13 - Marseille 2e Arrondissement,4
-13 - LA CIOTAT,1
-34 - Mauguio,1
-81 - Parisot,4
-78 - POISSY,2
-78 - Sartrouville,1
-69 - Villeurbanne,2
-59 - Villeneuve-d'Ascq,11
-33 - Mérignac,5
-93 - Montreuil,2
-974 - Cilaos,1
-06 - Antibes,1
-69 - MIONS,1
-93 - Pantin,3
-77 - Montereau-sur-le-Jard,1
-44 - Saint-Sébastien-sur-Loire,1
-75 - Paris 19e Arrondissement,1
-25 - BESANCON,1
-67 - BERNOLSHEIM,4
-78 - Flins-sur-Seine,1
-38 - Crolles,1
-38 - Isère,3
-92 - Saint-Cloud,3
-92 - Clichy,4
-69 - LYON 03,2
-37 - TOURS,1
-57 - LA MAXE,2
-13 - Marseille 1er Arrondissement,5
-91 - Chilly-Mazarin,1
-94 - SUCY-EN-BRIE,1
-44 - Chapelle-sur-Erdre,1
-28 - TOURY,1
-Provence-Alpes-Côte d'Azur,1
-973 - Ouanary,1
-64 - Saint-Pée-sur-Nivelle,1
-75 - PARIS 03,1
-06 - Carros,1
-95 - Bezons,2
-13 - La Ciotat,1
-77 - Châtres,1
-77 - Vert-Saint-Denis,1
-67 - SCHILTIGHEIM,1
-61 - ALENCON,1
+22 - Saint-Quay-Portrieux,1
+93 - MONTREUIL,1
+88 - Vosges,1
+67 - Haguenau,1
+93 - NOISY-LE-GRAND,1
+34 - Castelnau-le-Lez,1
+92 - Nanterre,99
+33 - Bordeaux,42
+94 - Orly,3
+69 - Lyon 4e Arrondissement,4
+13 - Gémenos,4
+69 - Chaponnay,4
+31 - TOULOUSE,18
+59 - Croix,3
+69 - Lyon 1er Arrondissement,59
+92 - Bagneux,7
+France,22
+92 - Hauts-de-Seine,28
+67 - Strasbourg,12
+69 - Rhône,5
+59 - Roubaix,4
+50 - Cherbourg-en-Cotentin,1
+92 - ISSY LES MOULINEAUX,9
+91 - Massy,25
+34 - Montpellier,30
+92 - NEUILLY SUR SEINE,10
+77 - Montévrain,1
+47 - Agen,5
+75 - Paris 12e Arrondissement,17
+95 - Argenteuil,1
+94 - MANDRES LES ROSES,1
+95 - Frépillon,4
+78 - Plaisir,2
+77 - CHAMPS-SUR-MARNE,1
+21 - Dijon,5
+53 - LAVAL,2
+93 - SAINT-OUEN-SUR-SEINE,2
+77 - Moissy-Cramayel,2
+974 - Saint-Denis,4
+78 - Prunay-en-Yvelines,5
+31 - Colomiers,4
+92 - ASNIERES SUR SEINE,1
+93 - Saint-Ouen-sur-Seine,12
+26 - Beaumont-Monteux,2
+95 - Saint-Ouen-l'Aumône,2
+38 - EYBENS,1
+37 - Saint-Pierre-des-Corps,1
+93 - Drancy,1
+75 - Paris 17e Arrondissement,2
+29 - Finistère,8
+94 - Villejuif,3
+64 - Biron,1
+68 - BARTENHEIM,3
+49 - Cholet,2
+94 - IVRY SUR SEINE,1
+91 - Verrières-le-Buisson,1
+80 - Longueau,1
+19 - LARCHE,1
+79 - Crèche,1
+71 - MACON,1
+59 - Dunkerque,1
+69 - LYON 02,3
+17 - LA ROCHELLE,1
+34 - Pérols,1
+12 - Rodez,1
+40 - Aire-sur-l'Adour,1
+51 - MONTMIRAIL,1
+972 - Fort-de-France,1
+69 - Caluire-et-Cuire,1
+06 - Menton,1
+94 - Maisons-Alfort,1
+74 - Chavanod,2
+47 - Marmande,1
+13 - Ciotat,1
+94 - Arcueil,2
+35 - CESSON SEVIGNE,1
+01 - Saint-Martin-du-Frêne,1
+69 - VAULX EN VELIN,1

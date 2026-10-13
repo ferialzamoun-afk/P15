@@ -37,8 +37,10 @@ les périodes, les territoires, les secteurs et les niveaux de qualification.
 ## Organisation du travail
 
 Le projet est développé localement et documenté dans ce dépôt GitHub. Les
-fichiers de travail, les notebooks, les données et les résultats intermédiaires
-ne sont pas publiés dans ce dépôt public.
+notebooks, données sources locales, credentials et résultats intermédiaires
+ne sont pas publiés. Une copie des marts analytiques consommés par l'application
+Streamlit est versionnée sous `streamlit_app/data/processed/marts/` pour
+permettre son hébergement public.
 
 Les recherches et décisions méthodologiques sont conservées dans un journal
 interne afin d'assurer la traçabilité du projet.

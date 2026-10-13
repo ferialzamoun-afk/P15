@@ -1,89 +1,90 @@
 ﻿code_departement,departement,region,nombre_offres
-87,Haute-Vienne,Nouvelle-Aquitaine,5
-27,Eure,Normandie,2
-79,Deux-Sèvres,Nouvelle-Aquitaine,40
-62,Pas-de-Calais,Hauts-de-France,4
-11,Aude,Occitanie,2
-48,Lozère,Occitanie,1
-18,Cher,Centre-Val de Loire,1
-73,Savoie,Auvergne-Rhône-Alpes,1
+79,Deux-Sèvres,Nouvelle-Aquitaine,49
+62,Pas-de-Calais,Hauts-de-France,10
+73,Savoie,Auvergne-Rhône-Alpes,4
+87,Haute-Vienne,Nouvelle-Aquitaine,6
+27,Eure,Normandie,3
+18,Cher,Centre-Val de Loire,2
+11,Aude,Occitanie,3
 36,Indre,Centre-Val de Loire,1
-57,Moselle,Grand Est,13
-78,Yvelines,Ile-de-France,68
-26,Drôme,Auvergne-Rhône-Alpes,5
-59,Nord,Hauts-de-France,131
-85,Vendée,Pays de la Loire,5
-01,Ain,Auvergne-Rhône-Alpes,9
-13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,61
-35,Ille-et-Vilaine,Bretagne,34
-63,Puy-de-Dôme,Auvergne-Rhône-Alpes,11
-66,Pyrénées-Orientales,Occitanie,5
-60,Oise,Hauts-de-France,1
-88,Vosges,Grand Est,1
-75,Paris,Ile-de-France,679
-10,Aube,Grand Est,10
-33,Gironde,Nouvelle-Aquitaine,67
+48,Lozère,Occitanie,1
+75,Paris,Ile-de-France,978
+37,Indre-et-Loire,Centre-Val de Loire,17
+33,Gironde,Nouvelle-Aquitaine,88
+10,Aube,Grand Est,13
 80,Somme,Hauts-de-France,2
-37,Indre-et-Loire,Centre-Val de Loire,10
 90,Territoire de Belfort,Bourgogne-Franche-Comté,3
-69,Rhône,Auvergne-Rhône-Alpes,211
-95,Val-d'Oise,Ile-de-France,23
-973,Guyane,Guyane,5
-68,Haut-Rhin,Grand Est,4
-21,Côte-d'Or,Bourgogne-Franche-Comté,10
-32,Gers,Occitanie,2
-81,Tarn,Occitanie,4
-19,Corrèze,Nouvelle-Aquitaine,5
-12,Aveyron,Occitanie,2
-16,Charente,Nouvelle-Aquitaine,2
-61,Orne,Normandie,1
-55,Meuse,Grand Est,1
-09,Ariège,Occitanie,2
-54,Meurthe-et-Moselle,Grand Est,6
-83,Var,Provence-Alpes-Côte d'Azur,4
-31,Haute-Garonne,Occitanie,82
-25,Doubs,Bourgogne-Franche-Comté,7
-71,Saône-et-Loire,Bourgogne-Franche-Comté,1
-64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,18
-49,Maine-et-Loire,Pays de la Loire,17
-84,Vaucluse,Provence-Alpes-Côte d'Azur,2
-42,Loire,Auvergne-Rhône-Alpes,6
-74,Haute-Savoie,Auvergne-Rhône-Alpes,5
-39,Jura,Bourgogne-Franche-Comté,2
-67,Bas-Rhin,Grand Est,43
-93,Seine-Saint-Denis,Ile-de-France,48
-77,Seine-et-Marne,Ile-de-France,16
-972,Martinique,Martinique,5
-76,Seine-Maritime,Normandie,17
+67,Bas-Rhin,Grand Est,56
+76,Seine-Maritime,Normandie,18
+93,Seine-Saint-Denis,Ile-de-France,65
+77,Seine-et-Marne,Ile-de-France,20
+972,Martinique,Martinique,6
 2B,Haute-Corse,Corse,1
-40,Landes,Nouvelle-Aquitaine,7
-17,Charente-Maritime,Nouvelle-Aquitaine,4
+40,Landes,Nouvelle-Aquitaine,10
+17,Charente-Maritime,Nouvelle-Aquitaine,5
 41,Loir-et-Cher,Centre-Val de Loire,1
-92,Hauts-de-Seine,Ile-de-France,314
-86,Vienne,Nouvelle-Aquitaine,4
-38,Isère,Auvergne-Rhône-Alpes,38
-06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,44
-94,Val-de-Marne,Ile-de-France,39
-29,Finistère,Bretagne,24
-34,Hérault,Occitanie,36
-72,Sarthe,Pays de la Loire,6
-08,Ardennes,Grand Est,8
-14,Calvados,Normandie,2
-02,Aisne,Hauts-de-France,1
-23,Creuse,Nouvelle-Aquitaine,2
-50,Manche,Normandie,2
-04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,1
-91,Essonne,Ile-de-France,37
-53,Mayenne,Pays de la Loire,5
-45,Loiret,Centre-Val de Loire,17
-44,Loire-Atlantique,Pays de la Loire,86
+25,Doubs,Bourgogne-Franche-Comté,7
+49,Maine-et-Loire,Pays de la Loire,19
+84,Vaucluse,Provence-Alpes-Côte d'Azur,3
+31,Haute-Garonne,Occitanie,116
+64,Pyrénées-Atlantiques,Nouvelle-Aquitaine,24
+54,Meurthe-et-Moselle,Grand Est,9
+42,Loire,Auvergne-Rhône-Alpes,8
+09,Ariège,Occitanie,2
+83,Var,Provence-Alpes-Côte d'Azur,6
+71,Saône-et-Loire,Bourgogne-Franche-Comté,2
+74,Haute-Savoie,Auvergne-Rhône-Alpes,9
+39,Jura,Bourgogne-Franche-Comté,5
+91,Essonne,Ile-de-France,54
 974,La Réunion,La Réunion,11
+44,Loire-Atlantique,Pays de la Loire,113
+988,Nouvelle-Calédonie,Collectivités d'outre-mer,5
+28,Eure-et-Loir,Centre-Val de Loire,9
+45,Loiret,Centre-Val de Loire,17
+53,Mayenne,Pays de la Loire,5
 65,Hautes-Pyrénées,Occitanie,1
 971,Guadeloupe,Guadeloupe,1
-47,Lot-et-Garonne,Nouvelle-Aquitaine,5
-51,Marne,Grand Est,9
-988,Nouvelle-Calédonie,Collectivités d'outre-mer,3
-28,Eure-et-Loir,Centre-Val de Loire,8
+47,Lot-et-Garonne,Nouvelle-Aquitaine,7
+51,Marne,Grand Est,12
+03,Allier,Auvergne-Rhône-Alpes,2
+22,Côtes-d'Armor,Bretagne,9
 56,Morbihan,Bretagne,8
-03,Allier,Auvergne-Rhône-Alpes,1
-22,Côtes-d'Armor,Bretagne,7
+92,Hauts-de-Seine,Ile-de-France,429
+06,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,52
+94,Val-de-Marne,Ile-de-France,57
+38,Isère,Auvergne-Rhône-Alpes,43
+34,Hérault,Occitanie,46
+72,Sarthe,Pays de la Loire,8
+29,Finistère,Bretagne,28
+08,Ardennes,Grand Est,10
+86,Vienne,Nouvelle-Aquitaine,5
+14,Calvados,Normandie,4
+02,Aisne,Hauts-de-France,1
+50,Manche,Normandie,2
+04,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,1
+23,Creuse,Nouvelle-Aquitaine,2
+78,Yvelines,Ile-de-France,86
+59,Nord,Hauts-de-France,183
+63,Puy-de-Dôme,Auvergne-Rhône-Alpes,22
+01,Ain,Auvergne-Rhône-Alpes,11
+85,Vendée,Pays de la Loire,7
+13,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,96
+35,Ille-et-Vilaine,Bretagne,45
+57,Moselle,Grand Est,16
+26,Drôme,Auvergne-Rhône-Alpes,5
+24,Dordogne,Nouvelle-Aquitaine,2
+66,Pyrénées-Orientales,Occitanie,5
+60,Oise,Hauts-de-France,2
+88,Vosges,Grand Est,1
+69,Rhône,Auvergne-Rhône-Alpes,282
+81,Tarn,Occitanie,6
+95,Val-d'Oise,Ile-de-France,39
+21,Côte-d'Or,Bourgogne-Franche-Comté,11
+973,Guyane,Guyane,15
+68,Haut-Rhin,Grand Est,4
+32,Gers,Occitanie,2
+19,Corrèze,Nouvelle-Aquitaine,5
+12,Aveyron,Occitanie,3
+55,Meuse,Grand Est,2
+16,Charente,Nouvelle-Aquitaine,2
+61,Orne,Normandie,1
